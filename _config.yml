@@ -191,10 +191,10 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _research
   - scope:
       path: ""
-      type: posts
+      type: research
     values:
       layout: single
       author_profile: true
@@ -202,10 +202,10 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+  # _cv
   - scope:
       path: ""
-      type: pages
+      type: cv
     values:
       layout: single
       author_profile: true
