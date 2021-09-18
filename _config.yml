@@ -191,10 +191,10 @@ collections:
 
 # Defaults
 defaults:
-  # _publications
+  # _pages
   - scope:
       path: ""
-      type: publications
+      type: pages
     values:
       layout: single
       author_profile: true
