@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Claire Boone"
 title_separator          : "-"
 name                     : &name "Claire Boone"
-description              : &description "I'm a PhD Candidate in Health Policy at UC Berkeley"
+description              : &description "I'm a PhD Candidate in Health Economics at UC Berkeley"
 url                      : https://claireboone.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "claireboone.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Claire Boone"
+  avatar           : "cboone_headshot.png"
+  bio              : "I'm a PhD Candidate in Health Policy at UC Berkeley"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "claireboone"
   google_plus      :
   keybase          :
   instagram        :
