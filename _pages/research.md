@@ -5,6 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-coming soon
+coming soon 
 =========
 
