@@ -31,7 +31,7 @@ Missed clinic appointments or no-shows burden health care systems through ineffi
 <br/>  
 <u>Conclusion:</u> Our findings suggest that when implemented at scale SMS reminders show promise in improving chronic care and health; particularly for those who may need it the most (e.g., patients with poor metabolic health). We also provide evidence demonstrating that reducing patient drop-out with a simple and low-cost nudge can have meaningful positive effects on health monitoring, medication adherence, and in-hospital mortality. This is likely to be particularly true in a setting where attendance at primary care determines availability of any subsequent care such as prescriptions, tests, and specialist visits.
 </small>
-</details>
+</details> <br/>
 
 <u>How Can Quality of Healthcare Be Assessed in the 21st Century?</u>  
 <small> With Paul Gertler, Ada Kwan, Nicole Perales.  
