@@ -7,7 +7,7 @@ author_profile: true
 
 ### Working Papers
 [How Spillovers from Appointment Reminders Improve Health Clinic Efficiency](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf) <br/>
-<small>*NBER Working Paper* and *R&R at Journal of Health Economics*, with Pablo Celhay, Paul Gertler, Tadeja Gracner, and Josefina Rodriguez. 
+<small>*NBER Working Paper* and *R&R at Journal of Health Economics*, with Pablo Celhay, Paul Gertler, Tadeja Gracner, and Josefina Rodriguez. </small> 
 <details>
 <summary><small>Abstract</small></summary>
 <small>
@@ -19,7 +19,7 @@ Missed clinic appointments or no-shows burden health care systems through ineffi
 ### In Progress
 <u>The Role of Appointment Reminders in the Management of Chronic Disease</u> <br/>
 <small> with Pablo Celhay, Paul Gertler, and Tadeja Gracner. <br/>
-*Presentations:* ASH Econ 2021, iHEA 2021, CHITA 2020.  
+*Presentations:* ASH Econ 2021, iHEA 2021, CHITA 2020.  </small> 
 <details>
 <summary><small>Abstract</small></summary>
 <small>
@@ -37,7 +37,7 @@ Missed clinic appointments or no-shows burden health care systems through ineffi
 
 <u>How Can Quality of Healthcare Be Assessed in the 21st Century?</u>  
 <small> With Paul Gertler, Ada Kwan, Nicole Perales.  
-*Presentations:* APHA 2021.
+*Presentations:* APHA 2021.</small> 
 <details>
 <summary><small>Abstract</small></summary>
 <small>
@@ -51,7 +51,7 @@ Missed clinic appointments or no-shows burden health care systems through ineffi
 <small> With Joshua Gruber, Paul Gertler, and Ada Kwan.
   
 <u>How do patients demanding unnecessary medicines influence levels of quality of care? A standardized patient experiment in Kenya</u> <br/>
-<small> With Paul Gertler, Ada Kwan, and Giorgia Sulis.
+<small> With Paul Gertler, Ada Kwan, and Giorgia Sulis.</small> 
 ### Publications
 
 
