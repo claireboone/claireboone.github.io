@@ -44,15 +44,18 @@ Missed clinic appointments or no-shows burden health care systems through ineffi
   Across a sample of N=232 clinics, we collected comprehensive quality of care data using N=1195 standardized patient visits – the state-of-the-art method to assess provider practice, N=322 provider surveys with vignettes to measure knowledge, patient exit interviews, and household and clinic surveys. We use these data to examine a program’s effects on three quality of care dimensions: structures (e.g. sources), processes (e.g. diagnostic and treatment actions), and outcomes (e.g. client experience). <br/>
   We found the program improved structures, but these improvements did not translate into better process quality. The program reduced correct care by 12% (p-value<0.05), but standardized patients, real clients, and households did not recognize any changes in quality due to the program. In our study setting where highly competent and well-stocked private providers gave lower quality of care, the Donabedian framework appeared comprehensive, but failed to pinpoint the drivers of process quality. By simultaneously examining structures, processes, and outcomes with multiple measurement methods, we conclude that a new quality of care framework is needed that accounts for market dynamics, accountability of providers, altruistic preferences of providers, effective targeting for the poor and marginalized, and ongoing quality monitoring.
 </small>
-</details>    
+</details><br/>    
   
   
 <u>The Impact of AHME on Pro-Poor Healthcare</u>   
-<small> With Joshua Gruber, Paul Gertler, and Ada Kwan.
+<small> With Joshua Gruber, Paul Gertler, and Ada Kwan.<br/>
   
   
 <u>How do patients demanding unnecessary medicines influence levels of quality of care? A standardized patient experiment in Kenya</u> <br/>
-<small> With Paul Gertler, Ada Kwan, and Giorgia Sulis.</small> 
+<small> With Paul Gertler, Ada Kwan, and Giorgia Sulis.</small><br/>
+  
+  
+  
 ### Publications
 
 
