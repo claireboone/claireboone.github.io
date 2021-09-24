@@ -7,7 +7,7 @@ author_profile: true
 
 ### Working Papers
 [How Spillovers from Appointment Reminders Improve Health Clinic Efficiency](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf) <br/>
-<small>*NBER Working Paper* and *R&R at Journal of Health Economics*, with Pablo Celhay, Paul Gertler, Tadeja Gracner and Josefina Rodriguez. 
+<small>*NBER Working Paper* and *R&R at Journal of Health Economics*, with Pablo Celhay, Paul Gertler, Tadeja Gracner, and Josefina Rodriguez. 
 <details>
 <summary><small>Abstract</small></summary>
 <small>
@@ -35,6 +35,24 @@ Missed clinic appointments or no-shows burden health care systems through ineffi
 </small>
 </details>
 
+<u>How Can Quality of Healthcare Be Assessed in the 21st Century?</u>  
+<small> With Ada Kwan, Nicole Perales, and Paul Gertler.  
+*Presentations:* APHA 2021.
+<details>
+<summary><small>Abstract</small></summary>
+<small>
+As governments commit to universal access to high quality care, questions related to improving quality are eclipsed by questions on how to define and measure quality. We draw from Donabedian’s conceptual framework, which categorizes quality of care dimensions into measurements of structures, processes, and outcomes, to comprehensively evaluate the impact of a randomized, at-scale quality of care improvement program for Kenya’s private sector. <br/>
+Across a sample of N=232 clinics, we collected comprehensive quality of care data using N=1195 standardized patient visits – the state-of-the-art method to assess provider practice, N=322 provider surveys with vignettes to measure knowledge, patient exit interviews, and household and clinic surveys. We use these data to examine a program’s effects on three quality of care dimensions: structures (e.g. sources), processes (e.g. diagnostic and treatment actions), and outcomes (e.g. client experience). <br/>
+We found the program improved structures, but these improvements did not translate into better process quality. The program reduced correct care by 12% (p-value<0.05), but standardized patients, real clients, and households did not recognize any changes in quality due to the program. In our study setting where highly competent and well-stocked private providers gave lower quality of care, the Donabedian framework appeared comprehensive, but failed to pinpoint the drivers of process quality. By simultaneously examining structures, processes, and outcomes with multiple measurement methods, we conclude that a new quality of care framework is needed that accounts for market dynamics, accountability of providers, altruistic preferences of providers, effective targeting for the poor and marginalized, and ongoing quality monitoring.
+</small>
+</details>    
+  
+<u>The Impact of AHME on Pro-Poor Healthcare</u>   
+<small> With Ada Kwan, Joshua Gruber, and Paul Gertler.
+  
+<u>How do patients demanding unnecessary medicines influence levels of quality of care? A standardized patient experiment in Kenya</u>
+<small> With Ada Kwan, Giorgia Sulis, and Paul Gertler. 
+  
 ### Publications
 
 
