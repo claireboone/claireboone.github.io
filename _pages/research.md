@@ -36,7 +36,7 @@ Missed clinic appointments or no-shows burden health care systems through ineffi
 </details>
 
 <u>How Can Quality of Healthcare Be Assessed in the 21st Century?</u>  
-<small> With Ada Kwan, Nicole Perales, and Paul Gertler.  
+<small> With Paul Gertler, Ada Kwan, Nicole Perales.  
 *Presentations:* APHA 2021.
 <details>
 <summary><small>Abstract</small></summary>
@@ -48,11 +48,10 @@ Missed clinic appointments or no-shows burden health care systems through ineffi
 </details>    
   
 <u>The Impact of AHME on Pro-Poor Healthcare</u>   
-<small> With Ada Kwan, Joshua Gruber, and Paul Gertler.
+<small> With Joshua Gruber, Paul Gertler, and Ada Kwan.
   
 <u>How do patients demanding unnecessary medicines influence levels of quality of care? A standardized patient experiment in Kenya</u> <br/>
-<small> With Ada Kwan, Giorgia Sulis, and Paul Gertler. 
-  
+<small> With Paul Gertler, Ada Kwan, and Giorgia Sulis.
 ### Publications
 
 
