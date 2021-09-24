@@ -3,7 +3,7 @@ title: "Research"
 permalink: /research/
 ---
 
-### Working Papers
+## Working Papers
 [How Spillovers from Appointment Reminders Improve Health Clinic Efficiency](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf) <br/>
 <small>*NBER Working Paper* and *R&R at Journal of Health Economics*, with Pablo Celhay, Paul Gertler, Tadeja Gracner, and Josefina Rodriguez. </small> 
 <details>
@@ -14,7 +14,7 @@ Missed clinic appointments or no-shows burden health care systems through ineffi
 </details>  
   
   
-### In Progress
+## In Progress
 <u>The Role of Appointment Reminders in the Management of Chronic Disease</u> <br/>
 <small> with Pablo Celhay, Paul Gertler, and Tadeja Gracner. <br/>
 *Presentations:* ASH Econ 2021, iHEA 2021, CHITA 2020.  </small> 
@@ -56,6 +56,6 @@ Missed clinic appointments or no-shows burden health care systems through ineffi
   
   
   
-### Publications
+## Publications
 
 
