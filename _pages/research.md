@@ -17,9 +17,9 @@ Missed clinic appointments or no-shows burden health care systems through ineffi
   
   
 ### In Progress
-The Role of Appointment Reminders in the Management of Chronic Disease <br/>
+<u>The Role of Appointment Reminders in the Management of Chronic Disease</u> <br/>
 <small> with Pablo Celhay, Paul Gertler, and Tadeja Gracner. <br/>
-*Presentations* ASH Econ 2021, iHEA 2021, CHITA 2020.  
+*Presentations:* ASH Econ 2021, iHEA 2021, CHITA 2020.  
 <details>
 <summary><small>Abstract</small></summary>
 <small>
