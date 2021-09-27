@@ -64,6 +64,7 @@ coming soon
 <summary><small>Abstract</small></summary>
 <small>
 coming soon
+</small>  
 </details><br/>    
   
   
