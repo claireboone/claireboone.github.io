@@ -51,6 +51,7 @@ We found the program improved structures, but these improvements did not transla
   
 <u>The Impact of AHME on Pro-Poor Healthcare</u>   
 <small> With Joshua Gruber, Paul Gertler, and Ada Kwan.<br/>
+[AHME AEA Registry](https://www.socialscienceregistry.org/trials/217)<br/>  
 <details>
 <summary><small>Abstract</small></summary>
 <small>
