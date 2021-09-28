@@ -60,7 +60,7 @@ Increasing use of the private health sector has been suggested as a method to re
 </details><br/>  
   
 <u>How do patients demanding unnecessary medicines influence levels of quality of care? A standardized patient experiment in Kenya</u> <br/>
-<small> With Paul Gertler, Ada Kwan, and Giorgia Sulis.</small><br/>
+<small> With Paul Gertler, Ada Kwan, and Giorgia Sulis.</small> [AHME AEA Registry](https://www.socialscienceregistry.org/trials/217)<br/> 
 <details>
 <summary><small>Abstract</small></summary>
 <small>
