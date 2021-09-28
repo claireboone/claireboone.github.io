@@ -50,8 +50,7 @@ We found the program improved structures, but these improvements did not transla
   
   
 <u>The Impact of AHME on Pro-Poor Healthcare</u>   
-<small> With Joshua Gruber, Paul Gertler, and Ada Kwan.<br/>
-[AHME AEA Registry](https://www.socialscienceregistry.org/trials/217)<br/>  
+<small> With Joshua Gruber, Paul Gertler, and Ada Kwan. [AHME AEA Registry](https://www.socialscienceregistry.org/trials/217)</small><br/>  
 <details>
 <summary><small>Abstract</small></summary>
 <small>
@@ -60,7 +59,7 @@ Increasing use of the private health sector has been suggested as a method to re
 </details><br/>  
   
 <u>How do patients demanding unnecessary medicines influence levels of quality of care? A standardized patient experiment in Kenya</u> <br/>
-<small> With Paul Gertler, Ada Kwan, and Giorgia Sulis.</small> [AHME AEA Registry](https://www.socialscienceregistry.org/trials/217)<br/> 
+<small> With Paul Gertler, Ada Kwan, and Giorgia Sulis. [AHME AEA Registry](https://www.socialscienceregistry.org/trials/217)</small><br/> 
 <details>
 <summary><small>Abstract</small></summary>
 <small>
