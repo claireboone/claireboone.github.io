@@ -53,7 +53,7 @@ We found the program improved structures, but these improvements did not transla
 <details>
 <summary><small>Abstract</small></summary>
 <small>
-coming soon
+Increasing use of the private health sector has been suggested as a method to reduce healthcare inequity in Sub-Saharan Africa, where populations with the most need seek the least care. We study the simultaneous supply and demand-side effects of AHME, a management intervention that aimed to improve the quality and accessibility of private-sector clinics in Kenya. AHME focused on access to public health insurance, where the government is the payer, as a mechanism to increase use of affordable, high-quality private care for poor individuals. The program was successful in increasing the share of clinics accepting national insurance, the share of households enrolled in national health insurance, and in turn the share of clinics' clients from lower wealth quintiles. Efforts to reduce the cost of care must also ensure that the quality of care is maintained. We use standardized patient (SP) experiments to measure overall quality, and quality of care for SPs who present as poor. SPs presented as poor by telling the provider they could only afford KSH 300 in fees. When faced with a SP with a budget constraint, providers reduced the quantity of both necessary and unnecessary care, resulting in lower quality for these clients. While public insurance is a promising mechanism to connect low-income households to private care, more work must be done to ensure clients of all wealth levels receive high quality care.
 </small>
 </details><br/>  
   
