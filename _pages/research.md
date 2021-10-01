@@ -87,7 +87,7 @@ permalink: /research/
 <br> 
 <u>Interpretation:</u> Private providers appear to account for both business-driven benefits as well as individual health impacts when making prescribing decisions. Additional research is needed on provider`s knowledge and perceptions of the extent to which different unnecessary medicines can be harmful to distinguish why they make such prescribing decisions when patients demand specific incorrect care. </p> 
 </small>  
-</details
+</details>
 </div>   
 <br/>    
   
