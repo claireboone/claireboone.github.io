@@ -87,7 +87,7 @@ permalink: /research/
 </small>  
 </details
 </div>   
-><br/>    
+<br/>    
   
   
 ## Publications
