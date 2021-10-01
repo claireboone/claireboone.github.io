@@ -91,7 +91,7 @@ permalink: /research/
 </div>   
 <br/>    
   
-<br/>   
+ 
 ## Publications
 <br/> 
 
