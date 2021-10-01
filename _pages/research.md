@@ -6,12 +6,14 @@ permalink: /research/
 ## Working Papers
 [How Spillovers from Appointment Reminders Improve Health Clinic Efficiency](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf) <br/>
 <small>*NBER Working Paper* and *R&R at Journal of Health Economics*, with Pablo Celhay, Paul Gertler, Tadeja Gracner, and Josefina Rodriguez.</small> 
+<div style="margin-left: 1em;">
 <details>
 <summary><small>Abstract</small></summary>
 <small> 
 <p>Missed clinic appointments or no-shows burden health care systems through inefficient use of staff time and resources. Scheduling software combined with automatically sent appointment reminders shows promise to improve clinics’ management through timely cancellations and re-scheduling, but at-scale evidence is missing. We study a nationwide text message appointment reminder program in Chile implemented at primary care clinics for patients with chronic disease. Using longitudinal clinic-level data, we find that the program did not change the number of visits by chronic patients eligible to receive the reminder, but visits from other patients ineligible to receive reminders increased by 5.0% in the first year and 7.4% in the second. Clinics treating more chronic patients and those with a relatively younger patient population benefited more from the program. Scheduling systems combined with automatic appointment reminders were effective in increasing clinics’ ability to care for more patients, likely due to timely cancellations and re-scheduling.</p>  
 </small>
-</details>   
+</details>  
+</div>  
 <br/> 
 
 
@@ -46,7 +48,7 @@ permalink: /research/
 <details>
 <summary><small>Abstract</small></summary>
 <small>
-<p><u>Background:</u> As governments commit to universal access to high quality care, questions related to improving quality are eclipsed by questions on how to define and measure quality. We draw from Donabedian’s conceptual framework, which categorizes quality of care dimensions into measurements of structures, processes, and outcomes, to comprehensively evaluate the impact of a randomized, at-scale quality of care improvement program for Kenya’s private sector.</p><br/>
+<p><u>Background:</u> As governments commit to universal access to high quality care, questions related to improving quality are eclipsed by questions on how to define and measure quality. We draw from Donabedian’s conceptual framework, which categorizes quality of care dimensions into measurements of structures, processes, and outcomes, to comprehensively evaluate the impact of a randomized, at-scale quality of care improvement program for Kenya’s private sector.<br/>
  <br/> 
 <u>Methods:</u> Across a sample of N=232 clinics, we collected comprehensive quality of care data using N=1195 standardized patient visits – the state-of-the-art method to assess provider practice, N=322 provider surveys with vignettes to measure knowledge, patient exit interviews, and household and clinic surveys. We use these data to examine a program’s effects on three quality of care dimensions: structures (e.g. sources), processes (e.g. diagnostic and treatment actions), and outcomes (e.g. client experience). <br/>
   <br/>
