@@ -12,4 +12,6 @@ I am a PhD candidate in [Health Policy, Health Economics](https://publichealth.b
 
 My research focuses on using behavioral economics to understand and improve health services delivery. 
 
+I am on the 2021-2022 job market.
+
 
