@@ -17,6 +17,37 @@ permalink: /research/
 <br/> 
 
 
+<u>How Can Quality of Healthcare Be Assessed in the 21st Century?</u>  
+<small> With Paul Gertler, Ada Kwan, Nicole Perales.  
+*Presentations:* APHA 2021.</small> 
+<div style="margin-left: 1em;">
+<details>
+<summary><small>Abstract</small></summary>
+<small>
+<p><u>Background:</u> As governments commit to universal access to high quality care, questions related to improving quality are eclipsed by questions on how to define and measure quality. We draw from Donabedian’s conceptual framework, which categorizes quality of care dimensions into measurements of structures, processes, and outcomes, to comprehensively evaluate the impact of a randomized, at-scale quality of care improvement program for Kenya’s private sector.<br/>
+ <br/> 
+<u>Methods:</u> Across a sample of N=232 clinics, we collected comprehensive quality of care data using N=1195 standardized patient visits – the state-of-the-art method to assess provider practice, N=322 provider surveys with vignettes to measure knowledge, patient exit interviews, and household and clinic surveys. We use these data to examine a program’s effects on three quality of care dimensions: structures (e.g. sources), processes (e.g. diagnostic and treatment actions), and outcomes (e.g. client experience). <br/>
+  <br/>
+<u>Results:</u> We found the program improved structures, but these improvements did not translate into better process quality. The program reduced correct care by 12% (p-value<0.05), but standardized patients, real clients, and households did not recognize any changes in quality due to the program. In our study setting where highly competent and well-stocked private providers gave lower quality of care, the Donabedian framework appeared comprehensive, but failed to pinpoint the drivers of process quality. By simultaneously examining structures, processes, and outcomes with multiple measurement methods, we conclude that a new quality of care framework is needed that accounts for market dynamics, accountability of providers, altruistic preferences of providers, effective targeting for the poor and marginalized, and ongoing quality monitoring.</p>  
+</small>
+</details> 
+</div> 
+<br/> 
+  
+  
+<u>The Impact of AHME on Pro-Poor Healthcare</u>   
+<small> With Joshua Gruber, Paul Gertler, and Ada Kwan. [AHME RCT Registry](https://www.socialscienceregistry.org/trials/217)</small><br/>  
+<div style="margin-left: 1em;">
+<details>
+<summary><small>Abstract</small></summary>
+<small>
+<p>Private health sector engagement has been suggested as a health reform component to reduce healthcare inequities in Sub-Saharan Africa, where populations with the most need seek the least care. We study the simultaneous supply- and demand-side effects of AHME, a management intervention that aimed to improve the quality and accessibility of private-sector clinics in Kenya. AHME focused on access to public health insurance, where the government is the payer, as a mechanism to increase use of affordable, high-quality private care for poor individuals. The program was successful in increasing the share of clinics accepting national insurance, the share of households enrolled in national health insurance, and in turn the share of clinics' clients from lower wealth quintiles. Efforts to reduce the cost of care must also ensure that the quality of care is maintained. We conducted standardized patient (SP) experiments to measure the effects of not being able to afford full services on quality of care. SPs presented as poor by telling the provider they could only afford KSH 300 in fees. We find that when faced with a client with a budget constraint, providers reduced the quantity of both necessary and unnecessary care, resulting in lower quality of care for 'poor' clients. While public insurance is a promising mechanism to connect low-income households to private care, more work must be done to ensure clients of all wealth levels receive high quality care.</p>
+</small>
+</details> 
+</div> 
+<br/>
+
+
 
 ## In Progress
 <u>The Role of Appointment Reminders in the Management of Chronic Disease</u> <br/>
@@ -57,21 +88,7 @@ permalink: /research/
 </details> 
 </div> 
 <br/> 
-  
-  
-<u>The Impact of AHME on Pro-Poor Healthcare</u>   
-<small> With Joshua Gruber, Paul Gertler, and Ada Kwan. [AHME RCT Registry](https://www.socialscienceregistry.org/trials/217)</small><br/>  
-<div style="margin-left: 1em;">
-<details>
-<summary><small>Abstract</small></summary>
-<small>
-<p>Private health sector engagement has been suggested as a health reform component to reduce healthcare inequities in Sub-Saharan Africa, where populations with the most need seek the least care. We study the simultaneous supply- and demand-side effects of AHME, a management intervention that aimed to improve the quality and accessibility of private-sector clinics in Kenya. AHME focused on access to public health insurance, where the government is the payer, as a mechanism to increase use of affordable, high-quality private care for poor individuals. The program was successful in increasing the share of clinics accepting national insurance, the share of households enrolled in national health insurance, and in turn the share of clinics' clients from lower wealth quintiles. Efforts to reduce the cost of care must also ensure that the quality of care is maintained. We conducted standardized patient (SP) experiments to measure the effects of not being able to afford full services on quality of care. SPs presented as poor by telling the provider they could only afford KSH 300 in fees. We find that when faced with a client with a budget constraint, providers reduced the quantity of both necessary and unnecessary care, resulting in lower quality of care for 'poor' clients. While public insurance is a promising mechanism to connect low-income households to private care, more work must be done to ensure clients of all wealth levels receive high quality care.</p>
-</small>
-</details> 
-</div> 
-<br/>
-  
-  
+    
   
 <u>Do private providers give patients what they demand, even if it's unnecessary? A standardized patient experiment in Kenya</u> <br/>
 <small> With Paul Gertler, Ada Kwan, and Giorgia Sulis. [AHME RCT Registry](https://www.socialscienceregistry.org/trials/217)</small><br/> 
