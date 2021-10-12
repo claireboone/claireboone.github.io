@@ -5,7 +5,7 @@ permalink: /research/
 
 ## Working Papers
 [How Spillovers from Appointment Reminders Improve Health Clinic Efficiency](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf) <br/>
-<small>*NBER Working Paper* and *R&R at Journal of Health Economics*, with Pablo Celhay, Paul Gertler, Tadeja Gracner, and Josefina Rodriguez.</small> 
+<small>*NBER Working Paper* and *Revision requested at Journal of Health Economics*, with Pablo Celhay, Paul Gertler, Tadeja Gracner, and Josefina Rodriguez.</small> 
 <div style="margin-left: 1em;">
 <details>
 <summary><small>Abstract</small></summary>
@@ -123,8 +123,8 @@ permalink: /research/
   
  
 ## Publications
-<u>[StayWell at Home: A Text Messaging Intervention to Counteract Depression and Anxiety during COVID-19 Social Distancing](https://preprints.jmir.org/preprint/25298/accepted)</u> <br/>
-<small> Adrian Aguilera;  Rosa Hernandez-Ramos;  Alein Haro;  <u>Claire E Boone</u>;  Tiffany Luo;  Jing Xu;  Bibhas Chakraborty;  Christopher Karr;  Sabrina Darrow;  Caroline A Figueroa 
+<u>[StayWell at Home: A Text Messaging Intervention to Counteract Depression and Anxiety during COVID-19 Social Distancing](https://preprints.jmir.org/preprint/25298/accepted)</u> <br/> 
+<small>*JMIR Mental Health* 2021. [Protocal](https://www.researchprotocols.org/2021/1/e23592). Adrian Aguilera;  Rosa Hernandez-Ramos;  Alein Haro;  <u>Claire E Boone</u>;  Tiffany Luo;  Jing Xu;  Bibhas Chakraborty;  Christopher Karr;  Sabrina Darrow;  Caroline A Figueroa 
 </small><br/> 
 <div style="margin-left: 1em;">
 <details>
