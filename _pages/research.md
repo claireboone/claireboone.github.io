@@ -106,9 +106,41 @@ permalink: /research/
 </small>  
 </details>
 </div>   
-<br/>    
+<br/>  
+
+
+<u>The Long-term Health Impact of In-Utero Exposure to Excessive Intake of Sugar</u> <br/>
+<small> With Paul Gertler and Tadeja Gracner.</small><br/> 
+<div style="margin-left: 1em;">
+<details>
+<summary><small>Abstract</small></summary>
+<small>
+<p> </p>  
+</small>  
+</details>
+</div>   
+<br/>  
   
  
 ## Publications
-<br/> 
+<u>[StayWell at Home: A Text Messaging Intervention to Counteract Depression and Anxiety during COVID-19 Social Distancing](https://preprints.jmir.org/preprint/25298/accepted)</u> <br/>
+<small> Adrian Aguilera;  Rosa Hernandez-Ramos;  Alein Haro;  <u>Claire E Boone</u>;  Tiffany Luo;  Jing Xu;  Bibhas Chakraborty;  Christopher Karr;  Sabrina Darrow;  Caroline A Figueroa 
+</small><br/> 
+<div style="margin-left: 1em;">
+<details>
+<summary><small>Abstract</small></summary>
+<small>
+<p><u>Background:</u> Social distancing and stay-at-home orders are critical interventions to slow down person-to-person transmission of COVID-19. While these societal changes help to contain the pandemic, they also have unintended negative consequences, including anxiety and depression. We developed StayWell, a daily skills-based SMS text messaging program, to mitigate COVID-19 related depression and anxiety symptoms among people who speak English and Spanish in the United States.<br> 
+<br> 
+<u>Objective:</u> This paper describes the changes in the anxiety and depression levels of participants in the StayWell program after 60 days of exposure to skills-based SMS text messages.<br> 
+<br> 
+<u>Methods:</u> We used self-administered, empirically supported web-based questionnaires to assess the demographic and clinical characteristics of StayWell participants. Anxiety and depression were measured using the 2-item Generalized Anxiety Disorder (GAD-2) scale and the 8-item Patient Health Quesstionanire-8 (PHQ-8) scale at baseline and 60-day timepoints. We used paired t-tests to detect the change in PHQ-8 and GAD-2 scores from baseline to follow-up measured 60 days later.<br> 
+<br> 
+<u>Results:</u> The analytic sample includes 193 participants who completed both the baseline and 60-day exit questionnaires. At the 60-day time point, there were statistically significant reductions in both PHQ-8 and GAD-2 scores from baseline. We found an average reduction of -1.72 (95% CI: -2.35, -1.09) in PHQ-8 scores and -0.48 (95% CI: -0.71, -0.25) in GAD-2 scores. This translated to an 18.5% and 17.2% reduction in mean PHQ-8 scores and GAD-2, respectively.<br> 
+<br> 
+<u>Conclusions:</u> StayWell is a low-intensity, cost-effective, and accessible population-level mental health intervention. Participation in StayWell focused on COVID-19 mental health coping skills and was related to improved depression and anxiety symptoms. In addition to improvements in outcomes, we found high levels of engagement during the 60-day intervention period. Text messaging interventions could serve as an important public health tool for disseminating strategies to manage mental health. Clinical Trial: ClinicalTrials.gov Identifier: NCT04473599  </p>  
+</small>  
+</details>
+</div>   
+<br/>  
 
