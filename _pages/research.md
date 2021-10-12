@@ -144,3 +144,4 @@ permalink: /research/
 </div>   
 <br/>  
 
+<u>[Proximate determinants of tuberculosis in Indigenous peoples worldwide: a systematic review](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(18)30435-2/fulltext)
