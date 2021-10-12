@@ -124,7 +124,7 @@ permalink: /research/
  
 ## Publications
 <u>[StayWell at Home: A Text Messaging Intervention to Counteract Depression and Anxiety during COVID-19 Social Distancing](https://preprints.jmir.org/preprint/25298/accepted)</u> <br/> 
-<small>*JMIR Mental Health* 2021. [Protocol](https://www.researchprotocols.org/2021/1/e23592). Adrian Aguilera;  Rosa Hernandez-Ramos;  Alein Haro;  <u>Claire E Boone</u>;  Tiffany Luo;  Jing Xu;  Bibhas Chakraborty;  Christopher Karr;  Sabrina Darrow;  Caroline A Figueroa 
+<small>*JMIR Mental Health* 2021. [Protocol](https://www.researchprotocols.org/2021/1/e23592). A Aguilera;  R Hernandez-Ramos;  A Haro;  <u>CE Boone</u>;  T Luo;  J Xu;  B Chakraborty;  C Karr;  S Darrow;  CA Figueroa 
 </small><br/> 
 <div style="margin-left: 1em;">
 <details>
@@ -145,3 +145,23 @@ permalink: /research/
 <br/>  
 
 <u>[Proximate determinants of tuberculosis in Indigenous peoples worldwide: a systematic review](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(18)30435-2/fulltext)
+M Cormier, K Schwartzman, DS N’Diaye, <u>CE Boone</u>, AM dos Santos, J Gaspar, D Cazabon, et al. *The Lancet Global Health* 2019.
+</small><br/> 
+<div style="margin-left: 1em;">
+<details>
+<summary><small>Abstract</small></summary>
+<small>
+<p><u>Background:</u> Indigenous peoples worldwide carry a disproportionate tuberculosis burden. There is an increasing awareness of the effect of social determinants and proximate determinants such as alcohol use, overcrowding, type 1 and type 2 diabetes, substance misuse, HIV, food insecurity and malnutrition, and smoking on the burden of tuberculosis. We aimed to understand the potential contribution of such determinants to tuberculosis in Indigenous peoples and to document steps taken to address them. <br> 
+<br> 
+<u>Methods:</u> We did a systematic review using seven databases (MEDLINE, Embase, CINAHL, Global Health, BIOSIS Previews, Web of Science, and the Cochrane Library). We identified English language articles published from Jan 1, 1980, to Dec 20, 2017, reporting the prevalence of proximate determinants of tuberculosis and preventive programmes targeting these determinants in Indigenous communities worldwide. We included any randomised controlled trials, controlled studies, cohort studies, cross-sectional studies, case reports, and qualitative research. Exclusion criteria were articles in languages other than English, full text not available, population was not Indigenous, focused exclusively on children or older people, and studies that focused on pharmacological interventions.<br> 
+<br> 
+<u>Findings:</u> Of 34 255 articles identified, 475 were eligible for inclusion. Most studies confirmed a higher prevalence of proximate determinants in Indigenous communities than in the general population. Diabetes was more frequent in Indigenous communities within high-income countries versus in low-income countries. The prevalence of alcohol use was generally similar to that among non-Indigenous groups, although patterns of drinking often differed. Smoking prevalence and smokeless tobacco consumption were commonly higher in Indigenous groups than in non-Indigenous groups. Food insecurity was highly prevalent in most Indigenous communities evaluated. Substance use was more frequent in Indigenous inhabitants of high-income countries than of low-income countries, with wide variation across Indigenous communities. The literature pertaining to HIV, crowding, and housing conditions among Indigenous peoples was too scant to draw firm conclusions. Preventive programmes that are culturally appropriate targeting these determinants appear feasible, although their effectiveness is largely unproven.<br> 
+<br> 
+<u>Interpretation:</u> Indigenous peoples were generally reported to have a higher prevalence of several proximate determinants of tuberculosis than non-Indigenous peoples, with wide variation across Indigenous communities. These findings emphasise the need for community-led, culturally appropriate strategies to address smoking, food insecurity, and diabetes in Indigenous populations as important public health goals in their own right, and also to reduce the burden of tuberculosis.<br> 
+<br> 
+<u>Funding:</u> Canadian Institutes of Health Research. </p>  
+</small>  
+</details>
+</div>   
+<br/>  
+
