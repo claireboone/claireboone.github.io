@@ -134,7 +134,7 @@ Discretion in Clinical Decision-Making
   
  
 ## Publications
-[StayWell at Home: A Text Messaging Intervention to Counteract Depression and Anxiety during COVID-19 Social Distancing](https://preprints.jmir.org/preprint/25298/accepted)<br/> 
+[StayWell at Home: A Text Messaging Intervention to Counteract Depression and Anxiety during COVID-19 Social Distancing](https://claireboone.github.io/files/CBoone_StayWell_JMIR2021.pdf)<br/> 
 <small>*JMIR Mental Health* 2021. [Protocol](https://www.researchprotocols.org/2021/1/e23592). A Aguilera;  R Hernandez-Ramos;  A Haro;  <u>CE Boone</u>;  T Luo;  J Xu;  B Chakraborty;  C Karr;  S Darrow;  CA Figueroa 
 </small><br/> 
 <div style="margin-left: 1em;">
@@ -155,7 +155,7 @@ Discretion in Clinical Decision-Making
 </div>   
 <br/>  
 
-[Proximate determinants of tuberculosis in Indigenous peoples worldwide: a systematic review](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(18)30435-2/fulltext)<br>
+[Proximate determinants of tuberculosis in Indigenous peoples worldwide: a systematic review](https://claireboone.github.io/files/CBoone_Tuberculosis_LancetGlobalHealth2019.pdf)<br>
 <small>*The Lancet Global Health* 2019. M Cormier, K Schwartzman, DS N’Diaye, <u>CE Boone</u>, AM dos Santos, J Gaspar, D Cazabon, et al. 
 </small><br/> 
 <div style="margin-left: 1em;">
@@ -176,7 +176,7 @@ Discretion in Clinical Decision-Making
 </div>   
 <br/>  
 
-[Zika: A scourge in urban slums](https://journals.plos.org/plosntds/article/authors?id=10.1371/journal.pntd.0005287)<br>
+[Zika: A scourge in urban slums](https://claireboone.github.io/files/CBoone_Zika_PLOSNTD2017.pdf)<br>
 <small>*PLOS Neglected Tropical Diseases* 2017. RE Snyder, <u>CE Boone</u>, CA Araújo Cardoso, F Aguiar-Alves, F Neves, and LW Riley.
 <br> 
 *Commentary piece*
