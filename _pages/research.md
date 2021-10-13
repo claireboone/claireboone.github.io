@@ -5,7 +5,8 @@ permalink: /research/
 
 ## Working Papers
 [How Spillovers from Appointment Reminders Improve Health Clinic Efficiency](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf) <br/>
-<small>*NBER Working Paper* and *Revision requested at Journal of Health Economics*, with Pablo Celhay, Paul Gertler, Tadeja Gracner, and Josefina Rodriguez.</small>  
+<small>*NBER Working Paper* and *Revision requested at Journal of Health Economics*, with Pablo Celhay, Paul Gertler, Tadeja Gracner, and Josefina Rodriguez.<span style="background-color:green; color:white">nudges</span> 
+</small>  
 <div style="margin-left: 1em;">
 <details>
 <summary><small>Abstract</small></summary>
@@ -16,12 +17,9 @@ permalink: /research/
 </div>  
 <br/> 
 
-<p>The <code class="w3-codespan">&lt;span&gt;</code> tag is an inline container used to</p>
-"And here's to you, <span style="background-color:green; color:red">Mrs. Robinson</span>, Jesus loves you more than you will know."
-"And here's to you, <span style="background-color:green" style="color:red">Mrs. Robinson</span>, Jesus loves you more than you will know."
 
 
-<span style="color: red;">text</span>
+
 
 <u>How Can Quality of Healthcare Be Assessed in the 21st Century?</u>  
 <small> With Paul Gertler, Ada Kwan, Nicole Perales.  
