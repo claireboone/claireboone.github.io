@@ -123,7 +123,7 @@ permalink: /research/
   
  
 ## Publications
-<u>[StayWell at Home: A Text Messaging Intervention to Counteract Depression and Anxiety during COVID-19 Social Distancing](https://preprints.jmir.org/preprint/25298/accepted)</u> <br/> 
+[StayWell at Home: A Text Messaging Intervention to Counteract Depression and Anxiety during COVID-19 Social Distancing](https://preprints.jmir.org/preprint/25298/accepted)</u> <br/> 
 <small>*JMIR Mental Health* 2021. [Protocol](https://www.researchprotocols.org/2021/1/e23592). A Aguilera;  R Hernandez-Ramos;  A Haro;  <u>CE Boone</u>;  T Luo;  J Xu;  B Chakraborty;  C Karr;  S Darrow;  CA Figueroa 
 </small><br/> 
 <div style="margin-left: 1em;">
@@ -144,7 +144,7 @@ permalink: /research/
 </div>   
 <br/>  
 
-<u>[Proximate determinants of tuberculosis in Indigenous peoples worldwide: a systematic review](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(18)30435-2/fulltext)<br>
+[Proximate determinants of tuberculosis in Indigenous peoples worldwide: a systematic review](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(18)30435-2/fulltext)<br>
 *The Lancet Global Health* 2019. M Cormier, K Schwartzman, DS N’Diaye, <u>CE Boone</u>, AM dos Santos, J Gaspar, D Cazabon, et al. 
 </small><br/> 
 <div style="margin-left: 1em;">
