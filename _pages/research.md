@@ -166,7 +166,9 @@ permalink: /research/
 <br/>  
 
 [Zika: A scourge in urban slums](https://journals.plos.org/plosntds/article/authors?id=10.1371/journal.pntd.0005287)<br>
-<small>*PLOS Neglected Tropical Diseases* 2017. RE Snyder, <u>CE Boone<u/>, CA Araújo Cardoso, F Aguiar-Alves, F Neves, and LW Riley.</small><br> 
+<small>*PLOS Neglected Tropical Diseases* 2017. RE Snyder, <u>CE Boone<u/>, CA Araújo Cardoso, F Aguiar-Alves, F Neves, and LW Riley.
+<br> 
 *Commentary piece*
+</small> 
 
  
