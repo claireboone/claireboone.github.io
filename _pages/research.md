@@ -16,6 +16,51 @@ permalink: /research/
 <br/> 
 
 
+<head>
+ 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
+ 
+<script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+ 
+ 
+</head>
+ 
+<body>
+ 
+<div class="container">
+ 
+<div class="box">
+ 
+  <article class="media">
+ 
+    <div class="media-left">
+ 
+    </div>
+ 
+    <div class="media-content">
+ 
+      <div class="content">
+ 
+        <p>
+ 
+          <strong>Name</strong> <small>email or other</small>
+ 
+          <br>
+ 
+          TEXT AREA
+        </p>
+ 
+        <span class="tag">Change0</span> <span class="tag">Change1</span> <span class="tag">Change2 optional the span tag is what you want</span>
+ 
+      </div>
+ 
+      
+ 
+ 
+ 
+ 
+    </div>
+
 <u>How Can Quality of Healthcare Be Assessed in the 21st Century?</u>  
 <small> With Paul Gertler, Ada Kwan, Nicole Perales.  
 *Presentations:* APHA 2021.</small> 
