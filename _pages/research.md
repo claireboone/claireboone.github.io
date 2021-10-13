@@ -18,6 +18,7 @@ permalink: /research/
 
 `left` 
 
+<span style="color:blue">some *blue* text</span> <span style="color:blue">some `blue` text</span>
 
 
 <u>How Can Quality of Healthcare Be Assessed in the 21st Century?</u>  
