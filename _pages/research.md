@@ -5,18 +5,15 @@ permalink: /research/
 
 ## Working Papers
 [How Spillovers from Appointment Reminders Improve Health Clinic Efficiency](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf) <br/>
-<small>*NBER Working Paper* and *Revision requested at Journal of Health Economics*, with Pablo Celhay, Paul Gertler, Tadeja Gracner, and Josefina Rodriguez.  <span style="background-color:cornflowerblue; color:white">nudges</span>
- <span style="background-color:cadetblue; color:Azure">chronic diseases</span>
- <span style="background-color:darkseagreen; color:Azure">clinical decision-making</span>
- <span style="background-color:lavender; color:rosybrown">health services</span>
- <span style="background-color:lavender; color:Purple">health services</span>
- <span style="background-color:orchid; color:rosybrown">health services</span>
- <span style="background-color:thistle; color:Purple">health services</span>
- <span style="background-color:rosybrown; color:grey">health services</span>
- <span style="background-color:rosybrown; color:lavender">health services</span>
- <span style="background-color:rosybrown; color:floralwhite">health services</span>
- <span style="background-color:olivedrab; color:floralwhite">health services</span>
+<small>*NBER Working Paper* and *Revision requested at Journal of Health Economics*, with Pablo Celhay, Paul Gertler, Tadeja Gracner, and Josefina Rodriguez.      <span style="background-color:cornflowerblue; color:white">nudges</span>
+ <span style="background-color:cadetblue; color:Azure">clinical decision-making</span>
+ <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
  <span style="background-color:goldenrod; color:white">health services</span>
+The action of every agent <br />
+  into the world <br />
+starts <br />
+  from their physical selves. <br />
+
 
 
 
