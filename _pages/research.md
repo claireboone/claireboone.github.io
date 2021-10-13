@@ -31,7 +31,7 @@ permalink: /research/
  
       </div>
 
-    </div>
+
 
 
 <u>How Can Quality of Healthcare Be Assessed in the 21st Century?</u>  
