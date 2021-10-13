@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: archive
 title: "Job Market Paper"
 permalink: /jmp/
+author_profile: true
 ---
+
 ## Job Market Paper
 Discretion in Clinical Decision-Making
 <div style="margin-left: 1em;">
