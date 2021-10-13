@@ -12,7 +12,7 @@ I am a PhD candidate in [Health Policy, Health Economics](https://publichealth.b
 
 My dissertation focuses on using behavioral economics to understand and improve health services delivery. In my job market paper, I investigate the role of discretion and the use of heuristics in clinical decision-making. I also study the supply- and demand-side effects of nudging high-risk patients at scale.
 
-Prior to starting my PhD I earned an MPH in Epidemiology and Biostatistics from UC Berkeley, and a BA & Sc from McGill University in Economics and Biology. 
+Before my PhD I earned an MPH in Epidemiology and Biostatistics from UC Berkeley, and a BA & Sc from McGill University in Economics and Biology. 
 
 
 
