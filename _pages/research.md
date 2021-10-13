@@ -2,6 +2,14 @@
 title: "Research"
 permalink: /research/
 ---
+<head>
+ 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
+ 
+<script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+ 
+</head>
+
 ## Working Papers
 [How Spillovers from Appointment Reminders Improve Health Clinic Efficiency](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf) <br/>
 <small>*NBER Working Paper* and *Revision requested at Journal of Health Economics*, with Pablo Celhay, Paul Gertler, Tadeja Gracner, and Josefina Rodriguez.</small>  
@@ -14,6 +22,8 @@ permalink: /research/
 </details>  
 </div>  
 <br/> 
+
+<span class="tag"style="color:darkolivegreen;font-weight:bold">Nudges</span>
 
 
 `left` 
