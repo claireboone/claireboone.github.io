@@ -10,7 +10,11 @@ permalink: /research/
  <span style="background-color:darkseagreen; color:Cornsilk">clinical decision-making</span>
  <span style="background-color:lavender; color:rosybrown">health services</span>
  <span style="background-color:lavender; color:Purple">health services</span>
- <span style="background-color:orchid; color:">health services</span>
+ <span style="background-color:orchid; color:rosybrown">health services</span>
+ <span style="background-color:thistle; color:Purple">health services</span>
+ <span style="background-color:orchid; color:grey">health services</span>
+
+
 
 </small>  
 <div style="margin-left: 1em;">
