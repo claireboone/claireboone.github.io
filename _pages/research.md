@@ -2,13 +2,6 @@
 title: "Research"
 permalink: /research/
 ---
-<head>
- 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
- 
-<script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
- 
-</head>
 
 ## Working Papers
 [How Spillovers from Appointment Reminders Improve Health Clinic Efficiency](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf) <br/>
@@ -22,15 +15,6 @@ permalink: /research/
 </details>  
 </div>  
 <br/> 
-
-<span class="tag"style="color:darkolivegreen;font-weight:bold">Nudges</span>
-
-
-`left` 
-
-<span style="color:blue">some *blue* text</span> <span style="color:blue">some `blue` text</span>
-
-<span class="tag">Change0</span> <span class="tag">Change1</span> <span class="tag">Change2 optional the span tag is what you want</span>
 
 <p>The <code class="w3-codespan">&lt;span&gt;</code> tag is an inline container used to 
 
