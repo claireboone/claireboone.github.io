@@ -8,8 +8,9 @@ permalink: /research/
 <small>*NBER Working Paper* and *Revision requested at Journal of Health Economics*, with Pablo Celhay, Paul Gertler, Tadeja Gracner, and Josefina Rodriguez.  <span style="background-color:skyblue; color:white">nudges</span>
  <span style="background-color:cadetblue; color:Azure">chronic diseases</span>
  <span style="background-color:darkseagreen; color:Cornsilk">clinical decision-making</span>
- <span style="background-color:lavender; color:orchid">health services</span>
+ <span style="background-color:lavender; color:rosybrown">health services</span>
  <span style="background-color:lavender; color:Purple">health services</span>
+ <span style="background-color:orchid; color:">health services</span>
 
 </small>  
 <div style="margin-left: 1em;">
