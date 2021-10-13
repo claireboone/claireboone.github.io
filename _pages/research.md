@@ -5,10 +5,10 @@ permalink: /research/
 
 ## Working Papers
 [How Spillovers from Appointment Reminders Improve Health Clinic Efficiency](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf) <br/>
-<small>*NBER Working Paper* and *Revision requested at Journal of Health Economics*, with Pablo Celhay, Paul Gertler, Tadeja Gracner, and Josefina Rodriguez.  <span style="background-color:aquamarine; color:grey"> nudges </span>
+<small>*NBER Working Paper* and *Revision requested at Journal of Health Economics*, with Pablo Celhay, Paul Gertler, Tadeja Gracner, and Josefina Rodriguez.  <span style="background-color:aquamarine; color:Gainsboro"> nudges </span>
  <span style="background-color:cadetblue; color:Azure">  nudges  </span>
  <span style="background-color:darkseagreen; color:Cornsilk">*nudges*</span>
- <span style="background-color:lavender; color:Gainsboro"> *nudges* </span>
+ <span style="background-color:lavender; color:Thistle"> *nudges* </span>
 </small>  
 <div style="margin-left: 1em;">
 <details>
