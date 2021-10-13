@@ -22,17 +22,7 @@ permalink: /research/
 
 <span class="tag">Change0</span> <span class="tag">Change1</span> <span class="tag">Change2 optional the span tag is what you want</span>
 
-
-<div class="media-content">
- 
-      <div class="content">
-       
-       <span class="tag">Change0</span> <span class="tag">Change1</span> <span class="tag">Change2 optional the span tag is what you want</span>
- 
-      </div>
-
-
-
+<p>The <code class="w3-codespan">&lt;span&gt;</code> tag is an inline container used to 
 
 <u>How Can Quality of Healthcare Be Assessed in the 21st Century?</u>  
 <small> With Paul Gertler, Ada Kwan, Nicole Perales.  
