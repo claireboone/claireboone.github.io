@@ -16,7 +16,9 @@ permalink: /research/
 </div>  
 <br/> 
 
-<p>The <code class="w3-codespan">&lt;span&gt;</code> tag is an inline container used to 
+<p>The <code class="w3-codespan">&lt;span&gt;</code> tag is an inline container used to</p>
+
+<span style="color: red;">text</span>
 
 <u>How Can Quality of Healthcare Be Assessed in the 21st Century?</u>  
 <small> With Paul Gertler, Ada Kwan, Nicole Perales.  
