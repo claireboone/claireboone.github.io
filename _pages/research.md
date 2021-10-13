@@ -7,7 +7,7 @@ permalink: /research/
 [How Spillovers from Appointment Reminders Improve Health Clinic Efficiency](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf) <br/>
 <small>*NBER Working Paper* and *Revision requested at Journal of Health Economics*, with Pablo Celhay, Paul Gertler, Tadeja Gracner, and Josefina Rodriguez.  <span style="background-color:cornflowerblue; color:white">nudges</span>
  <span style="background-color:cadetblue; color:Azure">chronic diseases</span>
- <span style="background-color:darkseagreen; color:Cornsilk">clinical decision-making</span>
+ <span style="background-color:darkseagreen; color:Azure">clinical decision-making</span>
  <span style="background-color:lavender; color:rosybrown">health services</span>
  <span style="background-color:lavender; color:Purple">health services</span>
  <span style="background-color:orchid; color:rosybrown">health services</span>
