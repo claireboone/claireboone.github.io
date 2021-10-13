@@ -2,6 +2,7 @@
 title: "Job Market Paper"
 permalink: /jmp/
 author_profile: true
+group: navigation
 ---
 
 ## Discretion in Clinical Decision-Making 
