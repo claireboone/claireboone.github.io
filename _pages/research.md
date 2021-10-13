@@ -4,7 +4,7 @@ permalink: /research/
 ---
 ## Working Papers
 [How Spillovers from Appointment Reminders Improve Health Clinic Efficiency](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf) <br/>
-<small>*NBER Working Paper* and *Revision requested at Journal of Health Economics*, with Pablo Celhay, Paul Gertler, Tadeja Gracner, and Josefina Rodriguez.</small> 
+<small>*NBER Working Paper* and *Revision requested at Journal of Health Economics*, with Pablo Celhay, Paul Gertler, Tadeja Gracner, and Josefina Rodriguez.</small>  <span class="tag">Change0</span> <span class="tag">Change1</span> <span class="tag">Change2 optional the span tag is what you want</span>
 <div style="margin-left: 1em;">
 <details>
 <summary><small>Abstract</small></summary>
@@ -16,50 +16,6 @@ permalink: /research/
 <br/> 
 
 
-<head>
- 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
- 
-<script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
- 
- 
-</head>
- 
-<body>
- 
-<div class="container">
- 
-<div class="box">
- 
-  <article class="media">
- 
-    <div class="media-left">
- 
-    </div>
- 
-    <div class="media-content">
- 
-      <div class="content">
- 
-        <p>
- 
-          <strong>Name</strong> <small>email or other</small>
- 
-          <br>
- 
-          TEXT AREA
-        </p>
- 
-        <span class="tag">Change0</span> <span class="tag">Change1</span> <span class="tag">Change2 optional the span tag is what you want</span>
- 
-      </div>
- 
-      
- 
- 
- 
- 
-    </div>
 
 <u>How Can Quality of Healthcare Be Assessed in the 21st Century?</u>  
 <small> With Paul Gertler, Ada Kwan, Nicole Perales.  
