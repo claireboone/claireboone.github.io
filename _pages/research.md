@@ -9,6 +9,8 @@ permalink: /research/
  <span style="background-color:cadetblue; color:Azure">chronic diseases</span>
  <span style="background-color:darkseagreen; color:Cornsilk">clinical decision-making</span>
  <span style="background-color:lavender; color:orchid">health services</span>
+ <span style="background-color:lavender; color:Purple">health services</span>
+
 </small>  
 <div style="margin-left: 1em;">
 <details>
