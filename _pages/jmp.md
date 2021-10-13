@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Job Market Paper"
 permalink: /jmp/
 ---
