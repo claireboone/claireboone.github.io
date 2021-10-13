@@ -8,7 +8,7 @@ permalink: /research/
 <small>*NBER Working Paper* and *Revision requested at Journal of Health Economics*, with Pablo Celhay, Paul Gertler, Tadeja Gracner, and Josefina Rodriguez.  <span style="background-color:aquamarine; color:grey"> nudges </span>
  <span style="background-color:cadetblue; color:Azure">  nudges  </span>
  <span style="background-color:darkseagreen; color:Cornsilk">*nudges*</span>
- <span style="background-color:lavender; color:Gainsboro">* nudges *</span>
+ <span style="background-color:lavender; color:Gainsboro"> *nudges* </span>
 </small>  
 <div style="margin-left: 1em;">
 <details>
