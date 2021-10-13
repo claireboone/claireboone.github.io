@@ -4,7 +4,6 @@ permalink: /research/
 ---
 ## Job Market Paper
 Discretion in Clinical Decision-Making
-</small> 
 <div style="margin-left: 1em;">
 <details>
 <summary><small>Abstract</small></summary>
