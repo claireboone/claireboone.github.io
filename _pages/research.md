@@ -43,10 +43,10 @@ permalink: /research/
 
   
 <u>The Impact of AHME on Pro-Poor Healthcare</u>   
-<small> With Joshua Gruber, Paul Gertler, and Ada Kwan. [AHME RCT Registry](https://www.socialscienceregistry.org/trials/217)  <span style="background-color:goldenrod; color:white">health services</span> <span style="background-color:cadetblue; color:Azure">clinical decision-making</span> </small>
+<small> With Joshua Gruber, Paul Gertler, and Ada Kwan. [AHME RCT Registry](https://www.socialscienceregistry.org/trials/217)  <span style="background-color:cadetblue; color:Azure">clinical decision-making</span><span style="background-color:goldenrod; color:white">health services</span> </small>
 <div style="margin-left: 1em;">
 <details>
-<summary><small>Abstract</small></summary>
+<summary>Abstract</summary>
 <small>
 <p>Private health sector engagement has been suggested as a health reform component to reduce healthcare inequities in Sub-Saharan Africa, where populations with the most need seek the least care. We study the simultaneous supply- and demand-side effects of AHME, a management intervention that aimed to improve the quality and accessibility of private-sector clinics in Kenya. AHME focused on access to public health insurance, where the government is the payer, as a mechanism to increase use of affordable, high-quality private care for poor individuals. The program was successful in increasing the share of clinics accepting national insurance, the share of households enrolled in national health insurance, and in turn the share of clinics' clients from lower wealth quintiles. Efforts to reduce the cost of care must also ensure that the quality of care is maintained. We conducted standardized patient (SP) experiments to measure the effects of not being able to afford full services on quality of care. SPs presented as poor by telling the provider they could only afford KSH 300 in fees. We find that when faced with a client with a budget constraint, providers reduced the quantity of both necessary and unnecessary care, resulting in lower quality of care for 'poor' clients. While public insurance is a promising mechanism to connect low-income households to private care, more work must be done to ensure clients of all wealth levels receive high quality care.</p>
 </small>
@@ -64,7 +64,7 @@ permalink: /research/
 *Presentations:* ASHEcon 2021, iHEA 2021, CHITA 2020.  </small> 
 <div style="margin-left: 1em;">
 <details>
-<summary><small>Abstract</small></summary>
+<summary><small>**Abstract**</small></summary>
 <small>
 <p><u>Background:</u> Attending clinic appointments as scheduled is crucial for patients living with chronic diseases as they receive screenings, prescriptions, and information from healthcare providers. Yet, appointment adherence remains low. Most common reasons for missing appointments include forgetting or confusing the date, time, or location of the appointment; making Short Message Service (SMS) appointment reminders a promising tool to improve chronic care. Small pilot studies have shown the efficacy of reminders short-term, but evidence on how their usage at-scale and long-term is missing. We evaluate short and long-term effects of SMS appointment reminders sent at scale on the management of chronic disease.</p>    
 
