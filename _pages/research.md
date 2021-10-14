@@ -26,10 +26,8 @@ permalink: /research/
 
 
 <u>How Can Quality of Healthcare Be Assessed in the 21st Century?</u>  
-<small> With Paul Gertler, Ada Kwan, Nicole Perales.
-   
- <span style="background-color:goldenrod; color:white">health services</span>
-*Presentations:* APHA 2021.</small> 
+<small> With Paul Gertler, Ada Kwan, Nicole Perales.  <span style="background-color:goldenrod; color:white">health services</span>
+</small> 
 <div style="margin-left: 1em;">
 <details>
 <summary><small>Abstract</small></summary>
@@ -46,9 +44,7 @@ permalink: /research/
   
   
 <u>The Impact of AHME on Pro-Poor Healthcare</u>   
-<small> With Joshua Gruber, Paul Gertler, and Ada Kwan. [AHME RCT Registry](https://www.socialscienceregistry.org/trials/217)</small><br/>
-  
- <span style="background-color:goldenrod; color:white">health services</span>
+<small> With Joshua Gruber, Paul Gertler, and Ada Kwan. [AHME RCT Registry](https://www.socialscienceregistry.org/trials/217)</small><br/>  <span style="background-color:goldenrod; color:white">health services</span></small>
 <div style="margin-left: 1em;">
 <details>
 <summary><small>Abstract</small></summary>
@@ -63,11 +59,10 @@ permalink: /research/
 
 ## In Progress
 <u>The Role of Appointment Reminders in the Management of Chronic Disease</u> <br/>
-<small> with Pablo Celhay, Paul Gertler, and Tadeja Gracner. <br/>
-*Presentations:* ASHEcon 2021, iHEA 2021, CHITA 2020.  </small> 
- <span style="background-color:cornflowerblue; color:white">nudges</span>
+<small> with Pablo Celhay, Paul Gertler, and Tadeja Gracner.   <span style="background-color:cornflowerblue; color:white">nudges</span>
  <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
- <span style="background-color:goldenrod; color:white">health services</span>
+ <span style="background-color:goldenrod; color:white">health services</span><br>
+*Presentations:* ASHEcon 2021, iHEA 2021, CHITA 2020.  </small> 
 <div style="margin-left: 1em;">
 <details>
 <summary><small>Abstract</small></summary>
@@ -89,10 +84,10 @@ permalink: /research/
     
   
 <u>Do private providers give patients what they demand, even if it's unnecessary? A standardized patient experiment in Kenya</u> <br/>
-<small> With Paul Gertler, Ada Kwan, and Giorgia Sulis. [AHME RCT Registry](https://www.socialscienceregistry.org/trials/217)</small><br/>
+<small> With Paul Gertler, Ada Kwan, and Giorgia Sulis. [AHME RCT Registry](https://www.socialscienceregistry.org/trials/217)</small>
  
  <span style="background-color:cadetblue; color:Azure">clinical decision-making</span>
- <span style="background-color:goldenrod; color:white">health services</span>
+ <span style="background-color:goldenrod; color:white">health services</span><br/>
 <div style="margin-left: 1em;">
 <details>
 <summary><small>Abstract</small></summary>
@@ -111,9 +106,9 @@ permalink: /research/
 
 
 <u>The Long-term Health Impact of In-Utero Exposure to Excessive Intake of Sugar</u> <br/>
-<small> With Paul Gertler and Tadeja Gracner.</small><br/>
+<small> With Paul Gertler and Tadeja Gracner.</small>
  
- <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
+ <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span><br/>
 <div style="margin-left: 1em;">
 <details>
 <summary><small>Abstract</small></summary>
