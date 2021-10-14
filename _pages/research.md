@@ -23,7 +23,7 @@ permalink: /research/
 
 
 <u>Do private providers give patients what they demand, even if it's unnecessary? A standardized patient experiment in Kenya</u> <br/>
-<small> With Paul Gertler, Ada Kwan, and Giorgia Sulis. [AHME RCT Registry](https://www.socialscienceregistry.org/trials/217)  <span style="background-color:cadetblue; color:Azure">clinical decision-making</span>
+<small> With Paul Gertler, Ada Kwan, and Giorgia Sulis. [AHME RCT Registry](https://www.socialscienceregistry.org/trials/217)  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
 <span style="background-color:goldenrod; color:white">health services</span><br/></small>
 <div style="margin-left: 1em;">
 <details>
@@ -43,7 +43,7 @@ permalink: /research/
 
   
 <u>The Impact of AHME on Pro-Poor Healthcare</u>   
-<small> With Joshua Gruber, Paul Gertler, and Ada Kwan. [AHME RCT Registry](https://www.socialscienceregistry.org/trials/217)  <span style="background-color:cadetblue; color:Azure">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span> </small>
+<small> With Joshua Gruber, Paul Gertler, and Ada Kwan. [AHME RCT Registry](https://www.socialscienceregistry.org/trials/217)  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span> </small>
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
