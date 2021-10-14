@@ -8,7 +8,6 @@ permalink: /research/
 <small>*NBER Working Paper* and *Revision requested at Journal of Health Economics*, with Pablo Celhay, Paul Gertler, Tadeja Gracner, and Josefina Rodriguez.
   
  <span style="background-color:cornflowerblue; color:white">nudges</span>
- <span style="background-color:cadetblue; color:Azure">clinical decision-making</span>
  <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
  <span style="background-color:goldenrod; color:white">health services</span>
 </small>  
@@ -27,7 +26,9 @@ permalink: /research/
 
 
 <u>How Can Quality of Healthcare Be Assessed in the 21st Century?</u>  
-<small> With Paul Gertler, Ada Kwan, Nicole Perales.  
+<small> With Paul Gertler, Ada Kwan, Nicole Perales.
+   
+ <span style="background-color:goldenrod; color:white">health services</span>
 *Presentations:* APHA 2021.</small> 
 <div style="margin-left: 1em;">
 <details>
@@ -45,7 +46,9 @@ permalink: /research/
   
   
 <u>The Impact of AHME on Pro-Poor Healthcare</u>   
-<small> With Joshua Gruber, Paul Gertler, and Ada Kwan. [AHME RCT Registry](https://www.socialscienceregistry.org/trials/217)</small><br/>  
+<small> With Joshua Gruber, Paul Gertler, and Ada Kwan. [AHME RCT Registry](https://www.socialscienceregistry.org/trials/217)</small><br/>
+  
+ <span style="background-color:goldenrod; color:white">health services</span>
 <div style="margin-left: 1em;">
 <details>
 <summary><small>Abstract</small></summary>
@@ -62,6 +65,9 @@ permalink: /research/
 <u>The Role of Appointment Reminders in the Management of Chronic Disease</u> <br/>
 <small> with Pablo Celhay, Paul Gertler, and Tadeja Gracner. <br/>
 *Presentations:* ASHEcon 2021, iHEA 2021, CHITA 2020.  </small> 
+ <span style="background-color:cornflowerblue; color:white">nudges</span>
+ <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
+ <span style="background-color:goldenrod; color:white">health services</span>
 <div style="margin-left: 1em;">
 <details>
 <summary><small>Abstract</small></summary>
@@ -80,27 +86,13 @@ permalink: /research/
 </div> 
 <br/>
 
-
-<u>How Can Quality of Healthcare Be Assessed in the 21st Century?</u>  
-<small> With Paul Gertler, Ada Kwan, Nicole Perales.  
-*Presentations:* APHA 2021.</small> 
-<div style="margin-left: 1em;">
-<details>
-<summary><small>Abstract</small></summary>
-<small>
-<p><u>Background:</u> As governments commit to universal access to high quality care, questions related to improving quality are eclipsed by questions on how to define and measure quality. We draw from Donabedian’s conceptual framework, which categorizes quality of care dimensions into measurements of structures, processes, and outcomes, to comprehensively evaluate the impact of a randomized, at-scale quality of care improvement program for Kenya’s private sector.<br/>
- <br/> 
-<u>Methods:</u> Across a sample of N=232 clinics, we collected comprehensive quality of care data using N=1195 standardized patient visits – the state-of-the-art method to assess provider practice, N=322 provider surveys with vignettes to measure knowledge, patient exit interviews, and household and clinic surveys. We use these data to examine a program’s effects on three quality of care dimensions: structures (e.g. sources), processes (e.g. diagnostic and treatment actions), and outcomes (e.g. client experience). <br/>
-  <br/>
-<u>Results:</u> We found the program improved structures, but these improvements did not translate into better process quality. The program reduced correct care by 12% (p-value<0.05), but standardized patients, real clients, and households did not recognize any changes in quality due to the program. In our study setting where highly competent and well-stocked private providers gave lower quality of care, the Donabedian framework appeared comprehensive, but failed to pinpoint the drivers of process quality. By simultaneously examining structures, processes, and outcomes with multiple measurement methods, we conclude that a new quality of care framework is needed that accounts for market dynamics, accountability of providers, altruistic preferences of providers, effective targeting for the poor and marginalized, and ongoing quality monitoring.</p>  
-</small>
-</details> 
-</div> 
-<br/> 
     
   
 <u>Do private providers give patients what they demand, even if it's unnecessary? A standardized patient experiment in Kenya</u> <br/>
-<small> With Paul Gertler, Ada Kwan, and Giorgia Sulis. [AHME RCT Registry](https://www.socialscienceregistry.org/trials/217)</small><br/> 
+<small> With Paul Gertler, Ada Kwan, and Giorgia Sulis. [AHME RCT Registry](https://www.socialscienceregistry.org/trials/217)</small><br/>
+ 
+ <span style="background-color:cadetblue; color:Azure">clinical decision-making</span>
+ <span style="background-color:goldenrod; color:white">health services</span>
 <div style="margin-left: 1em;">
 <details>
 <summary><small>Abstract</small></summary>
@@ -119,7 +111,9 @@ permalink: /research/
 
 
 <u>The Long-term Health Impact of In-Utero Exposure to Excessive Intake of Sugar</u> <br/>
-<small> With Paul Gertler and Tadeja Gracner.</small><br/> 
+<small> With Paul Gertler and Tadeja Gracner.</small><br/>
+ 
+ <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
 <div style="margin-left: 1em;">
 <details>
 <summary><small>Abstract</small></summary>
@@ -133,7 +127,9 @@ permalink: /research/
  
 ## Publications
 [StayWell at Home: A Text Messaging Intervention to Counteract Depression and Anxiety during COVID-19 Social Distancing](https://claireboone.github.io/files/CBoone_StayWell_JMIR2021.pdf)<br/> 
-<small>*JMIR Mental Health* 2021. [Protocol](https://www.researchprotocols.org/2021/1/e23592). A Aguilera;  R Hernandez-Ramos;  A Haro;  <u>CE Boone</u>;  T Luo;  J Xu;  B Chakraborty;  C Karr;  S Darrow;  CA Figueroa 
+<small>*JMIR Mental Health* 2021. [Protocol](https://www.researchprotocols.org/2021/1/e23592). A Aguilera;  R Hernandez-Ramos;  A Haro;  <u>CE Boone</u>;  T Luo;  J Xu;  B Chakraborty;  C Karr;  S Darrow;  CA Figueroa
+ 
+ <span style="background-color:cornflowerblue; color:white">nudges</span>
 </small><br/> 
 <div style="margin-left: 1em;">
 <details>
