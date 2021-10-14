@@ -104,7 +104,7 @@ permalink: /research/
  
 ## Publications
 [StayWell at Home: A Text Messaging Intervention to Counteract Depression and Anxiety during COVID-19 Social Distancing](https://claireboone.github.io/files/CBoone_StayWell_JMIR2021.pdf)<br/> 
-<small>*JMIR Mental Health* 2021. [Protocol](https://www.researchprotocols.org/2021/1/e23592). A Aguilera;  R Hernandez-Ramos;  A Haro;  <u>CE Boone</u>;  T Luo;  J Xu;  B Chakraborty;  C Karr;  S Darrow;  CA Figueroa   <span style="background-color:cadetblue; color:Azure">nudges</span></span></small><br/> 
+<small>*JMIR Mental Health* 2021. [Protocol](https://www.researchprotocols.org/2021/1/e23592). A Aguilera;  R Hernandez-Ramos;  A Haro;  <u>CE Boone</u>;  T Luo;  J Xu;  B Chakraborty;  C Karr;  S Darrow;  CA Figueroa   <span style="background-color:cadetblue; color:Azure">nudges</span> </small><br/> 
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
