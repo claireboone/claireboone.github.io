@@ -13,7 +13,7 @@ permalink: /research/
 </small>  
 <div style="margin-left: 1em;">
 <details>
-<summary><small>Abstract</small></summary>
+<summary>Abstract</summary>
 <small> 
 <p>Missed clinic appointments or no-shows burden health care systems through inefficient use of staff time and resources. Scheduling software combined with automatically sent appointment reminders shows promise to improve clinics’ management through timely cancellations and re-scheduling, but at-scale evidence is missing. We study a nationwide text message appointment reminder program in Chile implemented at primary care clinics for patients with chronic disease. Using longitudinal clinic-level data, we find that the program did not change the number of visits by chronic patients eligible to receive the reminder, but visits from other patients ineligible to receive reminders increased by 5.0% in the first year and 7.4% in the second. Clinics treating more chronic patients and those with a relatively younger patient population benefited more from the program. Scheduling systems combined with automatic appointment reminders were effective in increasing clinics’ ability to care for more patients, likely due to timely cancellations and re-scheduling.</p>  
 </small>
@@ -27,7 +27,7 @@ permalink: /research/
 <span style="background-color:goldenrod; color:white">health services</span><br/></small>
 <div style="margin-left: 1em;">
 <details>
-<summary><small>Abstract</small></summary>
+<summary>Abstract</summary>
 <small>
 <p> <u>Background:</u> Low and varied quality of care has been demonstrated for childhood illnesses in low- and middle-income country settings. Some quality improvement strategies focus on increasing patient engagement; however, evidence suggests that patients demanding medicines can favor the selection of resistant microbial strains in the individual and the community if drugs are inappropriately used. Antibiotics, and the consequences of their overuse, has been at the forefront of Kenyan health policy and several public health campaigns, whereas consequences of misusing antiparasitic drugs receive less attention. This study examines the effects on quality of care when patients demand different types of unnecessary medicines. <br> 
 <br>  
@@ -43,7 +43,7 @@ permalink: /research/
 
   
 <u>The Impact of AHME on Pro-Poor Healthcare</u>   
-<small> With Joshua Gruber, Paul Gertler, and Ada Kwan. [AHME RCT Registry](https://www.socialscienceregistry.org/trials/217)  <span style="background-color:cadetblue; color:Azure">clinical decision-making</span><span style="background-color:goldenrod; color:white">health services</span> </small>
+<small> With Joshua Gruber, Paul Gertler, and Ada Kwan. [AHME RCT Registry](https://www.socialscienceregistry.org/trials/217)  <span style="background-color:cadetblue; color:Azure">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span> </small>
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
@@ -64,7 +64,7 @@ permalink: /research/
 *Presentations:* ASHEcon 2021, iHEA 2021, CHITA 2020.  </small> 
 <div style="margin-left: 1em;">
 <details>
-<summary><small>**Abstract**</small></summary>
+<summary>Abstract</summary>
 <small>
 <p><u>Background:</u> Attending clinic appointments as scheduled is crucial for patients living with chronic diseases as they receive screenings, prescriptions, and information from healthcare providers. Yet, appointment adherence remains low. Most common reasons for missing appointments include forgetting or confusing the date, time, or location of the appointment; making Short Message Service (SMS) appointment reminders a promising tool to improve chronic care. Small pilot studies have shown the efficacy of reminders short-term, but evidence on how their usage at-scale and long-term is missing. We evaluate short and long-term effects of SMS appointment reminders sent at scale on the management of chronic disease.</p>    
 
@@ -85,7 +85,7 @@ permalink: /research/
 </small> 
 <div style="margin-left: 1em;">
 <details>
-<summary><small>Abstract</small></summary>
+<summary>Abstract</summary>
 <small>
 <p><u>Background:</u> As governments commit to universal access to high quality care, questions related to improving quality are eclipsed by questions on how to define and measure quality. We draw from Donabedian’s conceptual framework, which categorizes quality of care dimensions into measurements of structures, processes, and outcomes, to comprehensively evaluate the impact of a randomized, at-scale quality of care improvement program for Kenya’s private sector.<br/>
  <br/> 
@@ -98,15 +98,7 @@ permalink: /research/
 <br/>     
 
 <u>The Long-term Health Impact of In-Utero Exposure to Excessive Intake of Sugar</u> <br/>
-<small> With Paul Gertler and Tadeja Gracner.  <span style="background-color:olivedrab; color:floralwhite">chronic diseases </span> </small> <br/>
-<div style="margin-left: 1em;">
-<details>
-<summary><small>Abstract</small></summary>
-<small>
-<p> </p>  
-</small>  
-</details>
-</div>   
+<small> With Paul Gertler and Tadeja Gracner.  <span style="background-color:olivedrab; color:floralwhite">chronic diseases </span> </small> <br/> 
 <br/>  
   
  
@@ -115,7 +107,7 @@ permalink: /research/
 <small>*JMIR Mental Health* 2021. [Protocol](https://www.researchprotocols.org/2021/1/e23592). A Aguilera;  R Hernandez-Ramos;  A Haro;  <u>CE Boone</u>;  T Luo;  J Xu;  B Chakraborty;  C Karr;  S Darrow;  CA Figueroa   <span style="background-color:cornflowerblue; color:white">nudges</span></small><br/> 
 <div style="margin-left: 1em;">
 <details>
-<summary><small>Abstract</small></summary>
+<summary>Abstract</summary>
 <small>
 <p><u>Background:</u> Social distancing and stay-at-home orders are critical interventions to slow down person-to-person transmission of COVID-19. While these societal changes help to contain the pandemic, they also have unintended negative consequences, including anxiety and depression. We developed StayWell, a daily skills-based SMS text messaging program, to mitigate COVID-19 related depression and anxiety symptoms among people who speak English and Spanish in the United States.<br> 
 <br> 
@@ -136,7 +128,7 @@ permalink: /research/
 </small><br/> 
 <div style="margin-left: 1em;">
 <details>
-<summary><small>Abstract</small></summary>
+<summary>Abstract</summary>
 <small>
 <p><u>Background:</u> Indigenous peoples worldwide carry a disproportionate tuberculosis burden. There is an increasing awareness of the effect of social determinants and proximate determinants such as alcohol use, overcrowding, type 1 and type 2 diabetes, substance misuse, HIV, food insecurity and malnutrition, and smoking on the burden of tuberculosis. We aimed to understand the potential contribution of such determinants to tuberculosis in Indigenous peoples and to document steps taken to address them. <br> 
 <br> 
