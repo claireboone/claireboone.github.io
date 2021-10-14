@@ -98,9 +98,7 @@ permalink: /research/
 <br/>     
 
 <u>The Long-term Health Impact of In-Utero Exposure to Excessive Intake of Sugar</u> <br/>
-<small> With Paul Gertler and Tadeja Gracner.
- 
- <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span></small><br/>
+<small> With Paul Gertler and Tadeja Gracner.  <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span></small><br/>
 <div style="margin-left: 1em;">
 <details>
 <summary><small>Abstract</small></summary>
