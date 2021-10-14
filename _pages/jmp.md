@@ -13,5 +13,5 @@ group: navigation
 </small>
 
 <p align="left">
-  <img width="460" height="300" src="https://claireboone.github.io/files/website_bunch_estimation.png">
+  <img width="460" height="300" src="https://claireboone.github.io/files/website_bunching_diag.png"> 
 </p>
