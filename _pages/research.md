@@ -22,26 +22,25 @@ permalink: /research/
 <br/> 
 
 
-
-
-
-<u>How Can Quality of Healthcare Be Assessed in the 21st Century?</u>  
-<small> With Paul Gertler, Ada Kwan, Nicole Perales.  <span style="background-color:goldenrod; color:white">health services</span>
-</small> 
+<u>Do private providers give patients what they demand, even if it's unnecessary? A standardized patient experiment in Kenya</u> <br/>
+<small> With Paul Gertler, Ada Kwan, and Giorgia Sulis. [AHME RCT Registry](https://www.socialscienceregistry.org/trials/217)  <span style="background-color:cadetblue; color:Azure">clinical decision-making</span>
+<span style="background-color:goldenrod; color:white">health services</span><br/></small>
 <div style="margin-left: 1em;">
 <details>
 <summary><small>Abstract</small></summary>
 <small>
-<p><u>Background:</u> As governments commit to universal access to high quality care, questions related to improving quality are eclipsed by questions on how to define and measure quality. We draw from Donabedian’s conceptual framework, which categorizes quality of care dimensions into measurements of structures, processes, and outcomes, to comprehensively evaluate the impact of a randomized, at-scale quality of care improvement program for Kenya’s private sector.<br/>
- <br/> 
-<u>Methods:</u> Across a sample of N=232 clinics, we collected comprehensive quality of care data using N=1195 standardized patient visits – the state-of-the-art method to assess provider practice, N=322 provider surveys with vignettes to measure knowledge, patient exit interviews, and household and clinic surveys. We use these data to examine a program’s effects on three quality of care dimensions: structures (e.g. sources), processes (e.g. diagnostic and treatment actions), and outcomes (e.g. client experience). <br/>
-  <br/>
-<u>Results:</u> We found the program improved structures, but these improvements did not translate into better process quality. The program reduced correct care by 12% (p-value<0.05), but standardized patients, real clients, and households did not recognize any changes in quality due to the program. In our study setting where highly competent and well-stocked private providers gave lower quality of care, the Donabedian framework appeared comprehensive, but failed to pinpoint the drivers of process quality. By simultaneously examining structures, processes, and outcomes with multiple measurement methods, we conclude that a new quality of care framework is needed that accounts for market dynamics, accountability of providers, altruistic preferences of providers, effective targeting for the poor and marginalized, and ongoing quality monitoring.</p>  
-</small>
-</details> 
-</div> 
-<br/> 
-  
+<p> <u>Background:</u> Low and varied quality of care has been demonstrated for childhood illnesses in low- and middle-income country settings. Some quality improvement strategies focus on increasing patient engagement; however, evidence suggests that patients demanding medicines can favor the selection of resistant microbial strains in the individual and the community if drugs are inappropriately used. Antibiotics, and the consequences of their overuse, has been at the forefront of Kenyan health policy and several public health campaigns, whereas consequences of misusing antiparasitic drugs receive less attention. This study examines the effects on quality of care when patients demand different types of unnecessary medicines. <br> 
+<br>  
+<u>Methods:</u> We conduct an experiment where standardized patients (SPs), locally recruited individuals trained to simulate a standardized case scenario, present at private clinics demanding one of two unnecessary medicines. Between March 8 and May 28, 2019, 10 SPs portraying caretakers of a pre-scripted watery diarrhea childhood case scenario (in absentia) conducted N=200 successful SP-provider visits at 200 private, primary care clinics in Kenya. Half of the clinics were randomly assigned to receive an SP demanding amoxicillin (an antibiotic); the other half, an SP demanding albendazole (an antiparasitic drug often used for deworming), with all other presenting characteristics the same. We analyzed 200 visits with logistic and linear regression models to assess the effects of demanding different unnecessary medicines on correct and unnecessary quality of care outcomes.<br> 
+<br> 
+<u>Findings:</u> Demanding albendazole significantly increased its rate of dispensing to 35% (95% CI: 25-44) compared to 3% (95% CI: 0-7) among those who didn't demand it (adjusted odds ratio 0.06, 95% CI: 0.02, 0.23, p<0.001). The rate of dispensing amoxicillin did not significantly differ between those who demanded it and those who did not demand it (adjusted odds ratio 1.73, 95% CI: 0.50,5.98). Neither had an effect on any correct case management outcomes, such as treatment or referral elsewhere.<br> 
+<br> 
+<u>Interpretation:</u> Private providers appear to account for both business-driven benefits as well as individual health impacts when making prescribing decisions. Additional research is needed on provider`s knowledge and perceptions of the extent to which different unnecessary medicines can be harmful to distinguish why they make such prescribing decisions when patients demand specific incorrect care. </p> 
+</small>  
+</details>
+</div>   
+<br/>  
+
   
 <u>The Impact of AHME on Pro-Poor Healthcare</u>   
 <small> With Joshua Gruber, Paul Gertler, and Ada Kwan. [AHME RCT Registry](https://www.socialscienceregistry.org/trials/217)</small><br/>  <span style="background-color:goldenrod; color:white">health services</span></small>
@@ -81,34 +80,27 @@ permalink: /research/
 </div> 
 <br/>
 
-    
-  
-<u>Do private providers give patients what they demand, even if it's unnecessary? A standardized patient experiment in Kenya</u> <br/>
-<small> With Paul Gertler, Ada Kwan, and Giorgia Sulis. [AHME RCT Registry](https://www.socialscienceregistry.org/trials/217)</small>
- 
- <span style="background-color:cadetblue; color:Azure">clinical decision-making</span>
- <span style="background-color:goldenrod; color:white">health services</span><br/>
+<u>How Can Quality of Healthcare Be Assessed in the 21st Century?</u>  
+<small> With Paul Gertler, Ada Kwan, Nicole Perales.  <span style="background-color:goldenrod; color:white">health services</span>
+</small> 
 <div style="margin-left: 1em;">
 <details>
 <summary><small>Abstract</small></summary>
 <small>
-<p> <u>Background:</u> Low and varied quality of care has been demonstrated for childhood illnesses in low- and middle-income country settings. Some quality improvement strategies focus on increasing patient engagement; however, evidence suggests that patients demanding medicines can favor the selection of resistant microbial strains in the individual and the community if drugs are inappropriately used. Antibiotics, and the consequences of their overuse, has been at the forefront of Kenyan health policy and several public health campaigns, whereas consequences of misusing antiparasitic drugs receive less attention. This study examines the effects on quality of care when patients demand different types of unnecessary medicines. <br> 
-<br>  
-<u>Methods:</u> We conduct an experiment where standardized patients (SPs), locally recruited individuals trained to simulate a standardized case scenario, present at private clinics demanding one of two unnecessary medicines. Between March 8 and May 28, 2019, 10 SPs portraying caretakers of a pre-scripted watery diarrhea childhood case scenario (in absentia) conducted N=200 successful SP-provider visits at 200 private, primary care clinics in Kenya. Half of the clinics were randomly assigned to receive an SP demanding amoxicillin (an antibiotic); the other half, an SP demanding albendazole (an antiparasitic drug often used for deworming), with all other presenting characteristics the same. We analyzed 200 visits with logistic and linear regression models to assess the effects of demanding different unnecessary medicines on correct and unnecessary quality of care outcomes.<br> 
-<br> 
-<u>Findings:</u> Demanding albendazole significantly increased its rate of dispensing to 35% (95% CI: 25-44) compared to 3% (95% CI: 0-7) among those who didn't demand it (adjusted odds ratio 0.06, 95% CI: 0.02, 0.23, p<0.001). The rate of dispensing amoxicillin did not significantly differ between those who demanded it and those who did not demand it (adjusted odds ratio 1.73, 95% CI: 0.50,5.98). Neither had an effect on any correct case management outcomes, such as treatment or referral elsewhere.<br> 
-<br> 
-<u>Interpretation:</u> Private providers appear to account for both business-driven benefits as well as individual health impacts when making prescribing decisions. Additional research is needed on provider`s knowledge and perceptions of the extent to which different unnecessary medicines can be harmful to distinguish why they make such prescribing decisions when patients demand specific incorrect care. </p> 
-</small>  
-</details>
-</div>   
-<br/>  
-
+<p><u>Background:</u> As governments commit to universal access to high quality care, questions related to improving quality are eclipsed by questions on how to define and measure quality. We draw from Donabedian’s conceptual framework, which categorizes quality of care dimensions into measurements of structures, processes, and outcomes, to comprehensively evaluate the impact of a randomized, at-scale quality of care improvement program for Kenya’s private sector.<br/>
+ <br/> 
+<u>Methods:</u> Across a sample of N=232 clinics, we collected comprehensive quality of care data using N=1195 standardized patient visits – the state-of-the-art method to assess provider practice, N=322 provider surveys with vignettes to measure knowledge, patient exit interviews, and household and clinic surveys. We use these data to examine a program’s effects on three quality of care dimensions: structures (e.g. sources), processes (e.g. diagnostic and treatment actions), and outcomes (e.g. client experience). <br/>
+  <br/>
+<u>Results:</u> We found the program improved structures, but these improvements did not translate into better process quality. The program reduced correct care by 12% (p-value<0.05), but standardized patients, real clients, and households did not recognize any changes in quality due to the program. In our study setting where highly competent and well-stocked private providers gave lower quality of care, the Donabedian framework appeared comprehensive, but failed to pinpoint the drivers of process quality. By simultaneously examining structures, processes, and outcomes with multiple measurement methods, we conclude that a new quality of care framework is needed that accounts for market dynamics, accountability of providers, altruistic preferences of providers, effective targeting for the poor and marginalized, and ongoing quality monitoring.</p>  
+</small>
+</details> 
+</div> 
+<br/>     
 
 <u>The Long-term Health Impact of In-Utero Exposure to Excessive Intake of Sugar</u> <br/>
-<small> With Paul Gertler and Tadeja Gracner.</small>
+<small> With Paul Gertler and Tadeja Gracner.
  
- <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span><br/>
+ <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span></small><br/>
 <div style="margin-left: 1em;">
 <details>
 <summary><small>Abstract</small></summary>
