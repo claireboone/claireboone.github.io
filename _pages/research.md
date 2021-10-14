@@ -7,7 +7,7 @@ permalink: /research/
 [How Spillovers from Appointment Reminders Improve Health Clinic Efficiency](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf) <br/>
 <small>*NBER Working Paper* and *Revision requested at Journal of Health Economics*, with Pablo Celhay, Paul Gertler, Tadeja Gracner, and Josefina Rodriguez.
   
- <span style="background-color:cornflowerblue; color:white">nudges</span>
+ <span style="background-color:cadetblue; color:Azure">nudges</span>
  <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
  <span style="background-color:goldenrod; color:white">health services</span>
 </small>  
@@ -58,7 +58,7 @@ permalink: /research/
 
 ## In Progress
 <u>The Role of Appointment Reminders in the Management of Chronic Disease</u> <br/>
-<small> with Pablo Celhay, Paul Gertler, and Tadeja Gracner.   <span style="background-color:cornflowerblue; color:white">nudges</span>
+<small> with Pablo Celhay, Paul Gertler, and Tadeja Gracner.   <span style="background-color:cadetblue; color:Azure">nudges</span>
  <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
  <span style="background-color:goldenrod; color:white">health services</span><br>
 *Presentations:* ASHEcon 2021, iHEA 2021, CHITA 2020.  </small> 
@@ -104,7 +104,7 @@ permalink: /research/
  
 ## Publications
 [StayWell at Home: A Text Messaging Intervention to Counteract Depression and Anxiety during COVID-19 Social Distancing](https://claireboone.github.io/files/CBoone_StayWell_JMIR2021.pdf)<br/> 
-<small>*JMIR Mental Health* 2021. [Protocol](https://www.researchprotocols.org/2021/1/e23592). A Aguilera;  R Hernandez-Ramos;  A Haro;  <u>CE Boone</u>;  T Luo;  J Xu;  B Chakraborty;  C Karr;  S Darrow;  CA Figueroa   <span style="background-color:cornflowerblue; color:white">nudges</span></small><br/> 
+<small>*JMIR Mental Health* 2021. [Protocol](https://www.researchprotocols.org/2021/1/e23592). A Aguilera;  R Hernandez-Ramos;  A Haro;  <u>CE Boone</u>;  T Luo;  J Xu;  B Chakraborty;  C Karr;  S Darrow;  CA Figueroa   <span style="background-color:cadetblue; color:Azure">nudges</span></span></small><br/> 
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
