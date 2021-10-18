@@ -42,7 +42,7 @@ permalink: /research/
 <br/>  
 
   
-<u>The Impact of AHME on Pro-Poor Healthcare</u>   
+<u>Can a private health sector engagement program with social health insurance encourage pro-poor outcomes? Evidence from an impact evaluation in Kenya. (with P Gertler, J Gruber, \& A Kwan). </u>   
 <small> With Joshua Gruber, Paul Gertler, and Ada Kwan. [AHME RCT Registry](https://www.socialscienceregistry.org/trials/217)  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span> </small>
 <div style="margin-left: 1em;">
 <details>
