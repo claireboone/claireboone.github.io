@@ -5,6 +5,8 @@ author_profile: true
 group: navigation
 ---
 
+<meta name="description" content="Claire Boone's job market paper.">
+
 ## Discretion in Clinical Decision-Making 
 
 <div style="margin-left: 1em;">
