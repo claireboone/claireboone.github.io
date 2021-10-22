@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "About me"
+author:
+  name: Claire Boone
 excerpt: 
 author_profile: true
 redirect_from: 
