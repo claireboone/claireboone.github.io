@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<meta name="description" content="Claire Boone's CV.">
 
 Download [here](https://claireboone.github.io/files/cv.pdf). <br/>
 
