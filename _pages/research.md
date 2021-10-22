@@ -23,7 +23,7 @@ permalink: /research/
 
 
 <u>Do private providers give patients what they demand, even if it is inappropriate? A randomized study utilizing standardized patients in Kenya</u> <br/>
-<small>*Under review at BMJ Global Health*, with Paul Gertler, Ada Kwan, and Giorgia Sulis. [AHME RCT Registry](https://www.socialscienceregistry.org/trials/217)  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
+<small>*Under review at BMJ Global Health*, with Paul Gertler, Ada Kwan, and Giorgia Sulis.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
 <span style="background-color:goldenrod; color:white">health services</span><br/></small>
 <div style="margin-left: 1em;">
 <details>
@@ -43,7 +43,7 @@ permalink: /research/
 
   
 <u>Can a private health sector engagement program with social health insurance encourage pro-poor outcomes? Evidence from an impact evaluation in Kenya.</u> <br/>
-<small> *Submitted to Health Services Research Special Issue on Health Care Equity,* with Joshua Gruber, Paul Gertler, and Ada Kwan. [AHME RCT Registry](https://www.socialscienceregistry.org/trials/217)  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span> </small>
+<small> *Submitted to Health Services Research Special Issue on Health Care Equity,* with Joshua Gruber, Paul Gertler, and Ada Kwan.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span> </small>
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
