@@ -10,7 +10,7 @@ redirect_from:
 ---
 <meta name="description" content="Claire Boone's CV.">
 
-Download [here](https://claireboone.github.io/files/cv.pdf). <br/>
+Download [here](https://claireboone.github.io/files/CBoone_CV.pdf). <br/>
 
 
 [//]: # (<iframe src="http://docs.google.com/gview?url=https://claireboone.github.io/files/CBoone_CV.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>)
