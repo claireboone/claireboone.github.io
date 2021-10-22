@@ -2,6 +2,7 @@
 title: "Research"
 permalink: /research/
 ---
+<meta name="description" content="Overview of Claire Boone's research.">
 
 ## Working Papers
 [How Spillovers from Appointment Reminders Improve Health Clinic Efficiency](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf) <br/>
