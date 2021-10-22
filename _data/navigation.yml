@@ -3,8 +3,8 @@ main:
   - title: "Job Market Paper"
     url: /jmp/
   
-  - title: "CV"
-    url: /cv/
-    
   - title: "Research"
-    url: /research/  
+    url: /research/ 
+  
+  - title: "CV"
+    url: /cv/ 
