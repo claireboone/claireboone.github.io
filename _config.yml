@@ -11,7 +11,7 @@ title                    : "Claire Boone"
 title_separator          : "-"
 name                     : &name "Claire Boone"
 description              : &description "PhD Candidate in Health Economics at UC Berkeley"
-url                      : https://claireboone.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://claireboone.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "claireboone.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -264,12 +264,14 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-redirect-from
+  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-feed
   - jemoji
   - jekyll-sitemap
 
