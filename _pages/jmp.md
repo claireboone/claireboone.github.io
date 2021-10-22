@@ -2,6 +2,8 @@
 title: "Job Market Paper"
 permalink: /jmp/
 author_profile: true
+author:
+  name: Claire Boone
 group: navigation
 ---
 
