@@ -3,6 +3,8 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+author:
+  name: Claire Boone
 redirect_from:
   - /resume
 ---
