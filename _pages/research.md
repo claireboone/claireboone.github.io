@@ -1,6 +1,8 @@
 ---
 title: "Research"
 permalink: /research/
+author:
+  name: Claire Boone
 ---
 <meta name="description" content="Overview of Claire Boone's research.">
 
