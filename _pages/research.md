@@ -32,7 +32,7 @@ author:
 <details>
 <summary>Abstract</summary>
 <small>
-<p> We use standardized patients to study the effects of a patient demanding one of two possible inappropriate medicines, as examples of trade-offs providers might make between risks, profits, and patient satisfaction. At private clinics in Kenya, demanding a deworming medicine significantly increased its rate of dispensing to 35\% (95\% CI: 25-44) compared to 3\% (95\% CI: 0-7) without demanding. Demanding an antibiotic did not change its probability of dispensing. These results show private providers appear to account for both business-driven benefits and individual health impacts when making prescribing decisions.</p> 
+<p> We use standardized patients to study the effects of a patient demanding one of two possible inappropriate medicines, as examples of trade-offs providers might make between risks, profits, and patient satisfaction. At private clinics in Kenya, demanding a deworming medicine significantly increased its rate of dispensing to 35% (95% CI: 25-44) compared to 3% (95% CI: 0-7) without demanding. Demanding an antibiotic did not change its probability of dispensing. These results show private providers appear to account for both business-driven benefits and individual health impacts when making prescribing decisions.</p> 
 </small>  
 </details>
 </div>   
@@ -76,7 +76,7 @@ author:
 <details>
 <summary>Abstract</summary>
 <small>
-<p>Using Donabedian’s quality of health care conceptual framework, which categorizes quality measurement into structures, processes, and outcomes, we evaluate the impact of a randomized quality of care improvement program for Kenya’s private health sector. The program improved structures, but this was not translated into better process quality. The program reduced correct care by 12\%, but standardized patients, real clients, and households did not recognize any changes in quality due to the program. By simultaneously examining structures, processes, and outcomes with multiple measurement methods we conclude that a new quality of care framework is needed that accounts for market dynamics, accountability of providers, provider preferences, effective targeting for the poor and marginalized, and ongoing quality monitoring.</p>  
+<p>Using Donabedian’s quality of health care conceptual framework, which categorizes quality measurement into structures, processes, and outcomes, we evaluate the impact of a randomized quality of care improvement program for Kenya’s private health sector. The program improved structures, but this was not translated into better process quality. The program reduced correct care by 12%, but standardized patients, real clients, and households did not recognize any changes in quality due to the program. By simultaneously examining structures, processes, and outcomes with multiple measurement methods we conclude that a new quality of care framework is needed that accounts for market dynamics, accountability of providers, provider preferences, effective targeting for the poor and marginalized, and ongoing quality monitoring.</p>  
 </small>
 </details> 
 </div> 
