@@ -9,7 +9,7 @@ group: navigation
 
 <meta name="description" content="Claire Boone's job market paper.">
 
-## The Role of Thresholds and Discretion in Clinical Decision-Making 
+## The Role of Discretion in Clinical Decision Making: Evidence from Thresholds
 
 <div style="margin-left: 1em;">
 <small> 
