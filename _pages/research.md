@@ -26,7 +26,7 @@ author:
 
 
 <u>Do private providers give patients what they demand, even if it is inappropriate? A randomized study utilizing standardized patients in Kenya</u> <br/>
-<small>*Under review at BMJ Open*, with Paul Gertler, Ada Kwan, and Giorgia Sulis.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
+<small>*Revision requested at BMJ Open*, with Paul Gertler, Ada Kwan, and Giorgia Sulis.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
 <span style="background-color:goldenrod; color:white">health services</span><br/></small>
 <div style="margin-left: 1em;">
 <details>
@@ -68,19 +68,7 @@ author:
 </details> 
 </div> 
 <br/>
-
-<u>How Can Quality of Healthcare Be Assessed in the 21st Century?</u>  
-<small> With Paul Gertler, Ada Kwan, Nicole Perales.  <span style="background-color:goldenrod; color:white">health services</span>
-</small> 
-<div style="margin-left: 1em;">
-<details>
-<summary>Abstract</summary>
-<small>
-<p>Using Donabedian’s quality of health care conceptual framework, which categorizes quality measurement into structures, processes, and outcomes, we evaluate the impact of a randomized quality of care improvement program for Kenya’s private health sector. The program improved structures, but this was not translated into better process quality. The program reduced correct care by 12%, but standardized patients, real clients, and households did not recognize any changes in quality due to the program. By simultaneously examining structures, processes, and outcomes with multiple measurement methods we conclude that a new quality of care framework is needed that accounts for market dynamics, accountability of providers, provider preferences, effective targeting for the poor and marginalized, and ongoing quality monitoring.</p>  
-</small>
-</details> 
-</div> 
-<br/>     
+   
 
 <u>The Long-term Health Impact of In-Utero Exposure to Excessive Intake of Sugar</u> <br/>
 <small> With Paul Gertler and Tadeja Gracner.  <span style="background-color:olivedrab; color:floralwhite">chronic diseases </span> </small> <br/> 
