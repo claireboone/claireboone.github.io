@@ -22,7 +22,7 @@ author:
 
   
 <u>Can a private health sector engagement program with social health insurance encourage pro-poor outcomes? Evidence from an impact evaluation in Kenya.</u> <br/>
-<small> *Under review at Health Services Research, Special Issue on Health Care Equity,* with Joshua Gruber, Paul Gertler, and Ada Kwan.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span> </small>
+<small> with Joshua Gruber, Paul Gertler, and Ada Kwan.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span> </small>
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
