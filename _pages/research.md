@@ -7,24 +7,6 @@ author:
 <meta name="description" content="Overview of Claire Boone's research.">
 
 ## Working Papers
-[How Spillovers from Appointment Reminders Improve Health Clinic Efficiency](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf) <br/>
-<small>*NBER Working Paper* and *Revision requested at Journal of Health Economics*, with Pablo Celhay, Paul Gertler, Tadeja Gracner, and Josefina Rodriguez.
-  
- <span style="background-color:cadetblue; color:Azure">nudges</span>
- <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
- <span style="background-color:goldenrod; color:white">health services</span>
-</small>  
-<div style="margin-left: 1em;">
-<details>
-<summary>Abstract</summary>
-<small> 
-<p>Missed clinic appointments or no-shows burden health care systems through inefficient use of staff time and resources. Scheduling software combined with automatically sent appointment reminders shows promise to improve clinics’ management through timely cancellations and re-scheduling, but at-scale evidence is missing. We study a nationwide text message appointment reminder program in Chile implemented at primary care clinics for patients with chronic disease. Using longitudinal clinic-level data, we find that the program did not change the number of visits by chronic patients eligible to receive the reminder, but visits from other patients ineligible to receive reminders increased by 5.0% in the first year and 7.4% in the second. Clinics treating more chronic patients and those with a relatively younger patient population benefited more from the program. Scheduling systems combined with automatic appointment reminders were effective in increasing clinics’ ability to care for more patients, likely due to timely cancellations and re-scheduling.</p>  
-</small>
-</details>  
-</div>  
-<br/> 
-
-
 <u>Do private providers give patients what they demand, even if it is inappropriate? A randomized study utilizing standardized patients in Kenya</u> <br/>
 <small>*Revision requested at BMJ Open*, with Paul Gertler, Ada Kwan, and Giorgia Sulis.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
 <span style="background-color:goldenrod; color:white">health services</span><br/></small>
@@ -76,6 +58,23 @@ author:
   
  
 ## Publications
+[How Spillovers from Appointment Reminders Improve Health Clinic Efficiency](https://claireboone.github.io/files/Boone et al. SMS JHE 2022.pdf) <br/>
+<small>*Journal of Health Economics 2022* and [NBER Working Paper](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf), with Pablo Celhay, Paul Gertler, Tadeja Gracner, and Josefina Rodriguez.
+ <span style="background-color:cadetblue; color:Azure">nudges</span>
+ <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
+ <span style="background-color:goldenrod; color:white">health services</span>
+</small>  
+<div style="margin-left: 1em;">
+<details>
+<summary>Abstract</summary>
+<small> 
+<p>Missed clinic appointments or no-shows burden health care systems through inefficient use of staff time and resources. Scheduling software combined with automatically sent appointment reminders shows promise to improve clinics’ management through timely cancellations and re-scheduling, but at-scale evidence is missing. We study a nationwide text message appointment reminder program in Chile implemented at primary care clinics for patients with chronic disease. Using longitudinal clinic-level data, we find that the program did not change the number of visits by chronic patients eligible to receive the reminder, but visits from other patients ineligible to receive reminders increased by 5.0% in the first year and 7.4% in the second. Clinics treating more chronic patients and those with a relatively younger patient population benefited more from the program. Scheduling systems combined with automatic appointment reminders were effective in increasing clinics’ ability to care for more patients, likely due to timely cancellations and re-scheduling.</p>  
+</small>
+</details>  
+</div>  
+<br/> 
+
+
 [StayWell at Home: A Text Messaging Intervention to Counteract Depression and Anxiety during COVID-19 Social Distancing](https://claireboone.github.io/files/CBoone_StayWell_JMIR2021.pdf)<br/> 
 <small>*JMIR Mental Health* 2021. [Protocol](https://www.researchprotocols.org/2021/1/e23592). A Aguilera;  R Hernandez-Ramos;  A Haro;  <u>CE Boone</u>;  T Luo;  J Xu;  B Chakraborty;  C Karr;  S Darrow;  CA Figueroa   <span style="background-color:cadetblue; color:Azure">nudges</span> </small><br/> 
 <div style="margin-left: 1em;">
