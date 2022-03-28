@@ -44,7 +44,8 @@ author:
   
  
 ## Publications
-[Do private providers give patients what they demand, even if it is inappropriate? A randomized study utilizing standardized patients in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <br/>
+[Do private providers give patients what they demand, even if it is inappropriate? A randomised study using unannounced standardised patients
+in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <br/>
 <small>*BMJ Open* 2022, with Paul Gertler, Ada Kwan, and Giorgia Sulis.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
 <span style="background-color:goldenrod; color:white">health services</span><br/></small>
 <div style="margin-left: 1em;">
