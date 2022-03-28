@@ -6,21 +6,7 @@ author:
 ---
 <meta name="description" content="Overview of Claire Boone's research.">
 
-## Working Papers
-<u>Do private providers give patients what they demand, even if it is inappropriate? A randomized study utilizing standardized patients in Kenya</u> <br/>
-<small>*Revision requested at BMJ Open*, with Paul Gertler, Ada Kwan, and Giorgia Sulis.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
-<span style="background-color:goldenrod; color:white">health services</span><br/></small>
-<div style="margin-left: 1em;">
-<details>
-<summary>Abstract</summary>
-<small>
-<p> We use standardized patients to study the effects of a patient demanding one of two possible inappropriate medicines, as examples of trade-offs providers might make between risks, profits, and patient satisfaction. At private clinics in Kenya, demanding a deworming medicine significantly increased its rate of dispensing to 35% (95% CI: 25-44) compared to 3% (95% CI: 0-7) without demanding. Demanding an antibiotic did not change its probability of dispensing. These results show private providers appear to account for both business-driven benefits and individual health impacts when making prescribing decisions.</p> 
-</small>  
-</details>
-</div>   
-<br/>  
-
-  
+## Working Papers  
 <u>Can a private health sector engagement program with social health insurance encourage pro-poor outcomes? Evidence from an impact evaluation in Kenya.</u> <br/>
 <small> with Joshua Gruber, Paul Gertler, and Ada Kwan.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span> </small>
 <div style="margin-left: 1em;">
@@ -58,6 +44,21 @@ author:
   
  
 ## Publications
+[Do private providers give patients what they demand, even if it is inappropriate? A randomized study utilizing standardized patients in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <br/>
+<small>*BMJ Open 2022*, with Paul Gertler, Ada Kwan, and Giorgia Sulis.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
+<span style="background-color:goldenrod; color:white">health services</span><br/></small>
+<div style="margin-left: 1em;">
+<details>
+<summary>Abstract</summary>
+<small>
+<p> We use standardized patients to study the effects of a patient demanding one of two possible inappropriate medicines, as examples of trade-offs providers might make between risks, profits, and patient satisfaction. At private clinics in Kenya, demanding a deworming medicine significantly increased its rate of dispensing to 35% (95% CI: 25-44) compared to 3% (95% CI: 0-7) without demanding. Demanding an antibiotic did not change its probability of dispensing. These results show private providers appear to account for both business-driven benefits and individual health impacts when making prescribing decisions.</p> 
+</small>  
+</details>
+</div>   
+<br/>  
+
+
+
 [How Spillovers from Appointment Reminders Improve Health Clinic Efficiency](https://claireboone.github.io/files/Boone_etal.SMS_JHE2022.pdf) <br/>
 <small>*Journal of Health Economics 2022* and [NBER Working Paper](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf), with Pablo Celhay, Paul Gertler, Tadeja Gracner, and Josefina Rodriguez.
  <span style="background-color:cadetblue; color:Azure">nudges</span>
