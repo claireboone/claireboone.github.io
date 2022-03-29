@@ -46,7 +46,7 @@ author:
 ## Publications
 [Do private providers give patients what they demand, even if it is inappropriate? A randomised study using unannounced standardised patients
 in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <br/>
-<small>*BMJ Open* 2022, with Paul Gertler, Ada Kwan, and Giorgia Sulis.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
+<small>*BMJ Open* 2022, A Kwan, <u>CE Boone</u>, G Sulis, P Gertler.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
 <span style="background-color:goldenrod; color:white">health services</span><br/></small>
 <div style="margin-left: 1em;">
 <details>
@@ -61,7 +61,7 @@ in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <
 
 
 [How Spillovers from Appointment Reminders Improve Health Clinic Efficiency](https://claireboone.github.io/files/Boone_etal.SMS_JHE2022.pdf) <br/>
-<small>*Journal of Health Economics* 2022 and [NBER Working Paper](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf), with Pablo Celhay, Paul Gertler, Tadeja Gracner, and Josefina Rodriguez.
+<small>*Journal of Health Economics* 2022 and [NBER Working Paper](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf), <u>CE Boone</u>, P Celhay, P Gertler, T Gracner, J Rodriguez.
  <span style="background-color:cadetblue; color:Azure">nudges</span>
  <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
  <span style="background-color:goldenrod; color:white">health services</span>
@@ -78,7 +78,7 @@ in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <
 
 
 [StayWell at Home: A Text Messaging Intervention to Counteract Depression and Anxiety during COVID-19 Social Distancing](https://claireboone.github.io/files/CBoone_StayWell_JMIR2021.pdf)<br/> 
-<small>*JMIR Mental Health* 2021. [Protocol](https://www.researchprotocols.org/2021/1/e23592). A Aguilera;  R Hernandez-Ramos;  A Haro;  <u>CE Boone</u>;  T Luo;  J Xu;  B Chakraborty;  C Karr;  S Darrow;  CA Figueroa   <span style="background-color:cadetblue; color:Azure">nudges</span> </small><br/> 
+<small>*JMIR Mental Health* 2021. [Protocol](https://www.researchprotocols.org/2021/1/e23592). A Aguilera,  R Hernandez-Ramos,  A Haro,  <u>CE Boone</u>,  T Luo,  J Xu,  B Chakraborty,  C Karr,  S Darrow,  CA Figueroa.   <span style="background-color:cadetblue; color:Azure">nudges</span> </small><br/> 
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
@@ -119,7 +119,7 @@ in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <
 <br/>  
 
 [Zika: A scourge in urban slums](https://claireboone.github.io/files/CBoone_Zika_PLOSNTD2017.pdf)<br>
-<small>*PLOS Neglected Tropical Diseases* 2017. RE Snyder, <u>CE Boone</u>, CA Araújo Cardoso, F Aguiar-Alves, F Neves, and LW Riley.
+<small>*PLOS Neglected Tropical Diseases* 2017. RE Snyder, <u>CE Boone</u>, CA Araújo Cardoso, F Aguiar-Alves, F Neves, LW Riley.
 <br> 
 *Commentary piece*
 </small> 
