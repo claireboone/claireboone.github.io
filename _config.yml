@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Claire Boone"
 title_separator          : "-"
 name                     : &name "Claire Boone"
-description              : &description "Postdoc U Chicago, Research Scientist Providence Health & Services"
+description              : &description ""
 url                      : "https://claireboone.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "claireboone.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Claire Boone"
   avatar           : "cboone_headshot.png"
-  bio              : "Postdoc U Chicago, Research Scientist Providence Health & Services (she/her)"
+  bio              : ""
   location         : "Chicago, USA"
   employer         :
   pubmed           : 
