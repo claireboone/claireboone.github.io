@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Claire Boone"
 title_separator          : "-"
 name                     : &name "Claire Boone"
-description              : &description "PhD Candidate in Health Economics at UC Berkeley"
+description              : &description "Postdoc U Chicago, Research Scientist Providence Health & Services"
 url                      : "https://claireboone.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "claireboone.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Claire Boone"
   avatar           : "cboone_headshot.png"
-  bio              : "PhD Candidate in Health Economics at UC Berkeley (she/her)"
-  location         : "Berkeley, California"
+  bio              : "Postdoc U Chicago, Research Scientist Providence Health & Services (she/her)"
+  location         : "Chicago, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KXV8HfAAAAAJ&hl=en"
-  email            : "cboone@berkeley.edu"
+  email            : "claireboone@uchicago.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
