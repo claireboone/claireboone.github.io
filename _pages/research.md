@@ -22,8 +22,8 @@ author:
 </div> 
 <br/>
 
-<u><u>Nudging Patients at Scale: Evidence from Text-message Appointment Reminders</u> <br/> <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
- <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
+<u>The Role of Discretion in Clinical Decision Making: Evidence from Thresholds</u> <br/> <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
+<small> <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
  <span style="background-color:goldenrod; color:white">health services</span><br>
 *Presentations:* UC Berkeley Health Policy Colloquium 2022, University of Copenhagen Health Economics Workshop 2022.  </small> 
 <div style="margin-left: 1em;">
