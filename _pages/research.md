@@ -7,6 +7,36 @@ author:
 <meta name="description" content="Overview of Claire Boone's research.">
 
 ## Working Papers  
+<u>Nudging Patients at Scale: Evidence from Text-message Appointment Reminders</u> <br/>
+<small> with Pablo Celhay, Paul Gertler, and Tadeja Gracner.   <span style="background-color:cadetblue; color:Azure">nudges</span>
+ <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
+ <span style="background-color:goldenrod; color:white">health services</span><br>
+*Presentations:* ASHEcon 2021, iHEA 2021, CHITA 2020. </small> 
+<div style="margin-left: 1em;">
+<details>
+<summary>Abstract</summary>
+<small>
+<p>We study how reminding high-risk patients of their upcoming preventative, primary care appointments impacts health behaviors. We use a natural experiment in Chile, where text-message appointment reminders were scaled up nation-wide over three years at public, primary care clinics. Our data come from national medical, medication, hospitalization, and mortality records and include over 300,000 patients, all recently diagnosed with type 2 diabetes and/or hypertension. We find that nudging patients to attend their preventative care appointments increases visits by 5 to 7%, results that are about half as large as published smaller-scale or efficacy trials. Our results increase to 9 to 11% after taking clinic-level compliance into account, where on average 53% of eligible patients were sent text-message reminders. This increase in primary care utilization translates into an 11% increase in health screening. Reminders also lead to a 42% improvement in anti-hypertensive medication adherence, which is largely attributed to patients having any active prescription. Last, SMS reminders lead to a 17% increase in cardiovascular hospitalizations coupled with a reduction in in-hospital mortality, suggesting an increase in referrals through primary care or timely care-seeking behavior of emergency and specialized health services. Our findings are particularly important for settings with a gate-keeping healthcare model, which is common in OECD countries. In this type of system, patients must first visit their primary care provider before being approved for tests, prescribed medication, or referred to speciality and hospital care. This paper shows that through intervening at the first step in the cascade of care, even a light touch intervention such as text-message reminders can have large and meaningful downstream impacts.</p>  
+</small>
+</details> 
+</div> 
+<br/>
+
+<u><u>Nudging Patients at Scale: Evidence from Text-message Appointment Reminders</u> <br/> <span style="background-color:cadetblue; color:Azure">nudges</span>
+ <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
+ <span style="background-color:goldenrod; color:white">health services</span><br>
+*Presentations:* UC Berkeley Health Policy Colloquium 2022, University of Coppenhagen Health Economics Workshop 2022.  </small> 
+<div style="margin-left: 1em;">
+<details>
+<summary>Abstract</summary>
+<small>
+<p>When a decision maker has discretion, such as a worker reporting their taxable income, threshold-based rules or policies can distort behavior. This has not been studied in the context of medicine where thresholds guide many important diagnosis and treatment decisions. I study the decision to diagnose and treat hypertension, defined as blood pressure $\geq$140/90 mmHg. Hypertension is the single most important risk factor for cardiovascular disease, but diagnosis can be challenging because blood pressure is a noisy measure of risk and often overstated in clinic. Using bunching estimation and electronic health records from over 600,000 patients in Chile I find that providers round the blood pressure of up to 62% of patients who test near the threshold, using their discretion to turn a positive test for hypertension into a negative. This behavioral response leads to a more accurate classification of patients in terms of their cardiovascular risk, as measured by future hospitalizations. I find that discretionary decisions are consistent with heuristic thinking: among patients with identical test results, those with characteristics representative of high cardiovascular risk are less likely to be sorted below the diagnostic threshold. These results suggest that in the case of limited information, heuristic thinking and discretionary diagnosis can lead to more accurate decisions and to better patient outcomes, underscoring the importance of clinical skill in achieving an efficient and equitable allocation of health care.</p>  
+</small>
+</details> 
+</div> 
+<br/>
+
+
 <u>Can a private health sector engagement program with social health insurance encourage pro-poor outcomes? Evidence from an impact evaluation in Kenya.</u> <br/>
 <small> with Joshua Gruber, Paul Gertler, and Ada Kwan.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span> </small>
 <div style="margin-left: 1em;">
@@ -22,22 +52,6 @@ author:
 
 
 ## In Progress
-<u>The Role of Appointment Reminders in the Management of Chronic Disease</u> <br/>
-<small> with Pablo Celhay, Paul Gertler, and Tadeja Gracner.   <span style="background-color:cadetblue; color:Azure">nudges</span>
- <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
- <span style="background-color:goldenrod; color:white">health services</span><br>
-*Presentations:* ASHEcon 2021, iHEA 2021, CHITA 2020.  </small> 
-<div style="margin-left: 1em;">
-<details>
-<summary>Abstract</summary>
-<small>
-<p>Using event studies and a difference-in-differences design we evaluate the effects of an national, at-scale appointment reminder program on the health behaviors of over 300,000 patients living with chronic conditions in Chile. Reminders increased patients’ use of preventative primary care, resulting in patients receiving more frequent health monitoring, more prescription updates, and better medication adherence. These patients were also more likely to be hospitalized for cardiovascular-related reasons but less likely to die in hospital, which may be driven by referrals or better health seeking behaviors. We conclude that a simple and low-cost nudge can lead to a meaningful improvement in health-seeking behaviors when implemented at scale.</p>  
-</small>
-</details> 
-</div> 
-<br/>
-   
-
 <u>The Long-term Health Impact of In-Utero Exposure to Excessive Intake of Sugar</u> <br/>
 <small> With Paul Gertler and Tadeja Gracner.  <span style="background-color:olivedrab; color:floralwhite">chronic diseases </span> </small> <br/> 
 <br/>  
