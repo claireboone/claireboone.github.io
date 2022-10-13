@@ -12,7 +12,7 @@ redirect_from:
 
 <meta name="description" content="Claire Boone, PhD Candidate in Health Economics at UC Berkeley.">
 
-I am a postdoctoral fellow at the University of Chicago, affiliated with the [Center for Health and the Social Sciences](https://chess.uchicago.edu/), and the [Center for Applied AI](https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence). I am also a research scientist in the Health Research Accelerator group at [Providence](https://research.providence.org/). 
+I am a postdoctoral fellow at the University of Chicago, affiliated with the [Center for Applied AI](https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence) and the [Center for Health and the Social Sciences](https://chess.uchicago.edu/). I am also a research scientist in the Health Research Accelerator group at [Providence](https://research.providence.org/) where I lead randomized evaluations of novel health care technologies.
 
 My research uses behavioral economics to understand and improve health services delivery, with a focus on healthcare provider decision-making. 
 
