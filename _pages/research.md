@@ -39,7 +39,7 @@ author:
 
 
 <u>Can a private health sector engagement program with social health insurance encourage pro-poor outcomes? Evidence from an impact evaluation in Kenya.</u> <br/>
-<small> with Joshua Gruber, Paul Gertler, and Ada Kwan.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span> </small>
+<small> with Joshua Gruber, Paul Gertler, Ada Kwan, and Grace Makana Barasa.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span> </small>
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
@@ -53,8 +53,7 @@ author:
 
 <u>Increasing the intensity of physical education reduces student enrollment: evidence from synthetic difference-in-differences</u> <br/>
 <small> with Nicole Perales.   <span style="background-color:cadetblue; color:Azure">nudges</span>
- <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
-*Presentations:* ASHEcon 2022. </small> 
+ <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span> </small> 
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
