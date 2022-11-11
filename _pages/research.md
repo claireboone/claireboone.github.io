@@ -51,9 +51,23 @@ author:
 <br/>
 
 
+<u>Increasing the intensity of physical education reduces student enrollment: evidence from synthetic difference-in-differences</u> <br/>
+<small> with Nicole Perales.   <span style="background-color:cadetblue; color:Azure">nudges</span>
+ <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
+*Presentations:* ASHEcon 2022. </small> 
+<div style="margin-left: 1em;">
+<details>
+<summary>Abstract</summary>
+<small>
+<p>Physical education mandates have been used to promote physical activity in the United States, where one in five adolescents are obese. However, previous research demonstrates mixed results in the effect of physical education on student health. We study the effects of two states' physical education policies that each increased the portion of high school physical education time devoted to moderate-to-vigorous physical activity from zero to 50\%. Using a synthetic difference-in-differences design and 17 years of Youth Risk Behavior Surveillance System national surveys, we find the policy has no effect on high school students' physical activity or body mass index on average, and led to a reduction of enrollment in physical education class. This reduction is larger in Idaho, which has no physical education requirement in high school, than in Texas where at least one unit is required. Non-white students, females, and students who watched television on weekdays were most likely to dis-enrol, suggesting that those who stood to gain the most from policy benefited the least by selecting selecting out of physical education once it became more physically demanding. We conclude that school-based physical education policies targeting the intensive margin risk unintended consequences on the extensive margin when physical education enrollment is voluntary.</p>
+</small>
+</details> 
+</div> 
+<br/>
+
 
 ## In Progress
-<u>The Long-term Health Impact of In-Utero Exposure to Excessive Intake of Sugar</u> <br/>
+<u>Sugar-rich diet in-utero and early childhood can lead to earlier onset of diabetes or hypertension </u> <br/>
 <small> With Paul Gertler and Tadeja Gracner.  <span style="background-color:olivedrab; color:floralwhite">chronic diseases </span> </small> <br/> 
 <br/>  
   
