@@ -53,7 +53,7 @@ author:
 
 
 <u>Unintended consequences of increasing physical education intensity</u> <br/>
-<small> with Nicole Perales. <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span> 
+<small> with Nicole Perales. <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span><br/> 
 *Under review at Journal of Health Economics*</small> 
 <div style="margin-left: 1em;">
 <details>
