@@ -40,7 +40,7 @@ author:
 
 <u>Encouraging pro-poor private health care: a randomized field experiment in Kenya.</u> <br/>
 <small> with Ada Kwan, Grace Makana Barasa, Joshua Gruber, and Paul Gertler.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> 
-*Under review at Health Policy and Planning* </small>
+*R&R at Health Policy and Planning* </small>
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
@@ -52,13 +52,14 @@ author:
 <br/>
 
 
-<u>Increasing the intensity of physical education reduces student enrollment: evidence from synthetic difference-in-differences</u> <br/>
-<small> with Nicole Perales. <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span> </small> 
+<u>Unintended consequences of increasing physical education intensity</u> <br/>
+<small> with Nicole Perales. <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span> 
+*Under review at Journal of Health Economics*</small> 
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
 <small>
-<p>Physical education mandates have been used to promote physical activity in the United States, where one in five adolescents are obese. However, previous research demonstrates mixed results in the effect of physical education on student health. We study the effects of two states' physical education policies that each increased the portion of high school physical education time devoted to moderate-to-vigorous physical activity from zero to 50\%. Using a synthetic difference-in-differences design and 17 years of Youth Risk Behavior Surveillance System national surveys, we find the policy has no effect on high school students' physical activity or body mass index on average, and led to a reduction of enrollment in physical education class. This reduction is larger in Idaho, which has no physical education requirement in high school, than in Texas where at least one unit is required. Non-white students, females, and students who watched television on weekdays were most likely to dis-enrol, suggesting that those who stood to gain the most from policy benefited the least by selecting selecting out of physical education once it became more physically demanding. We conclude that school-based physical education policies targeting the intensive margin risk unintended consequences on the extensive margin when physical education enrollment is voluntary.</p>
+<p>Physical education (PE) is used to promote physical activity but has demonstrated limited success in affecting health behaviors and health outcomes among youth. We study the effectiveness of a state-level policy that sought to increase the intensity of PE by requiring at least 50\% of high school PE time to be moderate-to-vigorous physical activity. Using a synthetic difference-in-differences design and nine waves of Youth Risk Behavior Surveillance System, we find this policy had no overall effect on students' physical activity levels or obesity, and reduced PE participation. The selection out of PE is larger among older students and in settings where PE is not required. Among older students in voluntary enrollment settings, non-White students were most likely to reduce their participation in PE despite being more likely to benefit. We conclude that school-based PE policies targeting the intensive margin risk unintended consequences on the extensive margin when enrollment is voluntary.</p>
 </small>
 </details> 
 </div> 
