@@ -52,7 +52,7 @@ author:
 <br/>
 
 
-<u>Unintended consequences of increasing physical education intensity</u> <br/>
+[Unintended consequences of increasing physical education intensity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4401628)<br/>
 <small> with Nicole Perales. <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span><br/> 
 *Under review at Journal of Health Economics*</small> 
 <div style="margin-left: 1em;">
