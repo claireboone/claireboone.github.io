@@ -67,7 +67,7 @@ author:
 
 
 ## In Progress
-<u>Sugar-rich diet in-utero and early childhood can lead to earlier onset of diabetes or hypertension </u> <br/>
+<u>Excessive sugar intake during the first 1000 days of life leads to earlier onset of type 2 diabetes and hypertension</u> <br/>
 <small> With Paul Gertler and Tadeja Gracner.  <span style="background-color:olivedrab; color:floralwhite">chronic diseases </span> </small> <br/> 
 <br/>  
   
