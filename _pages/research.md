@@ -37,24 +37,16 @@ author:
 </div> 
 <br/>
 
+<u>Artificial Intelligence in Medicare: Utilization, Spending, and Access to AI-enabled Clinical Softwares</u> <br/> 
+<small> with Anna Zink, Karen Joynt Maddox, Michael Chernew, Hanna Neprash <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br>
+<div style="margin-left: 1em;"> *R&R*
 
-<u>Encouraging pro-poor private health care: a randomized field experiment in Kenya.</u> <br/>
-<small> with Ada Kwan, Grace Makana Barasa, Joshua Gruber, and Paul Gertler.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> 
-*R&R at Health Policy and Planning* </small>
-<div style="margin-left: 1em;">
-<details>
-<summary>Abstract</summary>
-<small>
-<p>Private sector engagement in health reform has been suggested to help reduce healthcare inequities in Sub-Saharan Africa, where populations with the most need seek the least care. We study the simultaneous supply- and demand-side effects of African Health Markets for Equity (AHME), a randomized management intervention that aimed to improve the quality and accessibility of private-sector clinics in Kenya. AHME focused on access to social health insurance, where the government is the payer, as a mechanism to increase the use of affordable, high-quality private care by individuals from lower wealth quintiles. The program was successful at increasing the share of clinics accepting and the share of households enrolled in social health insurance and in turn, the share of clinics' clients from lower wealth quintiles. Efforts to reduce the cost of care must also ensure that the quality of care is maintained. We conducted novel standardized patient (SP) experiments to measure the causal impact of a client not being able to afford full services on quality of care. SPs presented as poor by telling the provider they could only afford KSH 300 in fees. When faced with a client's budget constraint we found that providers reduced the quantity of both necessary and unnecessary care, resulting in lower quality of care for ‘poor' clients compared to non-poor clients. While public insurance is a promising mechanism to connect low-income households to private care, more work must be done to ensure clients of all wealth levels receive high quality care</p>
-</small>
-</details> 
-</div> 
-<br/>
-
+<u>Excessive sugar intake during the first 1000 days of life leads to earlier onset of type 2 diabetes and hypertension</u> <br/>
+<small> With Paul Gertler and Tadeja Gracner.  <span style="background-color:olivedrab; color:floralwhite">chronic diseases </span> </small> <br/> 
+<br/> Under review. 
 
 [Unintended consequences of increasing physical education intensity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4401628)<br/>
 <small> with Nicole Perales. <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span><br/> 
-*Under review at Journal of Health Economics*</small> 
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
@@ -67,12 +59,22 @@ author:
 
 
 ## In Progress
-<u>Excessive sugar intake during the first 1000 days of life leads to earlier onset of type 2 diabetes and hypertension</u> <br/>
-<small> With Paul Gertler and Tadeja Gracner.  <span style="background-color:olivedrab; color:floralwhite">chronic diseases </span> </small> <br/> 
-<br/>  
-  
- 
+
+   
 ## Publications
+[Can a private sector engagement intervention that prioritizes pro-poor strategies improve health care access and quality? A randomized field experiment in Kenya](https://academic.oup.com/heapol/advance-article/doi/10.1093/heapol/czad076/7246628?utm_source=advanceaccess&utm_campaign=heapol&utm_medium=email)<br/>
+<small> with Paul Gertler,  Grace Makana Barasa, Joshua Gruber, and Ada Kwan.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> 
+*Health Policy and Planning* 2023 </small>
+<div style="margin-left: 1em;">
+<details>
+<summary>Abstract</summary>
+<small>
+<p>Private sector engagement in health reform has been suggested to help reduce healthcare inequities in sub-Saharan Africa, where populations with the most need seek the least care. We study the effects of African Health Markets for Equity (AHME), a cluster randomized controlled trial carried out in Kenya from 2012-2020 at 199 private health clinics. AHME included four clinic-level interventions: social health insurance, social franchising, SafeCare quality-of-care certification program, and business support. This paper evaluates whether AHME increased the capacity of private health clinics to serve poor clients while maintaining or enhancing the quality of care provided. At endline, clinics that received AHME were 14.5 percentage points (pp) more likely to be empaneled with the National Health Insurance Fund (NHIF), served 51% more NHIF clients, and served more clients from the middle 3 quintiles of the wealth distribution compared to control clinics. Comparing individuals living in households near AHME treatment and control clinics (N=8241), AHME led to a 6.7pp increase in the probability of holding any health insurance on average. We did not find any additional effect of AHME on insurance holding among poor households. We measured quality of care using a standardized patient (SP) experiment (N=596 SP-provider interactions) where recruited and trained SPs were randomized to present as either “not poor”, and able to afford all services provided, or “poor” by telling the provider they could only afford approximately 300 Kenyan Shillings (US$3) in fees. We found that poor SPs received lower levels of both correct and unnecessary services, and AHME did not affect this. More work must be done to ensure clients of all wealth levels receive high quality care.</p>
+</small>
+</details> 
+</div> 
+<br/>
+
 [Do private providers give patients what they demand, even if it is inappropriate? A randomised study using unannounced standardised patients
 in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <br/>
 <small>*BMJ Open* 2022, A Kwan, <u>CE Boone</u>, G Sulis, P Gertler.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
