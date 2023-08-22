@@ -58,13 +58,10 @@ author:
 <br/>
 
 
-## In Progress
-
    
 ## Publications
 [Can a private sector engagement intervention that prioritizes pro-poor strategies improve health care access and quality? A randomized field experiment in Kenya](https://academic.oup.com/heapol/advance-article/doi/10.1093/heapol/czad076/7246628?utm_source=advanceaccess&utm_campaign=heapol&utm_medium=email)<br/>
-<small> <u>CE Boone</u>, P Gertler, G Makana Baraka, J Gruber, A Kwan.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> 
-*Health Policy and Planning* 2023 </small>
+<small>*Health Policy and Planning* 2023. <u>CE Boone</u>, P Gertler, G Makana Baraka, J Gruber, A Kwan.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> </small>
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
@@ -77,7 +74,7 @@ author:
 
 [Do private providers give patients what they demand, even if it is inappropriate? A randomised study using unannounced standardised patients
 in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <br/>
-<small>*BMJ Open* 2022, A Kwan, <u>CE Boone</u>, G Sulis, P Gertler.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
+<small>*BMJ Open* 2022. A Kwan, <u>CE Boone</u>, G Sulis, P Gertler.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
 <span style="background-color:goldenrod; color:white">health services</span><br/></small>
 <div style="margin-left: 1em;">
 <details>
@@ -92,7 +89,7 @@ in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <
 
 
 [How Spillovers from Appointment Reminders Improve Health Clinic Efficiency](https://claireboone.github.io/files/Boone_etal.SMS_JHE2022.pdf) <br/>
-<small>*Journal of Health Economics* 2022 and [NBER Working Paper](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf), <u>CE Boone</u>, P Celhay, P Gertler, T Gracner, J Rodriguez.
+<small>*Journal of Health Economics* 2022 and [NBER Working Paper](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf). <u>CE Boone</u>, P Celhay, P Gertler, T Gracner, J Rodriguez.
  <span style="background-color:cadetblue; color:Azure">nudges</span>
  <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
  <span style="background-color:goldenrod; color:white">health services</span>
