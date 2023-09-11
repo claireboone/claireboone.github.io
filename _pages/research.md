@@ -8,7 +8,7 @@ author:
 
 ## Working Papers  
 [Encouraging Preventative Care to Manage Chronic Disease at Scale](https://claireboone.github.io/files/Boone_etal_Nudging_2023_NBER.pdf) <br/>
-<small> with Pablo Celhay, Paul Gertler, and Tadeja Gracner.   <span style="background-color:cadetblue; color:Azure">nudges</span>
+<small> with Pablo Celhay, Paul Gertler, and Tadeja Gracner. *Under review*  <span style="background-color:cadetblue; color:Azure">nudges</span>
  <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
  <span style="background-color:goldenrod; color:white">health services</span><br>
 *Presentations:* CHESG 2023, Toulouse Health Economics Workshop 2023, ASHEcon 2021, iHEA 2021, CHITA 2020. Previously circulated as "Nudging Patients at Scale: Evidence from Text-message Appointment Reminders"</small> 
