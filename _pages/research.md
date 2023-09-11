@@ -7,7 +7,7 @@ author:
 <meta name="description" content="Overview of Claire Boone's research.">
 
 ## Working Papers  
-[Encouraging Preventative Care to Manage Chronic Disease at Scale](https://claireboone.github.io/files/Boone et al Nudging 2023 NBER.pdf) <br/>
+[Encouraging Preventative Care to Manage Chronic Disease at Scale](https://claireboone.github.io/files/Boone_etal_Nudging_2023_NBER.pdf) <br/>
 <small> with Pablo Celhay, Paul Gertler, and Tadeja Gracner.   <span style="background-color:cadetblue; color:Azure">nudges</span>
  <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
  <span style="background-color:goldenrod; color:white">health services</span><br>
