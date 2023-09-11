@@ -7,16 +7,16 @@ author:
 <meta name="description" content="Overview of Claire Boone's research.">
 
 ## Working Papers  
-<u>Nudging Patients at Scale: Evidence from Text-message Appointment Reminders</u> <br/>
+[Encouraging Preventative Care to Manage Chronic Disease at Scale](https://claireboone.github.io/files/Boone et al Nudging 2023 NBER.pdf) <br/>
 <small> with Pablo Celhay, Paul Gertler, and Tadeja Gracner.   <span style="background-color:cadetblue; color:Azure">nudges</span>
  <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
  <span style="background-color:goldenrod; color:white">health services</span><br>
-*Presentations:* ASHEcon 2021, iHEA 2021, CHITA 2020. </small> 
+*Presentations:* CHESG 2023, Toulouse Health Economics Workshop 2023, ASHEcon 2021, iHEA 2021, CHITA 2020. Previously circulated as "Nudging Patients at Scale: Evidence from Text-message Appointment Reminders"</small> 
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
 <small>
-<p>We study how reminding high-risk patients of their upcoming preventative, primary care appointments impacts health behaviors. We use a natural experiment in Chile, where text-message appointment reminders were scaled up nation-wide over three years at public, primary care clinics. Our data come from national medical, medication, hospitalization, and mortality records and include over 300,000 patients, all recently diagnosed with type 2 diabetes and/or hypertension. We find that nudging patients to attend their preventative care appointments increases visits by 5 to 7%, results that are about half as large as published smaller-scale or efficacy trials. Our results increase to 9 to 11% after taking clinic-level compliance into account, where on average 53% of eligible patients were sent text-message reminders. This increase in primary care utilization translates into an 11% increase in health screening. Reminders also lead to a 42% improvement in anti-hypertensive medication adherence, which is largely attributed to patients having any active prescription. Last, SMS reminders lead to a 17% increase in cardiovascular hospitalizations coupled with a reduction in in-hospital mortality, suggesting an increase in referrals through primary care or timely care-seeking behavior of emergency and specialized health services. Our findings are particularly important for settings with a gate-keeping healthcare model, which is common in OECD countries. In this type of system, patients must first visit their primary care provider before being approved for tests, prescribed medication, or referred to speciality and hospital care. This paper shows that through intervening at the first step in the cascade of care, even a light touch intervention such as text-message reminders can have large and meaningful downstream impacts.</p>  
+<p>We study how reminding high-risk patients with chronic disease of their upcoming primary care appointments impacts their health care and behaviors. We leverage a natural experiment in Chile’s public healthcare system that sent reminders before preventative care appointments to over 300,000 patients with type 2 diabetes and hypertension across 315 public primary care clinics between 2013 and 2018. Employing both a difference-in-differences and instrumental variables approach on national administrative patient-level data, we show that reminders increased preventative care visits, which led to more health screenings and improved medication adherence. In this at-scale program, we find substantial variation in implementation fidelity across clinics, which, once accounted for increases our estimates by over a third. Reminders also increased hospitalizations and reduced in-hospital mortality, suggesting an improvement in timely care-seeking behavior among high-risk patients. Our findings inform healthcare settings where patients must first visit their primary care provider for approval before undergoing tests, receiving medication prescriptions, or getting referrals to other specialists. Through intervening at the first step in the cascade of care, we find that a simple intervention like reminders can have large and meaningful downstream effects.</p>  
 </small>
 </details> 
 </div> 
@@ -26,7 +26,7 @@ author:
 <small> <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
 <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
  <span style="background-color:goldenrod; color:white">health services</span><br>
-*Presentations:* UC Berkeley Health Policy Colloquium 2022, University of Copenhagen Health Economics Workshop 2022.  </small> 
+*Presentations:* CEA 2023, ASHEcon 2023, University of Copenhagen Health Economics Workshop 2022.  </small> 
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
