@@ -39,7 +39,7 @@ author:
 
 
 ## Publications - Economics
-[How Spillovers from Appointment Reminders Improve Health Clinic Efficiency](https://claireboone.github.io/files/Boone_etal.SMS_JHE2022.pdf) <br/>
+[How scheduling systems with automated appointment reminders improve health clinic efficiency](https://claireboone.github.io/files/Boone_etal.SMS_JHE2022.pdf) <br/>
 <small>*Journal of Health Economics* 2022 and [NBER Working Paper](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf). <u>CE Boone</u>, P Celhay, P Gertler, T Gracner, J Rodriguez.
  <span style="background-color:cadetblue; color:Azure">nudges</span>
  <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
