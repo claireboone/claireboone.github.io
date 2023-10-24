@@ -37,29 +37,26 @@ author:
 </div> 
 <br/>
 
-<u>Artificial Intelligence in Medicare: Utilization, Spending, and Access to AI-enabled Clinical Softwares</u> <br/> 
-<small> with Anna Zink, Karen Joynt Maddox, Michael Chernew, Hanna Neprash. *Under review* <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span></small> <br/> 
-<br/> 
 
-<u>Excessive sugar intake during the first 1000 days of life leads to earlier onset of type 2 diabetes and hypertension</u> <br/>
-<small> With Paul Gertler and Tadeja Gracner. *Under review*  <span style="background-color:olivedrab; color:floralwhite">chronic diseases </span> </small> <br/> 
-<br/> 
-
-[Unintended consequences of increasing physical education intensity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4401628)<br/>
-<small> with Nicole Perales. <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span><br/> 
+## Publications - Economics
+[How Spillovers from Appointment Reminders Improve Health Clinic Efficiency](https://claireboone.github.io/files/Boone_etal.SMS_JHE2022.pdf) <br/>
+<small>*Journal of Health Economics* 2022 and [NBER Working Paper](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf). <u>CE Boone</u>, P Celhay, P Gertler, T Gracner, J Rodriguez.
+ <span style="background-color:cadetblue; color:Azure">nudges</span>
+ <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
+ <span style="background-color:goldenrod; color:white">health services</span>
+</small>  
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
-<small>
-<p>Physical education (PE) is used to promote physical activity but has demonstrated limited success in affecting health behaviors and health outcomes among youth. We study the effectiveness of a state-level policy that sought to increase the intensity of PE by requiring at least 50% of high school PE time to be moderate-to-vigorous physical activity. Using a synthetic difference-in-differences design and nine waves of Youth Risk Behavior Surveillance System, we find this policy had no overall effect on students' physical activity levels or obesity, and reduced PE participation. The selection out of PE is larger among older students and in settings where PE is not required. Among older students in voluntary enrollment settings, non-White students were most likely to reduce their participation in PE despite being more likely to benefit. We conclude that school-based PE policies targeting the intensive margin risk unintended consequences on the extensive margin when enrollment is voluntary.</p>
+<small> 
+<p>Missed clinic appointments or no-shows burden health care systems through inefficient use of staff time and resources. Scheduling software combined with automatically sent appointment reminders shows promise to improve clinics’ management through timely cancellations and re-scheduling, but at-scale evidence is missing. We study a nationwide text message appointment reminder program in Chile implemented at primary care clinics for patients with chronic disease. Using longitudinal clinic-level data, we find that the program did not change the number of visits by chronic patients eligible to receive the reminder, but visits from other patients ineligible to receive reminders increased by 5.0% in the first year and 7.4% in the second. Clinics treating more chronic patients and those with a relatively younger patient population benefited more from the program. Scheduling systems combined with automatic appointment reminders were effective in increasing clinics’ ability to care for more patients, likely due to timely cancellations and re-scheduling.</p>  
 </small>
-</details> 
-</div> 
-<br/>
-
+</details>  
+</div>  
+<br/> 
 
    
-## Publications
+## Publications - Health Policy
 [Can a private sector engagement intervention that prioritizes pro-poor strategies improve health care access and quality? A randomized field experiment in Kenya](https://academic.oup.com/heapol/advance-article/doi/10.1093/heapol/czad076/7246628?utm_source=advanceaccess&utm_campaign=heapol&utm_medium=email)<br/>
 <small>*Health Policy and Planning* 2023. <u>CE Boone</u>, P Gertler, G Makana Baraka, J Gruber, A Kwan.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> </small>
 <div style="margin-left: 1em;">
@@ -86,23 +83,6 @@ in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <
 </div>   
 <br/>  
 
-
-
-[How Spillovers from Appointment Reminders Improve Health Clinic Efficiency](https://claireboone.github.io/files/Boone_etal.SMS_JHE2022.pdf) <br/>
-<small>*Journal of Health Economics* 2022 and [NBER Working Paper](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf). <u>CE Boone</u>, P Celhay, P Gertler, T Gracner, J Rodriguez.
- <span style="background-color:cadetblue; color:Azure">nudges</span>
- <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
- <span style="background-color:goldenrod; color:white">health services</span>
-</small>  
-<div style="margin-left: 1em;">
-<details>
-<summary>Abstract</summary>
-<small> 
-<p>Missed clinic appointments or no-shows burden health care systems through inefficient use of staff time and resources. Scheduling software combined with automatically sent appointment reminders shows promise to improve clinics’ management through timely cancellations and re-scheduling, but at-scale evidence is missing. We study a nationwide text message appointment reminder program in Chile implemented at primary care clinics for patients with chronic disease. Using longitudinal clinic-level data, we find that the program did not change the number of visits by chronic patients eligible to receive the reminder, but visits from other patients ineligible to receive reminders increased by 5.0% in the first year and 7.4% in the second. Clinics treating more chronic patients and those with a relatively younger patient population benefited more from the program. Scheduling systems combined with automatic appointment reminders were effective in increasing clinics’ ability to care for more patients, likely due to timely cancellations and re-scheduling.</p>  
-</small>
-</details>  
-</div>  
-<br/> 
 
 
 [StayWell at Home: A Text Messaging Intervention to Counteract Depression and Anxiety during COVID-19 Social Distancing](https://claireboone.github.io/files/CBoone_StayWell_JMIR2021.pdf)<br/> 
@@ -152,4 +132,28 @@ in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <
 *Commentary piece*
 </small> 
 
- 
+## In Progress
+
+<u>Artificial Intelligence in Medicare: Utilization, Spending, and Access to AI-enabled Clinical Softwares</u> <br/> 
+<small> with Anna Zink, Karen Joynt Maddox, Michael Chernew, Hanna Neprash. *Under review* <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span></small> <br/> 
+<br/> 
+
+<u>Excessive sugar intake during the first 1000 days of life leads to earlier onset of type 2 diabetes and hypertension</u> <br/>
+<small> With Paul Gertler and Tadeja Gracner. *Under review*  <span style="background-color:olivedrab; color:floralwhite">chronic diseases </span> </small> <br/> 
+<br/> 
+
+<u>Is mental health undervalued during pregnancy?</u> <br/>
+<small> With Devin Pope and Carla Colina.   <span style="background-color:cornflowerblue; color:white">clinical decision-making</span></small> <br/> 
+<br/> 
+
+[Unintended consequences of increasing physical education intensity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4401628)<br/>
+<small> with Nicole Perales. <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span><br/> 
+<div style="margin-left: 1em;">
+<details>
+<summary>Abstract</summary>
+<small>
+<p>Physical education (PE) is used to promote physical activity but has demonstrated limited success in affecting health behaviors and health outcomes among youth. We study the effectiveness of a state-level policy that sought to increase the intensity of PE by requiring at least 50% of high school PE time to be moderate-to-vigorous physical activity. Using a synthetic difference-in-differences design and nine waves of Youth Risk Behavior Surveillance System, we find this policy had no overall effect on students' physical activity levels or obesity, and reduced PE participation. The selection out of PE is larger among older students and in settings where PE is not required. Among older students in voluntary enrollment settings, non-White students were most likely to reduce their participation in PE despite being more likely to benefit. We conclude that school-based PE policies targeting the intensive margin risk unintended consequences on the extensive margin when enrollment is voluntary.</p>
+</small>
+</details> 
+</div> 
+<br/> 
