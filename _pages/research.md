@@ -22,7 +22,7 @@ author:
 </div> 
 <br/>
 
-<u>TDiscretion in Clinical Decision Making: Evidence from a Diagnostic Threshold</u> <br/> 
+<u>Discretion in Clinical Decision Making: Evidence from a Diagnostic Threshold</u> <br/> 
 <small> <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
 <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
  <span style="background-color:goldenrod; color:white">health services</span><br>
