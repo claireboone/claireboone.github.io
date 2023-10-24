@@ -132,10 +132,11 @@ in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <
 *Commentary piece*
 </small> 
 
+
 ## Select Work In Progress
 
 <u>The impact of alternative payment models on blood pressure reporting</u> <br/>
-<small> With Bill Wright and Ari Robicsek.   <span style="background-color:cornflowerblue; color:white">clinical decision-making</span><span style="background-color:olivedrab; color:floralwhite">chronic diseases</span></small> <br/> 
+<small> With Bill Wright and Ari Robicsek.   <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span></small> <br/> 
 <br/>
 
 <u>Heartspot: Improving ACS Testing with Artificial Intelligence</u> <br/>
