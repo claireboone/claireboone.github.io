@@ -22,7 +22,7 @@ author:
 </div> 
 <br/>
 
-<u>The Role of Discretion in Clinical Decision Making: Evidence from Thresholds</u> <br/> 
+<u>TDiscretion in Clinical Decision Making: Evidence from a Diagnostic Threshold</u> <br/> 
 <small> <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
 <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
  <span style="background-color:goldenrod; color:white">health services</span><br>
@@ -31,14 +31,14 @@ author:
 <details>
 <summary>Abstract</summary>
 <small>
-<p>When a decision maker has discretion, such as a worker reporting their taxable income, threshold-based rules or policies can distort behavior. This has not been studied in the context of medicine where thresholds guide many important diagnosis and treatment decisions. I study the decision to diagnose and treat hypertension, defined as blood pressure of at least 140/90 mmHg. Hypertension is the single most important risk factor for cardiovascular disease, but diagnosis can be challenging because blood pressure is a noisy measure of risk and often overstated in clinic. Using bunching estimation and electronic health records from over 600,000 patients in Chile I find that providers round the blood pressure of up to 62% of patients who test near the threshold, using their discretion to turn a positive test for hypertension into a negative. This behavioral response leads to a more accurate classification of patients in terms of their cardiovascular risk, as measured by future hospitalizations. I find that discretionary decisions are consistent with heuristic thinking: among patients with identical test results, those with characteristics representative of high cardiovascular risk are less likely to be sorted below the diagnostic threshold. These results suggest that in the case of limited information, heuristic thinking and discretionary diagnosis can lead to more accurate decisions and to better patient outcomes, underscoring the importance of clinical skill in achieving an efficient and equitable allocation of health care.</p>  
+<p>How much should health care providers adhere to clinical guidelines? While recent health policy has focused on increasing adherence, some experts argue that deviations from guidelines can be warranted. To address this question, I examine discretion in one clinical decision: the diagnosis of hypertension, which is defined as blood pressure ≤140/90 mmHg. Hypertension is the single most important risk factor for cardiovascular disease, but despite it's simple clinical guideline, diagnosis can be challenging because blood pressure is a noisy measure of risk and often overstated in clinic. Using bunching estimation and electronic health records from over 600,000 patients in Chile I find that providers adjust the blood pressure of up to 62% of patients who test near the threshold, using their discretion to turn a positive test for hypertension into a negative. This behavioral response leads to a more accurate classification of patients in terms of their cardiovascular risk, as measured by future hospitalizations, but no change in levels of hospitalizations. I find that discretionary decisions are consistent with providers' use of heuristics and private information. These findings emphasize the significance of clinical expertise in the diagnostic process and suggest that policies promoting universal adherence to guidelines may not be optimal given variation in the quality of guidelines..</p>  
 </small>
 </details> 
 </div> 
 <br/>
 
 <u>Artificial Intelligence in Medicare: Utilization, Spending, and Access to AI-enabled Clinical Softwares</u> <br/> 
-<small> with Anna Zink, Karen Joynt Maddox, Michael Chernew, Hanna Neprash. *R&R* <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span></small> <br/> 
+<small> with Anna Zink, Karen Joynt Maddox, Michael Chernew, Hanna Neprash. *Under review* <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span></small> <br/> 
 <br/> 
 
 <u>Excessive sugar intake during the first 1000 days of life leads to earlier onset of type 2 diabetes and hypertension</u> <br/>
