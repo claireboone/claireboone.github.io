@@ -152,7 +152,7 @@ in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <
 <br/> 
 
 <u>Excessive sugar intake during the first 1000 days of life leads to earlier onset of type 2 diabetes and hypertension</u> <br/>
-<small> With Paul Gertler and Tadeja Gracner. *Under review*  <span style="background-color:olivedrab; color:floralwhite">chronic diseases </span> </small> <br/> 
+<small> With Paul Gertler and Tadeja Gracner. <span style="background-color:olivedrab; color:floralwhite">chronic diseases </span> </small> <br/> 
 <br/> 
 
 [Unintended consequences of increasing physical education intensity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4401628)<br/>
