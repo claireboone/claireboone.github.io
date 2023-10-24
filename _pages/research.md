@@ -134,16 +134,16 @@ in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <
 
 ## In Progress
 
+<u>Is mental health undervalued during pregnancy?</u> <br/>
+<small> With Devin Pope and Carla Colina.   <span style="background-color:cornflowerblue; color:white">clinical decision-making</span></small> <br/> 
+<br/> 
+
 <u>Artificial Intelligence in Medicare: Utilization, Spending, and Access to AI-enabled Clinical Softwares</u> <br/> 
 <small> with Anna Zink, Karen Joynt Maddox, Michael Chernew, Hanna Neprash. *Under review* <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span></small> <br/> 
 <br/> 
 
 <u>Excessive sugar intake during the first 1000 days of life leads to earlier onset of type 2 diabetes and hypertension</u> <br/>
 <small> With Paul Gertler and Tadeja Gracner. *Under review*  <span style="background-color:olivedrab; color:floralwhite">chronic diseases </span> </small> <br/> 
-<br/> 
-
-<u>Is mental health undervalued during pregnancy?</u> <br/>
-<small> With Devin Pope and Carla Colina.   <span style="background-color:cornflowerblue; color:white">clinical decision-making</span></small> <br/> 
 <br/> 
 
 [Unintended consequences of increasing physical education intensity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4401628)<br/>
