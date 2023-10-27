@@ -7,6 +7,22 @@ author:
 <meta name="description" content="Overview of Claire Boone's research.">
 
 ## Working Papers  
+Discretion in Clinical Decision Making: Evidence from a Diagnostic Threshold(https://claireboone.github.io/files/Boone_Discretion_2023.pdf) (job market paper)<br/> 
+<small> <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
+<span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
+ <span style="background-color:goldenrod; color:white">health services</span><br>
+*Presentations:* CEA 2023, ASHEcon 2023, University of Copenhagen Health Economics Workshop 2022.  </small> 
+<div style="margin-left: 1em;">
+<details>
+<summary>Abstract</summary>
+<small>
+<p>How much should health care providers adhere to clinical guidelines? While recent health policy has focused on increasing adherence, some experts argue that deviations from guidelines can be warranted. To address this question, I examine discretion in one clinical decision: the diagnosis of hypertension, defined as blood pressure ≥140/90 mmHg. Hypertension is the single most important risk factor for cardiovascular disease, and while its clinical guideline is simple, diagnosis can be challenging because blood pressure is a noisy measure of risk and often overstated in clinical settings. Using bunching estimation and electronic health records from over 600,000 patients in Chile I find that providers adjust the blood pressure of up to 62% of patients who test just below the threshold, using their discretion to turn a positive test for hypertension into a negative. This behavioral response leads to a more accurate classification of patients in terms of their cardiovascular risk, as measured by future hospitalizations, but no change in levels of hospitalizations. I find that discretionary decisions are consistent with providers' use of heuristics and private information. These findings emphasize the significance of clinical expertise in the diagnostic process and suggest that policies promoting universal adherence to guidelines may not be optimal given variation in the quality of guidelines.</p>  
+</small>
+</details> 
+</div> 
+<br/>
+
+
 [Encouraging Preventative Care to Manage Chronic Disease at Scale](https://claireboone.github.io/files/Boone_etal_Nudging_2023_NBER.pdf) <br/>
 <small> with Pablo Celhay, Paul Gertler, and Tadeja Gracner. *Under review*  <span style="background-color:cadetblue; color:Azure">nudges</span>
  <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
@@ -17,21 +33,6 @@ author:
 <summary>Abstract</summary>
 <small>
 <p>We study how reminding high-risk patients with chronic disease of their upcoming primary care appointments impacts their health care and behaviors. We leverage a natural experiment in Chile’s public healthcare system that sent reminders before preventative care appointments to over 300,000 patients with type 2 diabetes and hypertension across 315 public primary care clinics between 2013 and 2018. Employing both a difference-in-differences and instrumental variables approach on national administrative patient-level data, we show that reminders increased preventative care visits, which led to more health screenings and improved medication adherence. In this at-scale program, we find substantial variation in implementation fidelity across clinics, which, once accounted for increases our estimates by over a third. Reminders also increased hospitalizations and reduced in-hospital mortality, suggesting an improvement in timely care-seeking behavior among high-risk patients. Our findings inform healthcare settings where patients must first visit their primary care provider for approval before undergoing tests, receiving medication prescriptions, or getting referrals to other specialists. Through intervening at the first step in the cascade of care, we find that a simple intervention like reminders can have large and meaningful downstream effects.</p>  
-</small>
-</details> 
-</div> 
-<br/>
-
-<u>Discretion in Clinical Decision Making: Evidence from a Diagnostic Threshold</u> <br/> 
-<small> <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
-<span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
- <span style="background-color:goldenrod; color:white">health services</span><br>
-*Presentations:* CEA 2023, ASHEcon 2023, University of Copenhagen Health Economics Workshop 2022.  </small> 
-<div style="margin-left: 1em;">
-<details>
-<summary>Abstract</summary>
-<small>
-<p>How much should health care providers adhere to clinical guidelines? While recent health policy has focused on increasing adherence, some experts argue that deviations from guidelines can be warranted. To address this question, I examine discretion in one clinical decision: the diagnosis of hypertension, which is defined as blood pressure ≤140/90 mmHg. Hypertension is the single most important risk factor for cardiovascular disease, and while its clinical guideline is simple, diagnosis can be challenging because blood pressure is a noisy measure of risk and often overstated in clinic. Using bunching estimation and electronic health records from over 600,000 patients in Chile I find that providers adjust the blood pressure of up to 62% of patients who test near the threshold, using their discretion to turn a positive test for hypertension into a negative. This behavioral response leads to a more accurate classification of patients in terms of their cardiovascular risk, as measured by future hospitalizations, but no change in levels of hospitalizations. I find that discretionary decisions are consistent with providers' use of heuristics and private information. These findings emphasize the significance of clinical expertise in the diagnostic process and suggest that policies promoting universal adherence to guidelines may not be optimal given variation in the quality of guidelines..</p>  
 </small>
 </details> 
 </div> 
