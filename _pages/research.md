@@ -161,14 +161,3 @@ in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <
 <small> With Paul Gertler and Tadeja Gracner. <span style="background-color:olivedrab; color:floralwhite">chronic diseases </span> </small> <br/> 
 <br/> 
 
-[Unintended consequences of increasing physical education intensity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4401628)<br/>
-<small> with Nicole Perales. <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span><br/> 
-<div style="margin-left: 1em;">
-<details>
-<summary>Abstract</summary>
-<small>
-<p>Physical education (PE) is used to promote physical activity but has demonstrated limited success in affecting health behaviors and health outcomes among youth. We study the effectiveness of a state-level policy that sought to increase the intensity of PE by requiring at least 50% of high school PE time to be moderate-to-vigorous physical activity. Using a synthetic difference-in-differences design and nine waves of Youth Risk Behavior Surveillance System, we find this policy had no overall effect on students' physical activity levels or obesity, and reduced PE participation. The selection out of PE is larger among older students and in settings where PE is not required. Among older students in voluntary enrollment settings, non-White students were most likely to reduce their participation in PE despite being more likely to benefit. We conclude that school-based PE policies targeting the intensive margin risk unintended consequences on the extensive margin when enrollment is voluntary.</p>
-</small>
-</details> 
-</div> 
-<br/> 
