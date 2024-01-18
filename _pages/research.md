@@ -11,7 +11,7 @@ author:
 <small> <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
 <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
  <span style="background-color:goldenrod; color:white">health services</span><br>
-*Presentations:* CEA 2023, ASHEcon 2023, University of Copenhagen Health Economics Workshop 2022.  </small> 
+</small> 
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
@@ -27,7 +27,7 @@ author:
 <small> with Pablo Celhay, Paul Gertler, and Tadeja Gracner. *Under review*  <span style="background-color:cadetblue; color:Azure">nudges</span>
  <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
  <span style="background-color:goldenrod; color:white">health services</span><br>
-*Presentations:* CHESG 2023, Toulouse Health Economics Workshop 2023, ASHEcon 2021, iHEA 2021, CHITA 2020. Previously circulated as "Nudging Patients at Scale: Evidence from Text-message Appointment Reminders"</small> 
+Previously circulated as "Nudging Patients at Scale: Evidence from Text-message Appointment Reminders"</small> 
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
