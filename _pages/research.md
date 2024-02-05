@@ -149,10 +149,6 @@ in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <
 <small> With Bill Wright and Ari Robicsek.   <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span></small> <br/> 
 <br/>
 
-<u>Understanding Emergency Department Decisions using Physician Notes</u> <br/>
-<small> With Chenhao Tan and Ziad Obermeyer.   <span style="background-color:cornflowerblue; color:white">clinical decision-making</span></small> <br/> 
-<br/>
-
 <u>Is Mental Health Undervalued During Pregnancy?</u> <br/>
 <small> With Devin Pope and Carla Colina.   <span style="background-color:cornflowerblue; color:white">clinical decision-making</span></small> <br/> 
 <br/> 
