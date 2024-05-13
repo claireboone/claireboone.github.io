@@ -153,7 +153,7 @@ in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <
 <small> With Devin Pope and Carla Colina.   <span style="background-color:cornflowerblue; color:white">clinical decision-making</span></small> <br/> 
 <br/> 
 
-<u>Excessive sugar intake during the first 1000 days of life leads to earlier onset of type 2 diabetes and hypertension</u> <br/>
-<small> With Paul Gertler and Tadeja Gracner. <span style="background-color:olivedrab; color:floralwhite">chronic diseases </span> </small> <br/> 
+<u>Restricting Added Sugar in the First 1000 Days Protects Against Chronic Disease</u> <br/>
+<small> With Tadeja Gracner and Paul Gertler. <span style="background-color:olivedrab; color:floralwhite">chronic diseases </span> </small> <br/> 
 <br/> 
 
