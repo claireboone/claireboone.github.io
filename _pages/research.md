@@ -159,7 +159,7 @@ in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <
 <br/> 
 
 <u>Restricting Added Sugar in the First 1000 Days Protects Against Chronic Disease</u> <br/>
-<small> With Tadeja Gracner and Paul Gertler. <span style="background-color:olivedrab; color:floralwhite">chronic diseases </span> </small> <br/> 
-Revisions requested at Science
+<small> With Tadeja Gracner and Paul Gertler. <span style="background-color:olivedrab; color:floralwhite">chronic diseases </span> <br/> 
+Revisions requested at Science </small> 
 <br/> 
 
