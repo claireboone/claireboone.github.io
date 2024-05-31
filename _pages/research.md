@@ -11,6 +11,7 @@ author:
 <small> <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
 <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
  <span style="background-color:goldenrod; color:white">health services</span><br>
+ Revisions requested at ReStat
 </small> 
 <div style="margin-left: 1em;">
 <details>
@@ -58,6 +59,10 @@ Previously circulated as "Nudging Patients at Scale: Evidence from Text-message 
 
    
 ## Publications - Health Policy
+<u>Value based contracting in real world care: Too much of a good thing?</u> <br/> 
+<small> with Anna Zink, Bill Wright, Ari Robicsek. *JAMA Health Forum. Forthcoming 2024* <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span></small> <br/> 
+<br/> 
+
 <u>Artificial Intelligence in Medicare: Utilization, Spending, and Access to AI-enabled Clinical Softwares</u> <br/> 
 <small> with Anna Zink, Karen Joynt Maddox, Michael Chernew, Hanna Neprash. *The American Journal of Managed Care. Forthcoming 2024* <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span></small> <br/> 
 <br/> 
@@ -155,5 +160,6 @@ in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <
 
 <u>Restricting Added Sugar in the First 1000 Days Protects Against Chronic Disease</u> <br/>
 <small> With Tadeja Gracner and Paul Gertler. <span style="background-color:olivedrab; color:floralwhite">chronic diseases </span> </small> <br/> 
+Revisions requested at Science
 <br/> 
 
