@@ -11,7 +11,7 @@ author:
 <small> <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
 <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
  <span style="background-color:goldenrod; color:white">health services</span><br>
- Revisions requested at ReStat
+ Revisions requested at The Review of Economics and Statistics
 </small> 
 <div style="margin-left: 1em;">
 <details>
