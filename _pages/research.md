@@ -63,13 +63,13 @@ Previously circulated as "Nudging Patients at Scale: Evidence from Text-message 
 <small> with Anna Zink, Bill Wright, Ari Robicsek. *JAMA Health Forum. Forthcoming 2024* <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span></small> <br/> 
 <br/> 
 
-<u>Artificial Intelligence in Medicare: Utilization, Spending, and Access to AI-enabled Clinical Softwares</u> <br/> 
-<small> with Anna Zink, Karen Joynt Maddox, Michael Chernew, Hanna Neprash. *The American Journal of Managed Care. Forthcoming 2024* <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span></small> <br/> 
+[Artificial Intelligence in Medicare: Utilization, Spending, and Access to AI-enabled Clinical Software](https://www.ajmc.com/view/artificial-intelligence-in-medicare-utilization-spending-and-access-to-ai-enabled-clinical-software)<br/> 
+<small>*The American Journal of Managed Care* 2024. Anna Zink, <u>Claire Boone</u>, Karen Joynt Maddox, Michael Chernew, Hanna Neprash. <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span></small> <br/> 
 <br/> 
 
 
 [Can a private sector engagement intervention that prioritizes pro-poor strategies improve health care access and quality? A randomized field experiment in Kenya](https://claireboone.github.io/files/Boone_etal_AHME_equity_2023.pdf)<br/>
-<small>*Health Policy and Planning* 2023. <u>CE Boone</u>, P Gertler, G Makana Baraka, J Gruber, A Kwan.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> </small>
+<small>*Health Policy and Planning* 2023. <u>C Boone</u>, P Gertler, G Makana Baraka, J Gruber, A Kwan.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> </small>
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
