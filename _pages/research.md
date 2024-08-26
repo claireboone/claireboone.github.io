@@ -60,9 +60,9 @@ Previously circulated as "Nudging Patients at Scale: Evidence from Text-message 
    
 ## Publications - Health Policy
 [Value based contracting in clinical care](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2822685) <br/> 
-<small> with Anna Zink, Bill Wright, Ari Robicsek. *JAMA Health Forum. Forthcoming 2024* <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span></small> <br/> 
+<small> with Anna Zink, Bill Wright, Ari Robicsek. *JAMA Health Forum. Forthcoming 2024* <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> 
 [Blog](https://blog.providence.org/news/new-data-average-primary-care-physician-faces-meeting-57-different-quality-measures-each-year)
-<br/> 
+</small><br/> 
 
 [Artificial Intelligence in Medicare: Utilization, Spending, and Access to AI-enabled Clinical Software](https://www.ajmc.com/view/artificial-intelligence-in-medicare-utilization-spending-and-access-to-ai-enabled-clinical-software)<br/> 
 <small>*The American Journal of Managed Care* 2024. Anna Zink, <u>Claire Boone</u>, Karen Joynt Maddox, Michael Chernew, Hanna Neprash. <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span></small> <br/> 
