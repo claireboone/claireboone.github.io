@@ -60,7 +60,7 @@ Previously circulated as "Nudging Patients at Scale: Evidence from Text-message 
    
 ## Publications - Health Policy
 [Value based contracting in clinical care](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2822685) <br/> 
-<small> with Anna Zink, Bill Wright, Ari Robicsek. *JAMA Health Forum. Forthcoming 2024* <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> 
+<small> with Anna Zink, Bill Wright, Ari Robicsek. *JAMA Health Forum* 2024. <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> 
 [Blog](https://blog.providence.org/news/new-data-average-primary-care-physician-faces-meeting-57-different-quality-measures-each-year)
 </small><br/> 
 
