@@ -56,13 +56,12 @@ Featured in: [The New York Times](https://www.nytimes.com/2024/10/31/health/suga
 
 [Value based contracting in clinical care](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2822685) <br/> 
 <small><u>Claire Boone</u>, Anna Zink, Bill Wright, Ari Robicsek. *JAMA Health Forum* 2024. <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> 
-[Blog](https://blog.providence.org/news/new-data-average-primary-care-physician-faces-meeting-57-different-quality-measures-each-year)
+[Blog](https://blog.providence.org/news/new-data-average-primary-care-physician-faces-meeting-57-different-quality-measures-each-year). Featured in: [Medical Economics](https://www.medicaleconomics.com/view/value-based-payment-contracts-come-with-dozens-of-quality-measures), [Medscape](https://www.medscape.com/viewarticle/primary-care-physicians-track-average-57-quality-measures-2024a1000fqu?form=fpf), [HealthLeaders](https://www.healthleadersmedia.com/cmo/why-primary-care-providers-are-failing-value-based-contracts).
 </small><br/> 
 
 
 [Artificial Intelligence in Medicare: Utilization, Spending, and Access to AI-enabled Clinical Software](https://www.ajmc.com/view/artificial-intelligence-in-medicare-utilization-spending-and-access-to-ai-enabled-clinical-software)<br/> 
 <small>*The American Journal of Managed Care* 2024. Anna Zink, <u>Claire Boone</u>, Karen Joynt Maddox, Michael Chernew, Hanna Neprash. <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span></small> <br/> 
-<br/> 
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
