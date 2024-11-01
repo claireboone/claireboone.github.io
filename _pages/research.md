@@ -180,8 +180,8 @@ in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <
 <br/>
 
 <u>Is Mental Health Undervalued During Pregnancy?</u> <br/>
-<small> With Devin Pope and Carla Colina.   <span style="background-color:cornflowerblue; color:white">clinical decision-making</span></small> <br/> 
-<br/> Revisions requested at JAMA Network Open.
+<small> With Devin Pope and Carla Colina.   <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <br/> 
+Revisions requested at JAMA Network Open.</small><br/>
 
 
 <br/> 
