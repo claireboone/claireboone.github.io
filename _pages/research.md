@@ -44,15 +44,39 @@ Previously circulated as "Nudging Patients at Scale: Evidence from Text-message 
 [Exposure to sugar rationing in the first 1000 days of life protected against chronic disease](https://www.science.org/doi/10.1126/science.adn5421) <br/> 
 <small>Tadeja Gracner, <u>Claire Boone</u>, Paul Gertler. *Science* 2024. <br/>
 Featured in: [The New York Times](https://www.nytimes.com/2024/10/31/health/sugar-rationing-britain-health-experiment.html), [BBC](https://www.bbc.com/news/articles/c93qlyp42jyo), [Popular Science](https://www.popsci.com/health/sugar-health-risks/), [The Guardian](https://www.theguardian.com/society/2024/oct/31/less-sugar-in-first-1000-days-of-life-protects-against-chronic-disease-study-finds), [Le Monde](https://www.lemonde.fr/planete/article/2024/10/31/alimentation-les-britanniques-nes-apres-la-fin-du-rationnement-de-sucre-en-1953-davantage-sujets-a-des-maladies-chroniques_6369452_3244.html), [Nature](https://www.nature.com/articles/d41586-024-03535-7), and [65+ more](https://science.altmetric.com/details/169891190). </small><br/>
+<div style="margin-left: 1em;">
+<details>
+<summary>Abstract</summary>
+<small>
+<p>We examined the impact of sugar exposure within 1000 days since conception on diabetes and hypertension, leveraging quasi-experimental variation from the end of the United Kingdom’s sugar rationing in September 1953. Rationing restricted sugar intake to levels within current dietary guidelines, yet consumption nearly doubled immediately post-rationing. Using an event study design with UK Biobank data comparing adults conceived just before or after rationing ended, we found that early-life rationing reduced diabetes and hypertension risk by about 35% and 20%, respectively, and delayed disease onset by 4 and 2 years. Protection was evident with in-utero exposure and increased with postnatal sugar restriction, especially after six months when solid foods likely began. In-utero sugar rationing alone accounted for about one third of the risk reduction.</p>
+</small>
+</details> 
+</div> 
+<br/>
 
 [Value based contracting in clinical care](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2822685) <br/> 
 <small><u>Claire Boone</u>, Anna Zink, Bill Wright, Ari Robicsek. *JAMA Health Forum* 2024. <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> 
 [Blog](https://blog.providence.org/news/new-data-average-primary-care-physician-faces-meeting-57-different-quality-measures-each-year)
 </small><br/> 
 
+
 [Artificial Intelligence in Medicare: Utilization, Spending, and Access to AI-enabled Clinical Software](https://www.ajmc.com/view/artificial-intelligence-in-medicare-utilization-spending-and-access-to-ai-enabled-clinical-software)<br/> 
 <small>*The American Journal of Managed Care* 2024. Anna Zink, <u>Claire Boone</u>, Karen Joynt Maddox, Michael Chernew, Hanna Neprash. <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span></small> <br/> 
 <br/> 
+<div style="margin-left: 1em;">
+<details>
+<summary>Abstract</summary>
+<small>
+<p>Objectives: In 2018, CMS established reimbursement for the first Medicare-covered artificial intelligence (AI)–enabled clinical software: CT fractional flow reserve (FFRCT) to assist in the diagnosis of coronary artery disease. This study quantified Medicare utilization of and spending on FFRCT from 2018 through 2022 and characterized adopting hospitals, clinicians, and patients.<br/>
+Study Design: Analysis, using 100% Medicare fee-for-service claims data, of the hospitals, clinicians, and patients who performed or received coronary CT angiography with or without FFRCT.<br/>
+Methods: We measured annual trends in utilization of and spending on FFRCT among hospitals and clinicians from 2018 through 2022. Characteristics of FFRCT-adopting and nonadopting hospitals and clinicians were compared, as well as the characteristics of patients who received FFRCT vs those who did not.<br/>
+Results: From 2018 to 2022, FFRCT billing volume in Medicare increased more than 11-fold (from 1083 to 12,363 claims). Compared with nonbilling hospitals, FFRCT-billing hospitals were more likely to be larger, part of a health system, nonprofit, and financially profitable. FFRCT-billing clinicians worked in larger group practices and were more likely to be cardiac specialists. FFRCT-receiving patients were more likely to be male and White and less likely to be dually enrolled in Medicaid or receiving disability benefits.<br/>
+Conclusions: In the initial 5 years of Medicare reimbursement for FFRCT, growth was concentrated among well-resourced hospitals and clinicians. As Medicare begins to reimburse clinicians for the use of AI-enabled clinical software such as FFRCT, it is crucial to monitor the diffusion of these services to ensure equal access.</p>
+</small>
+</details> 
+</div> 
+<br/>
+
 
 [Can a private sector engagement intervention that prioritizes pro-poor strategies improve health care access and quality? A randomized field experiment in Kenya](https://claireboone.github.io/files/Boone_etal_AHME_equity_2023.pdf)<br/>
 <small>*Health Policy and Planning* 2023. <u>C Boone</u>, P Gertler, G Makana Baraka, J Gruber, A Kwan.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> </small>
