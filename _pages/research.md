@@ -40,7 +40,32 @@ Previously circulated as "Nudging Patients at Scale: Evidence from Text-message 
 <br/>
 
 
-## Publications - Economics
+## Publications 
+[Exposure to sugar rationing in the first 1000 days of life protected against chronic disease](https://www.science.org/doi/10.1126/science.adn5421) <br/> 
+<with Tadeja Gracner, Paul Gertler.> *Science* 2024. 
+Featured in: [New York Times](https://www.nytimes.com/2024/10/31/health/sugar-rationing-britain-health-experiment.html), [BBC](https://www.bbc.com/news/articles/c93qlyp42jyo), [Popular Science](https://www.popsci.com/health/sugar-health-risks/), [The Guardian](https://www.theguardian.com/society/2024/oct/31/less-sugar-in-first-1000-days-of-life-protects-against-chronic-disease-study-finds), [Le Monde](https://www.lemonde.fr/planete/article/2024/10/31/alimentation-les-britanniques-nes-apres-la-fin-du-rationnement-de-sucre-en-1953-davantage-sujets-a-des-maladies-chroniques_6369452_3244.html) and 65+ more.
+
+[Value based contracting in clinical care](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2822685) <br/> 
+<small> with Anna Zink, Bill Wright, Ari Robicsek. *JAMA Health Forum* 2024. <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> 
+[Blog](https://blog.providence.org/news/new-data-average-primary-care-physician-faces-meeting-57-different-quality-measures-each-year)
+</small><br/> 
+
+[Artificial Intelligence in Medicare: Utilization, Spending, and Access to AI-enabled Clinical Software](https://www.ajmc.com/view/artificial-intelligence-in-medicare-utilization-spending-and-access-to-ai-enabled-clinical-software)<br/> 
+<small>*The American Journal of Managed Care* 2024. Anna Zink, <u>Claire Boone</u>, Karen Joynt Maddox, Michael Chernew, Hanna Neprash. <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span></small> <br/> 
+<br/> 
+
+[Can a private sector engagement intervention that prioritizes pro-poor strategies improve health care access and quality? A randomized field experiment in Kenya](https://claireboone.github.io/files/Boone_etal_AHME_equity_2023.pdf)<br/>
+<small>*Health Policy and Planning* 2023. <u>C Boone</u>, P Gertler, G Makana Baraka, J Gruber, A Kwan.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> </small>
+<div style="margin-left: 1em;">
+<details>
+<summary>Abstract</summary>
+<small>
+<p>Private sector engagement in health reform has been suggested to help reduce healthcare inequities in sub-Saharan Africa, where populations with the most need seek the least care. We study the effects of African Health Markets for Equity (AHME), a cluster randomized controlled trial carried out in Kenya from 2012-2020 at 199 private health clinics. AHME included four clinic-level interventions: social health insurance, social franchising, SafeCare quality-of-care certification program, and business support. This paper evaluates whether AHME increased the capacity of private health clinics to serve poor clients while maintaining or enhancing the quality of care provided. At endline, clinics that received AHME were 14.5 percentage points (pp) more likely to be empaneled with the National Health Insurance Fund (NHIF), served 51% more NHIF clients, and served more clients from the middle 3 quintiles of the wealth distribution compared to control clinics. Comparing individuals living in households near AHME treatment and control clinics (N=8241), AHME led to a 6.7pp increase in the probability of holding any health insurance on average. We did not find any additional effect of AHME on insurance holding among poor households. We measured quality of care using a standardized patient (SP) experiment (N=596 SP-provider interactions) where recruited and trained SPs were randomized to present as either “not poor”, and able to afford all services provided, or “poor” by telling the provider they could only afford approximately 300 Kenyan Shillings (US$3) in fees. We found that poor SPs received lower levels of both correct and unnecessary services, and AHME did not affect this. More work must be done to ensure clients of all wealth levels receive high quality care.</p>
+</small>
+</details> 
+</div> 
+<br/>
+
 [How scheduling systems with automated appointment reminders improve health clinic efficiency](https://claireboone.github.io/files/Boone_etal.SMS_JHE2022.pdf) <br/>
 <small>*Journal of Health Economics* 2022 and [NBER Working Paper](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf). <u>CE Boone</u>, P Celhay, P Gertler, T Gracner, J Rodriguez.
  <span style="background-color:cadetblue; color:Azure">nudges</span>
@@ -56,30 +81,6 @@ Previously circulated as "Nudging Patients at Scale: Evidence from Text-message 
 </details>  
 </div>  
 <br/> 
-
-   
-## Publications - Health Policy
-[Value based contracting in clinical care](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2822685) <br/> 
-<small> with Anna Zink, Bill Wright, Ari Robicsek. *JAMA Health Forum* 2024. <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> 
-[Blog](https://blog.providence.org/news/new-data-average-primary-care-physician-faces-meeting-57-different-quality-measures-each-year)
-</small><br/> 
-
-[Artificial Intelligence in Medicare: Utilization, Spending, and Access to AI-enabled Clinical Software](https://www.ajmc.com/view/artificial-intelligence-in-medicare-utilization-spending-and-access-to-ai-enabled-clinical-software)<br/> 
-<small>*The American Journal of Managed Care* 2024. Anna Zink, <u>Claire Boone</u>, Karen Joynt Maddox, Michael Chernew, Hanna Neprash. <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span></small> <br/> 
-<br/> 
-
-
-[Can a private sector engagement intervention that prioritizes pro-poor strategies improve health care access and quality? A randomized field experiment in Kenya](https://claireboone.github.io/files/Boone_etal_AHME_equity_2023.pdf)<br/>
-<small>*Health Policy and Planning* 2023. <u>C Boone</u>, P Gertler, G Makana Baraka, J Gruber, A Kwan.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> </small>
-<div style="margin-left: 1em;">
-<details>
-<summary>Abstract</summary>
-<small>
-<p>Private sector engagement in health reform has been suggested to help reduce healthcare inequities in sub-Saharan Africa, where populations with the most need seek the least care. We study the effects of African Health Markets for Equity (AHME), a cluster randomized controlled trial carried out in Kenya from 2012-2020 at 199 private health clinics. AHME included four clinic-level interventions: social health insurance, social franchising, SafeCare quality-of-care certification program, and business support. This paper evaluates whether AHME increased the capacity of private health clinics to serve poor clients while maintaining or enhancing the quality of care provided. At endline, clinics that received AHME were 14.5 percentage points (pp) more likely to be empaneled with the National Health Insurance Fund (NHIF), served 51% more NHIF clients, and served more clients from the middle 3 quintiles of the wealth distribution compared to control clinics. Comparing individuals living in households near AHME treatment and control clinics (N=8241), AHME led to a 6.7pp increase in the probability of holding any health insurance on average. We did not find any additional effect of AHME on insurance holding among poor households. We measured quality of care using a standardized patient (SP) experiment (N=596 SP-provider interactions) where recruited and trained SPs were randomized to present as either “not poor”, and able to afford all services provided, or “poor” by telling the provider they could only afford approximately 300 Kenyan Shillings (US$3) in fees. We found that poor SPs received lower levels of both correct and unnecessary services, and AHME did not affect this. More work must be done to ensure clients of all wealth levels receive high quality care.</p>
-</small>
-</details> 
-</div> 
-<br/>
 
 [Do private providers give patients what they demand, even if it is inappropriate? A randomised study using unannounced standardised patients
 in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <br/>
@@ -157,10 +158,8 @@ in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <
 
 <u>Is Mental Health Undervalued During Pregnancy?</u> <br/>
 <small> With Devin Pope and Carla Colina.   <span style="background-color:cornflowerblue; color:white">clinical decision-making</span></small> <br/> 
-<br/> 
+<br/> Revisions requested at JAMA Network Open.
 
-<u>Restricting Added Sugar in the First 1000 Days Protects Against Chronic Disease</u> <br/>
-<small> With Tadeja Gracner and Paul Gertler. <span style="background-color:olivedrab; color:floralwhite">chronic diseases </span> <br/> 
-Revisions requested at Science </small> 
+
 <br/> 
 
