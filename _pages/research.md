@@ -42,11 +42,11 @@ Previously circulated as "Nudging Patients at Scale: Evidence from Text-message 
 
 ## Publications 
 [Exposure to sugar rationing in the first 1000 days of life protected against chronic disease](https://www.science.org/doi/10.1126/science.adn5421) <br/> 
-<with Tadeja Gracner, Paul Gertler.> *Science* 2024. 
-Featured in: [New York Times](https://www.nytimes.com/2024/10/31/health/sugar-rationing-britain-health-experiment.html), [BBC](https://www.bbc.com/news/articles/c93qlyp42jyo), [Popular Science](https://www.popsci.com/health/sugar-health-risks/), [The Guardian](https://www.theguardian.com/society/2024/oct/31/less-sugar-in-first-1000-days-of-life-protects-against-chronic-disease-study-finds), [Le Monde](https://www.lemonde.fr/planete/article/2024/10/31/alimentation-les-britanniques-nes-apres-la-fin-du-rationnement-de-sucre-en-1953-davantage-sujets-a-des-maladies-chroniques_6369452_3244.html) and 65+ more.
+<small>Tadeja Gracner, <u>Claire Boone</u>, Paul Gertler. *Science* 2024. <br/>
+Featured in: [New York Times](https://www.nytimes.com/2024/10/31/health/sugar-rationing-britain-health-experiment.html), [BBC](https://www.bbc.com/news/articles/c93qlyp42jyo), [Popular Science](https://www.popsci.com/health/sugar-health-risks/), [The Guardian](https://www.theguardian.com/society/2024/oct/31/less-sugar-in-first-1000-days-of-life-protects-against-chronic-disease-study-finds), [Le Monde](https://www.lemonde.fr/planete/article/2024/10/31/alimentation-les-britanniques-nes-apres-la-fin-du-rationnement-de-sucre-en-1953-davantage-sujets-a-des-maladies-chroniques_6369452_3244.html) and 65+ more. </small><br/>
 
 [Value based contracting in clinical care](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2822685) <br/> 
-<small> with Anna Zink, Bill Wright, Ari Robicsek. *JAMA Health Forum* 2024. <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> 
+<small><u>Claire Boone</u>, Anna Zink, Bill Wright, Ari Robicsek. *JAMA Health Forum* 2024. <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> 
 [Blog](https://blog.providence.org/news/new-data-average-primary-care-physician-faces-meeting-57-different-quality-measures-each-year)
 </small><br/> 
 
