@@ -62,7 +62,7 @@ Featured in: [Medical Economics](https://www.medicaleconomics.com/view/value-bas
 
 
 [Artificial Intelligence in Medicare: Utilization, Spending, and Access to AI-enabled Clinical Software](https://www.ajmc.com/view/artificial-intelligence-in-medicare-utilization-spending-and-access-to-ai-enabled-clinical-software)<br/> 
-<small>*The American Journal of Managed Care* 2024. Anna Zink, <u>Claire Boone</u>, Karen Joynt Maddox, Michael Chernew, Hanna Neprash. <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span></small> <br/> 
+<small>*The American Journal of Managed Care* 2024. Anna Zink, <u>Claire Boone</u>, Karen Joynt Maddox, Michael Chernew, Hannah Neprash. <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span></small> <br/> 
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
