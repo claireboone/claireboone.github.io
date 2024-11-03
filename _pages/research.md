@@ -43,8 +43,8 @@ Previously circulated as "Nudging Patients at Scale: Evidence from Text-message 
 ## Publications 
 [Exposure to sugar rationing in the first 1000 days of life protected against chronic disease](https://www.science.org/doi/10.1126/science.adn5421) <br/> 
 <small>Tadeja Gracner, <u>Claire Boone</u>, Paul Gertler. *Science* 2024. <br/>
-Featured in: [The New York Times](https://www.nytimes.com/2024/10/31/health/sugar-rationing-britain-health-experiment.html), [BBC](https://www.bbc.com/news/articles/c93qlyp42jyo), [Popular Science](https://www.popsci.com/health/sugar-health-risks/), [The Guardian](https://www.theguardian.com/society/2024/oct/31/less-sugar-in-first-1000-days-of-life-protects-against-chronic-disease-study-finds), [Le Monde](https://www.lemonde.fr/planete/article/2024/10/31/alimentation-les-britanniques-nes-apres-la-fin-du-rationnement-de-sucre-en-1953-davantage-sujets-a-des-maladies-chroniques_6369452_3244.html), [Nature](https://www.nature.com/articles/d41586-024-03535-7), and [65+ more](https://science.altmetric.com/details/169891190). <br/>
-Ungated version [here](https://sites.google.com/site/tadejagracnerucberkeley/research?pli=1).</small><br/>
+Featured in: [The New York Times](https://www.nytimes.com/2024/10/31/health/sugar-rationing-britain-health-experiment.html), [BBC](https://www.bbc.com/news/articles/c93qlyp42jyo), [Popular Science](https://www.popsci.com/health/sugar-health-risks/), [The Guardian](https://www.theguardian.com/society/2024/oct/31/less-sugar-in-first-1000-days-of-life-protects-against-chronic-disease-study-finds), [Le Monde](https://www.lemonde.fr/planete/article/2024/10/31/alimentation-les-britanniques-nes-apres-la-fin-du-rationnement-de-sucre-en-1953-davantage-sujets-a-des-maladies-chroniques_6369452_3244.html), [Nature](https://www.nature.com/articles/d41586-024-03535-7), and [100+ more](https://science.altmetric.com/details/169891190). <br/>
+Ungated version available on [Tadeja's website](https://sites.google.com/site/tadejagracnerucberkeley/research?pli=1).</small><br/>
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
