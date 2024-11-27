@@ -56,7 +56,7 @@ Ungated version available on [Tadeja's website](https://sites.google.com/site/ta
 <br/>
 
 [Value based contracting in clinical care](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2822685) <br/> 
-<small*JAMA Health Forum* 2024. ><u>Claire Boone</u>, Anna Zink, Bill Wright, Ari Robicsek. <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> 
+<small>*JAMA Health Forum* 2024. <u>Claire Boone</u>, Anna Zink, Bill Wright, Ari Robicsek. <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> 
 Featured in: [Medical Economics](https://www.medicaleconomics.com/view/value-based-payment-contracts-come-with-dozens-of-quality-measures), [Medscape](https://www.medscape.com/viewarticle/primary-care-physicians-track-average-57-quality-measures-2024a1000fqu?form=fpf), [HealthLeaders](https://www.healthleadersmedia.com/cmo/why-primary-care-providers-are-failing-value-based-contracts). [Providence Blog](https://blog.providence.org/news/new-data-average-primary-care-physician-faces-meeting-57-different-quality-measures-each-year). 
 </small><br/><br/>
 
