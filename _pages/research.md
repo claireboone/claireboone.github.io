@@ -42,7 +42,7 @@ Previously circulated as "Nudging Patients at Scale: Evidence from Text-message 
 
 ## Publications 
 [Exposure to sugar rationing in the first 1000 days of life protected against chronic disease](https://www.science.org/doi/10.1126/science.adn5421) <br/> 
-<small>Tadeja Gracner, <u>Claire Boone</u>, Paul Gertler. *Science* 2024. <br/>
+<small>*Science* 2024. Tadeja Gracner, <u>Claire Boone</u>, Paul Gertler. <br/>
 Featured in: [The New York Times](https://www.nytimes.com/2024/10/31/health/sugar-rationing-britain-health-experiment.html), [BBC](https://www.bbc.com/news/articles/c93qlyp42jyo), [Popular Science](https://www.popsci.com/health/sugar-health-risks/), [CNN](https://us.cnn.com/2024/11/04/health/sugar-reduce-disease-diabetes-wellness/index.html), [The Guardian](https://www.theguardian.com/society/2024/oct/31/less-sugar-in-first-1000-days-of-life-protects-against-chronic-disease-study-finds), [CBC Radio Quirks & Quarks](https://www.cbc.ca/radio/quirks/nov-9-new-fishing-technology-could-save-endangered-right-whales-and-more-1.7378034), and [200+ more](https://science.altmetric.com/details/169891190). <br/>
 Ungated version available on [Tadeja's website](https://sites.google.com/site/tadejagracnerucberkeley/research?pli=1).</small><br/>
 <div style="margin-left: 1em;">
@@ -56,7 +56,7 @@ Ungated version available on [Tadeja's website](https://sites.google.com/site/ta
 <br/>
 
 [Value based contracting in clinical care](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2822685) <br/> 
-<small><u>Claire Boone</u>, Anna Zink, Bill Wright, Ari Robicsek. *JAMA Health Forum* 2024. <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> 
+<small><u>*JAMA Health Forum* 2024. Claire Boone</u>, Anna Zink, Bill Wright, Ari Robicsek. <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> 
 Featured in: [Medical Economics](https://www.medicaleconomics.com/view/value-based-payment-contracts-come-with-dozens-of-quality-measures), [Medscape](https://www.medscape.com/viewarticle/primary-care-physicians-track-average-57-quality-measures-2024a1000fqu?form=fpf), [HealthLeaders](https://www.healthleadersmedia.com/cmo/why-primary-care-providers-are-failing-value-based-contracts). [Providence Blog](https://blog.providence.org/news/new-data-average-primary-care-physician-faces-meeting-57-different-quality-measures-each-year). 
 </small><br/><br/>
 
@@ -79,7 +79,7 @@ Featured in: [Medical Economics](https://www.medicaleconomics.com/view/value-bas
 
 
 [Can a private sector engagement intervention that prioritizes pro-poor strategies improve health care access and quality? A randomized field experiment in Kenya](https://claireboone.github.io/files/Boone_etal_AHME_equity_2023.pdf)<br/>
-<small>*Health Policy and Planning* 2023. <u>C Boone</u>, P Gertler, G Makana Baraka, J Gruber, A Kwan.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> </small>
+<small>*Health Policy and Planning* 2023. <u>Claire Boone</u>, Paul Gertler, Grace Makana Baraka, Josh Gruber, Ada Kwan.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> </small>
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
@@ -91,7 +91,7 @@ Featured in: [Medical Economics](https://www.medicaleconomics.com/view/value-bas
 <br/>
 
 [How scheduling systems with automated appointment reminders improve health clinic efficiency](https://claireboone.github.io/files/Boone_etal.SMS_JHE2022.pdf) <br/>
-<small>*Journal of Health Economics* 2022 and [NBER Working Paper](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf). <u>CE Boone</u>, P Celhay, P Gertler, T Gracner, J Rodriguez.
+<small>*Journal of Health Economics* 2022 and [NBER Working Paper](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf). <u>Claire Boone</u>, Pablo Celhay, Paul Gertler, Tadeja Gracner, Josefina Rodriguez.
  <span style="background-color:cadetblue; color:Azure">nudges</span>
  <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
  <span style="background-color:goldenrod; color:white">health services</span>
@@ -108,7 +108,7 @@ Featured in: [Medical Economics](https://www.medicaleconomics.com/view/value-bas
 
 [Do private providers give patients what they demand, even if it is inappropriate? A randomised study using unannounced standardised patients
 in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <br/>
-<small>*BMJ Open* 2022. A Kwan, <u>CE Boone</u>, G Sulis, P Gertler.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
+<small>*BMJ Open* 2022. Ada Kwan, <u>Claire Boone</u>, Giorgia Sulis, Paul Gertler.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
 <span style="background-color:goldenrod; color:white">health services</span><br/></small>
 <div style="margin-left: 1em;">
 <details>
