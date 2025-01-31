@@ -42,7 +42,7 @@ Previously circulated as "Nudging Patients at Scale: Evidence from Text-message 
 
 ## Publications 
 [Antidepressant Use Before, During, and After Pregnancy](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829728?utm_source=twitter&utm_medium=social_jamajno&utm_term=15974908230&utm_campaign=article_alert&linkId=731288245)<br/> 
-<small>*JAMA Network Open* 2025. <u>Claire Boone</u>, Carla Colina, Devin Pope. <br/> 
+<small>*JAMA Network Open* 2025. <u>Claire Boone</u>, Carla Colina, Devin Pope. <br/><br/> 
 
 
 [Exposure to sugar rationing in the first 1000 days of life protected against chronic disease](https://www.science.org/doi/10.1126/science.adn5421) <br/> 
