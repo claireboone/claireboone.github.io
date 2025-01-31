@@ -41,6 +41,10 @@ Previously circulated as "Nudging Patients at Scale: Evidence from Text-message 
 
 
 ## Publications 
+[Antidepressant Use Before, During, and After Pregnancy](https://watermark.silverchair.com/boone_2025_ld_240291_1737643778.79643.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA0wwggNIBgkqhkiG9w0BBwagggM5MIIDNQIBADCCAy4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM_-FKW8q-yUrYj6uqAgEQgIIC_zTxF_v4VOLSnsvQyDw3ButVAyoJ3df1eiixVQCQX7rdxnL9jFnICD4_na096mRynZa_OyA8NXLBCrNaKLkUO59brTpg0pKIpTS9Kzm6Ox89H5aykQtQ4g39SwRJejAOdAp5YpSH6mW2nA-jlOD5OsbMePEINE7TQBz8XOAvJgHf_YIjAAOGp7Sj_leCCuWjIHLZXVreQwhjRu4aPzEKT1hSozy4M7s5l1DqiKfXbJlphyOzsV4sG2c7_7MWO4pqewx1aWDWz0NnFF2MSuJFwjvNm4rMFapKv6Xr9fpWx3uSnTeSuZ-YDLLvdpTu2RnWHN7bMO7WAFXdnksnJUqrGTPTebH7gnFu4zU5hlPM8xKAhs1fGB-KMPUDGQfU-mNmHCZRGsA9M3VwyMX7ou34K6KxREENtFCq3q8Wx6tF9UBmqXYoZXKXTZ825yLXS3kJ5Wka2BRNJny86C9N_G6JPdrEnzpfswbgHOZEUMh2cGushy7tbKz8Uo1k5Mq9Scl9W5ip3j6vKlCRwxWR9Mp2AMv_3KeG2XCBwCOOV5hlZLZhzWDOoz1XosjT3o1mBgRdVbAKNucae292d9RUSLHGFUuYCpzZtNRTvcZthJ5Ec4GNh2RixU-q3-C24wGgejAGs7VpNScl6IavtWpUrz1CFS87ayaq9XO3T3hXGn3is5M0i2LGYiocV8BC25r-COJVuWcvvEGnD6uH1kqdfiBi_tJ3OUZa6XUgrNZ-27L3-_AjTZz3zm_qQ2NFD4CDXcF7R3o7vi8qTRWDOY4FoC8K4mIOC9GiLi_BQiyN8rTmFkM587lSELywgUTi9aw3w2QXFLddI16hQJ8tokcBDLZLsizyVnX-g2andMnRMR32hl3NN6a4rkRr6H9CMYT75JmhlOAQCH5uQWEkT2Sp4Y4S7poM0iI5mORD2bx2wfe0ng1yiIQ9Qitit4P-ETjBTRPQq2booz773k6ajI3TGAQVKqfDfjX3CXHPNYMiTxUh3nYzGRkDe870eJlcjHA-vueo)<br/> 
+<small>*JAMA Network Open* 2025. <u>Claire Boone</u>, Carla Colina, Devin Pope. <br/> 
+
+
 [Exposure to sugar rationing in the first 1000 days of life protected against chronic disease](https://www.science.org/doi/10.1126/science.adn5421) <br/> 
 <small>*Science* 2024. Tadeja Gracner, <u>Claire Boone</u>, Paul Gertler. <br/>
 Featured in: [The New York Times](https://www.nytimes.com/2024/10/31/health/sugar-rationing-britain-health-experiment.html), [BBC](https://www.bbc.com/news/articles/c93qlyp42jyo), [Popular Science](https://www.popsci.com/health/sugar-health-risks/), [CNN](https://us.cnn.com/2024/11/04/health/sugar-reduce-disease-diabetes-wellness/index.html), [The Guardian](https://www.theguardian.com/society/2024/oct/31/less-sugar-in-first-1000-days-of-life-protects-against-chronic-disease-study-finds), [CBC Radio Quirks & Quarks](https://www.cbc.ca/radio/quirks/nov-9-new-fishing-technology-could-save-endangered-right-whales-and-more-1.7378034), and [200+ more](https://science.altmetric.com/details/169891190/news). <br/>
@@ -179,10 +183,6 @@ in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <
 <u>The Impact of Alternative Payment Models on Blood Pressure Reporting</u> <br/>
 <small> With Bill Wright and Ari Robicsek.   <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span></small> <br/> 
 <br/>
-
-<u>Is Mental Health Undervalued During Pregnancy?</u> <br/>
-<small> With Devin Pope and Carla Colina.   <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <br/> 
-Revisions requested at JAMA Network Open.</small><br/>
 
 
 <br/> 
