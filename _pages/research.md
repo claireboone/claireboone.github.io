@@ -7,7 +7,7 @@ author:
 <meta name="description" content="Overview of Claire Boone's research.">
 
 ## Working Papers  
-[Discretion in Clinical Decision Making: Evidence from Bunching](https://claireboone.github.io/files/Boone_Discretion_2023.pdf) (job market paper)<br/> 
+[Discretion in Clinical Decision Making: Evidence from Bunching](https://claireboone.github.io/files/Boone_Discretion_20250210.pdf) (job market paper)<br/> 
 <small> <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
 <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
  <span style="background-color:goldenrod; color:white">health services</span><br>
@@ -17,7 +17,7 @@ author:
 <details>
 <summary>Abstract</summary>
 <small>
-<p>How much should health care providers adhere to clinical guidelines? While recent health policy has focused on increasing adherence, some experts argue that deviations from guidelines can be warranted. To address this question, I examine discretion in one clinical decision: the diagnosis of hypertension, defined as blood pressure ≥140/90 mmHg. Hypertension is the single most important risk factor for cardiovascular disease, and while its clinical guideline is simple, diagnosis can be challenging because blood pressure is a noisy measure of risk and often overstated in clinical settings. Using bunching estimation and electronic health records from over 600,000 patients in Chile I find that providers adjust the blood pressure of up to 62% of patients who test just above the threshold, using their discretion to turn a positive test for hypertension into a negative. This behavioral response leads to a more accurate classification of patients in terms of their cardiovascular risk, as measured by future hospitalizations, but no change in levels of hospitalizations. I find that discretionary decisions are consistent with providers' use of heuristics and private information. These findings emphasize the significance of clinical expertise in the diagnostic process and suggest that policies promoting universal adherence to guidelines may not be optimal given variation in the quality of guidelines.</p>  
+<p>Should healthcare providers strictly adhere to clinical practice guidelines, or is some discretion beneficial? Using bunching estimation and microdata from 619,907 patients in Chile, I examine discretion in the diagnosis of hypertension (blood pressure≥140/90mmHg). I find that up to 62% of patients’ test results expected just above the diagnostic threshold for hypertension are instead reported just below it, suggesting providers use their discretion to consider some patients’ tests false positives. Leveraging variation in bunching across clinics, I show that affected patients have lower cardiovascular risk, suggesting that discretion improves the classification of patients, which is partially driven by heuristic thinking.</p>  
 </small>
 </details> 
 </div> 
