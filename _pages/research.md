@@ -7,7 +7,7 @@ author:
 <meta name="description" content="Overview of Claire Boone's research.">
 
 ## Working Papers  
-[Discretion in Clinical Decision Making: Evidence from Bunching](https://claireboone.github.io/files/Boone_Discretion_20250210.pdf) (job market paper)<br/> 
+[Discretion in Clinical Decision Making: Evidence from Bunching](https://claireboone.github.io/files/Boone_Discretion_20250212.pdf) (job market paper)<br/> 
 <small> <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
 <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
  <span style="background-color:goldenrod; color:white">health services</span><br>
