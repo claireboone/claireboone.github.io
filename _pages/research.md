@@ -42,12 +42,13 @@ Previously circulated as "Nudging Patients at Scale: Evidence from Text-message 
 
 ## Publications 
 [Antidepressant Use Before, During, and After Pregnancy](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829728?utm_source=twitter&utm_medium=social_jamajno&utm_term=15974908230&utm_campaign=article_alert&linkId=731288245)<br/> 
-<small>*JAMA Network Open* 2025. <u>Claire Boone</u>, Carla Colina, Devin Pope. <br/><br/> 
+<small>*JAMA Network Open* 2025. <u>Claire Boone</u>, Carla Colina, Devin Pope. <br/>
+Featured in: [Healio](https://www.healio.com/news/womens-health-ob-gyn/20250203/nearly-half-of-women-using-antidepressants-stopped-treatment-during-pregnancy), [MedScape](https://www.medscape.com/viewarticle/antidepressants-pregnancy-sudden-withdrawal-risky-2025a10004om?src=rss&form=fpf), [Physicians Weekly](https://www.physiciansweekly.com/large-decrease-seen-in-antidepressant-use-during-pregnancy/) and [others](https://jamanetwork.altmetric.com/details/173640056/news).<br/> 
 
 
 [Exposure to sugar rationing in the first 1000 days of life protected against chronic disease](https://www.science.org/doi/10.1126/science.adn5421) <br/> 
 <small>*Science* 2024. Tadeja Gracner, <u>Claire Boone</u>, Paul Gertler. <br/>
-Featured in: [The New York Times](https://www.nytimes.com/2024/10/31/health/sugar-rationing-britain-health-experiment.html), [BBC](https://www.bbc.com/news/articles/c93qlyp42jyo), [Popular Science](https://www.popsci.com/health/sugar-health-risks/), [CNN](https://us.cnn.com/2024/11/04/health/sugar-reduce-disease-diabetes-wellness/index.html), [The Guardian](https://www.theguardian.com/society/2024/oct/31/less-sugar-in-first-1000-days-of-life-protects-against-chronic-disease-study-finds), [CBC Radio Quirks & Quarks](https://www.cbc.ca/radio/quirks/nov-9-new-fishing-technology-could-save-endangered-right-whales-and-more-1.7378034), and [200+ more](https://science.altmetric.com/details/169891190/news). <br/>
+Featured in: [The New York Times](https://www.nytimes.com/2024/10/31/health/sugar-rationing-britain-health-experiment.html), [BBC](https://www.bbc.com/news/articles/c93qlyp42jyo), [Popular Science](https://www.popsci.com/health/sugar-health-risks/), [CNN](https://us.cnn.com/2024/11/04/health/sugar-reduce-disease-diabetes-wellness/index.html), [The Guardian](https://www.theguardian.com/society/2024/oct/31/less-sugar-in-first-1000-days-of-life-protects-against-chronic-disease-study-finds), [CBC Radio Quirks & Quarks](https://www.cbc.ca/radio/quirks/nov-9-new-fishing-technology-could-save-endangered-right-whales-and-more-1.7378034), and [280+ more](https://science.altmetric.com/details/169891190/news). <br/>
 Ungated version available on [Tadeja's website](https://sites.google.com/site/tadejagracnerucberkeley/research?pli=1).</small><br/>
 <div style="margin-left: 1em;">
 <details>
