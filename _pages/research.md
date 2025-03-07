@@ -43,7 +43,7 @@ Previously circulated as "Nudging Patients at Scale: Evidence from Text-message 
 ## Publications 
 [Antidepressant Use Before, During, and After Pregnancy](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829728?utm_source=twitter&utm_medium=social_jamajno&utm_term=15974908230&utm_campaign=article_alert&linkId=731288245)<br/> 
 <small>*JAMA Network Open* 2025. <u>Claire Boone</u>, Carla Colina, Devin Pope. <br/>
-Featured in: [Healio](https://www.healio.com/news/womens-health-ob-gyn/20250203/nearly-half-of-women-using-antidepressants-stopped-treatment-during-pregnancy), [MedScape](https://www.medscape.com/viewarticle/antidepressants-pregnancy-sudden-withdrawal-risky-2025a10004om?src=rss&form=fpf), [Physicians Weekly](https://www.physiciansweekly.com/large-decrease-seen-in-antidepressant-use-during-pregnancy/) and [others](https://jamanetwork.altmetric.com/details/173640056/news).</small><br/><br/> 
+Featured in: [Healio](https://www.healio.com/news/womens-health-ob-gyn/20250203/nearly-half-of-women-using-antidepressants-stopped-treatment-during-pregnancy), [Canadian Healthcare Network](https://canadianhealthcarenetwork.ca/pregnant-women-often-pause-antidepressants-during-pregnancy-and-dont-replace-it-anything), [MedScape](https://www.medscape.com/viewarticle/antidepressants-pregnancy-sudden-withdrawal-risky-2025a10004om?src=rss&form=fpf), [Physicians Weekly](https://www.physiciansweekly.com/large-decrease-seen-in-antidepressant-use-during-pregnancy/) and [others](https://jamanetwork.altmetric.com/details/173640056/news).</small><br/><br/> 
 
 
 [Exposure to sugar rationing in the first 1000 days of life protected against chronic disease](https://www.science.org/doi/10.1126/science.adn5421) <br/> 
