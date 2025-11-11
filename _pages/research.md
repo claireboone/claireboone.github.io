@@ -177,8 +177,13 @@ in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <
 ## Select Work In Progress
 
 <u>Heartspot: Improving Testing for Heart Attack with Artificial Intelligence</u> <br/>
-<small> With Ziad Obermeyer, Jason Abaluck, Leila Agha, and Bill Wright.   <span style="background-color:cornflowerblue; color:white">clinical decision-making</span></small> <br/> 
-<br/>
+<small> With Ziad Obermeyer, Jason Abaluck, Leila Agha, and Bill Wright.<br/>
+
+<u>Early-life sugar restrictions reduce genetic disparities in adult adiposity</u> <br/>
+<small> With Tadeja Gracner, Paul Gertler.<br/>
+
+<u>Health and economic impacts of emergency department disruptions</u> <br/>
+<small> With Niketana Kannan<br/>
 
 
 
