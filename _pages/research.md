@@ -20,15 +20,14 @@ Revise and resubmit, American Economic Journal: Economic Policy. </small> <br/>
 </div> 
 <br/>
 
-<u>Evaluating the consequences of a hypertension management incentive: a difference-in-differences analysis<br/>
-<small> With Ari Robicsek. Under review. 
-<br/>
+<u>Evaluating the consequences of a hypertension management incentive: a difference-in-differences analysis</u> <br/>
+<small> With Ari Robicsek. Under review.</small> <br/>
+
 
 
 ## Publications 
 [Discretion in Clinical Decision Making: Evidence from Bunching](https://claireboone.github.io/files/Boone_Discretion_Accepted.pdf)<br/> 
- Accepted, The Review of Economics and Statistics.
-</small> 
+<small> Accepted, The Review of Economics and Statistics.</small> 
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
