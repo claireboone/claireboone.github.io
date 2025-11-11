@@ -21,7 +21,7 @@ Previously circulated as "Nudging Patients at Scale: Evidence from Text-message 
 <br/>
 
 <u>Evaluating the consequences of a hypertension management incentive: a difference-in-differences analysis<br/>
-<small> With Ari Robicsek. Under review.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span></small> <br/> 
+<small> With Ari Robicsek. Under review. 
 <br/>
 
 
