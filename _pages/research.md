@@ -9,7 +9,7 @@ author:
 ## Working Papers  
 [Encouraging Preventative Care to Manage Chronic Disease at Scale](https://claireboone.github.io/files/Boone_etal_Nudging_2023_NBER.pdf) <br/>
 <small> with Pablo Celhay, Paul Gertler, and Tadeja Gracner.  Previously circulated as "Nudging Patients at Scale: Evidence from Text-message Appointment Reminders"<br/>
-Revise and resubmit, American Economic Journal: Economic Policy. </small> <br/> 
+Revise and resubmit, *American Economic Journal: Economic Policy*. </small> <br/> 
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
@@ -27,7 +27,7 @@ Revise and resubmit, American Economic Journal: Economic Policy. </small> <br/>
 
 ## Publications 
 [Discretion in Clinical Decision Making: Evidence from Bunching](https://claireboone.github.io/files/Boone_Discretion_Accepted.pdf)<br/> 
-<small> Accepted, The Review of Economics and Statistics.</small> 
+<small> Accepted, *The Review of Economics and Statistics*.</small> 
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
@@ -65,7 +65,7 @@ Featured in: [Forbes](https://www.forbes.com/sites/spencerdorn/2025/01/17/ai-thr
 
 
 [Artificial Intelligence in Medicare: Utilization, Spending, and Access to AI-enabled Clinical Software](https://www.ajmc.com/view/artificial-intelligence-in-medicare-utilization-spending-and-access-to-ai-enabled-clinical-software)<br/> 
-<small>*The American Journal of Managed Care* 2024. Anna Zink, <u>Claire Boone</u>, Karen Joynt Maddox, Michael Chernew, Hannah Neprash. <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span></small> <br/> 
+<small>*The American Journal of Managed Care* 2024. Anna Zink, <u>Claire Boone</u>, Karen Joynt Maddox, Michael Chernew, Hannah Neprash. 
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
@@ -82,7 +82,7 @@ Featured in: [Forbes](https://www.forbes.com/sites/spencerdorn/2025/01/17/ai-thr
 
 
 [Can a private sector engagement intervention that prioritizes pro-poor strategies improve health care access and quality? A randomized field experiment in Kenya](https://claireboone.github.io/files/Boone_etal_AHME_equity_2023.pdf)<br/>
-<small>*Health Policy and Planning* 2023. <u>Claire Boone</u>, Paul Gertler, Grace Makana Baraka, Josh Gruber, Ada Kwan.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:goldenrod; color:white">health services</span><br/> </small>
+<small>*Health Policy and Planning* 2023. <u>Claire Boone</u>, Paul Gertler, Grace Makana Baraka, Josh Gruber, Ada Kwan.  
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
@@ -95,9 +95,6 @@ Featured in: [Forbes](https://www.forbes.com/sites/spencerdorn/2025/01/17/ai-thr
 
 [How scheduling systems with automated appointment reminders improve health clinic efficiency](https://claireboone.github.io/files/Boone_etal.SMS_JHE2022.pdf) <br/>
 <small>*Journal of Health Economics* 2022 and [NBER Working Paper](https://claireboone.github.io/files/Boone_Spillovers_NBER_2020.pdf). <u>Claire Boone</u>, Pablo Celhay, Paul Gertler, Tadeja Gracner, Josefina Rodriguez.
- <span style="background-color:cadetblue; color:Azure">nudges</span>
- <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
- <span style="background-color:goldenrod; color:white">health services</span>
 </small>  
 <div style="margin-left: 1em;">
 <details>
@@ -111,8 +108,7 @@ Featured in: [Forbes](https://www.forbes.com/sites/spencerdorn/2025/01/17/ai-thr
 
 [Do private providers give patients what they demand, even if it is inappropriate? A randomised study using unannounced standardised patients
 in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <br/>
-<small>*BMJ Open* 2022. Ada Kwan, <u>Claire Boone</u>, Giorgia Sulis, Paul Gertler.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
-<span style="background-color:goldenrod; color:white">health services</span><br/></small>
+<small>*BMJ Open* 2022. Ada Kwan, <u>Claire Boone</u>, Giorgia Sulis, Paul Gertler.  
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
@@ -126,7 +122,7 @@ in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <
 
 
 [StayWell at Home: A Text Messaging Intervention to Counteract Depression and Anxiety during COVID-19 Social Distancing](https://claireboone.github.io/files/CBoone_StayWell_JMIR2021.pdf)<br/> 
-<small>*JMIR Mental Health* 2021. [Protocol](https://www.researchprotocols.org/2021/1/e23592). A Aguilera,  R Hernandez-Ramos,  A Haro,  <u>CE Boone</u>,  T Luo,  J Xu,  B Chakraborty,  C Karr,  S Darrow,  CA Figueroa.   <span style="background-color:cadetblue; color:Azure">nudges</span> </small><br/> 
+<small>*JMIR Mental Health* 2021. [Protocol](https://www.researchprotocols.org/2021/1/e23592). A Aguilera,  R Hernandez-Ramos,  A Haro,  <u>CE Boone</u>,  T Luo,  J Xu,  B Chakraborty,  C Karr,  S Darrow,  CA Figueroa.   
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
