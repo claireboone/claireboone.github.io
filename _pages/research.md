@@ -7,27 +7,8 @@ author:
 <meta name="description" content="Overview of Claire Boone's research.">
 
 ## Working Papers  
-[Discretion in Clinical Decision Making: Evidence from Bunching](https://claireboone.github.io/files/Boone_Discretion_20250407.pdf) (job market paper)<br/> 
-<small> <span style="background-color:cornflowerblue; color:white">clinical decision-making</span>
-<span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
- <span style="background-color:goldenrod; color:white">health services</span><br>
- Revisions requested at The Review of Economics and Statistics (under review).
-</small> 
-<div style="margin-left: 1em;">
-<details>
-<summary>Abstract</summary>
-<small>
-<p>Should healthcare providers strictly adhere to clinical practice guidelines, or is some discretion beneficial? Using bunching estimation and microdata from 619,907 patients in Chile, I examine discretion in the diagnosis of hypertension (blood pressure≥140/90mmHg). I find that up to 62% of patients’ test results expected just above the diagnostic threshold for hypertension are instead reported just below it, suggesting providers use their discretion to consider some patients’ tests false positives. Leveraging variation in bunching across clinics, I show that affected patients have lower cardiovascular risk, suggesting that discretion improves the classification of patients, which is partially driven by heuristic thinking.</p>  
-</small>
-</details> 
-</div> 
-<br/>
-
-
 [Encouraging Preventative Care to Manage Chronic Disease at Scale](https://claireboone.github.io/files/Boone_etal_Nudging_2023_NBER.pdf) <br/>
-<small> with Pablo Celhay, Paul Gertler, and Tadeja Gracner.  <span style="background-color:cadetblue; color:Azure">nudges</span>
- <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span>
- <span style="background-color:goldenrod; color:white">health services</span><br>
+<small> with Pablo Celhay, Paul Gertler, and Tadeja Gracner.  Revise and resubmit, American Economic Journal: Economic Policy.
 Previously circulated as "Nudging Patients at Scale: Evidence from Text-message Appointment Reminders"</small> 
 <div style="margin-left: 1em;">
 <details>
@@ -39,8 +20,26 @@ Previously circulated as "Nudging Patients at Scale: Evidence from Text-message 
 </div> 
 <br/>
 
+<u>Evaluating the consequences of a hypertension management incentive: a difference-in-differences analysis<br/>
+<small> With Ari Robicsek. Under review.  <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span></small> <br/> 
+<br/>
+
 
 ## Publications 
+[Discretion in Clinical Decision Making: Evidence from Bunching](https://claireboone.github.io/files/Boone_Discretion_Accepted.pdf)<br/> 
+ Accepted, The Review of Economics and Statistics.
+</small> 
+<div style="margin-left: 1em;">
+<details>
+<summary>Abstract</summary>
+<small>
+<p>Should healthcare providers strictly adhere to clinical guidelines, or is some discretion beneficial? Using bunching estimation and microdata from 619,907 patients in Chile, I examine discretion in the diagnosis of hypertension (blood pressure≥140/90mmHg). I find bunching in blood pressure at 10% of clinics, where 6 to 62% of patients’ test results expected just above the hypertension diagnostic threshold are instead recorded just below it, suggesting providers use their discretion to consider some tests false positives. Leveraging variation in bunching across clinics, I show that affected patients have lower cardiovascular risk, suggesting discretion improves patient classification, partially driven by heuristic thinking.</p>  
+</small>
+</details> 
+</div> 
+<br/>
+
+
 [Antidepressant Use Before, During, and After Pregnancy](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829728?utm_source=twitter&utm_medium=social_jamajno&utm_term=15974908230&utm_campaign=article_alert&linkId=731288245)<br/> 
 <small>*JAMA Network Open* 2025. <u>Claire Boone</u>, Carla Colina, Devin Pope. <br/>
 Featured in: [The New York Times](https://www.nytimes.com/2025/07/30/opinion/fda-pregnancy-antidepressants-prozac.html?searchResultPosition=1), [Chicago Booth Review](https://www.chicagobooth.edu/review/pregnant-women-may-not-be-getting-depression-care-they-need?source=bsky), [Healio](https://www.healio.com/news/womens-health-ob-gyn/20250203/nearly-half-of-women-using-antidepressants-stopped-treatment-during-pregnancy), [Canadian Healthcare Network](https://canadianhealthcarenetwork.ca/pregnant-women-often-pause-antidepressants-during-pregnancy-and-dont-replace-it-anything), [MedScape](https://www.medscape.com/viewarticle/antidepressants-pregnancy-sudden-withdrawal-risky-2025a10004om?src=rss&form=fpf) and [others](https://jamanetwork.altmetric.com/details/173640056/news).</small><br/><br/> 
@@ -181,10 +180,5 @@ in Kenya](https://claireboone.github.io/files/Kwan_etal_Demanding_BMJ2022.pdf) <
 <small> With Ziad Obermeyer, Jason Abaluck, Leila Agha, and Bill Wright.   <span style="background-color:cornflowerblue; color:white">clinical decision-making</span></small> <br/> 
 <br/>
 
-<u>The Impact of Alternative Payment Models on Blood Pressure Reporting</u> <br/>
-<small> With Bill Wright and Ari Robicsek.   <span style="background-color:cornflowerblue; color:white">clinical decision-making</span> <span style="background-color:olivedrab; color:floralwhite">chronic diseases</span></small> <br/> 
-<br/>
 
-
-<br/> 
 
