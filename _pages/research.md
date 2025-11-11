@@ -8,8 +8,8 @@ author:
 
 ## Working Papers  
 [Encouraging Preventative Care to Manage Chronic Disease at Scale](https://claireboone.github.io/files/Boone_etal_Nudging_2023_NBER.pdf) <br/>
-<small> with Pablo Celhay, Paul Gertler, and Tadeja Gracner.  Revise and resubmit, American Economic Journal: Economic Policy.
-Previously circulated as "Nudging Patients at Scale: Evidence from Text-message Appointment Reminders"</small> 
+<small> with Pablo Celhay, Paul Gertler, and Tadeja Gracner.  Previously circulated as "Nudging Patients at Scale: Evidence from Text-message Appointment Reminders"<br/>
+Revise and resubmit, American Economic Journal: Economic Policy. </small> <br/> 
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
