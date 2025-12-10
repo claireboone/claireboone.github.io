@@ -21,7 +21,7 @@ Revise and resubmit, *American Economic Journal: Economic Policy*. </small> <br/
 <br/>
 
 <u>Evaluating the consequences of a hypertension management incentive: a difference-in-differences analysis</u> <br/>
-<small> With Ari Robicsek. Under review.</small> <br/>
+<small> With Ari Robicsek. Revise and resubmit, *JAMA Internal Medicine*. </small> <br/> 
 
 
 
