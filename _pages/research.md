@@ -26,8 +26,9 @@ Revise and resubmit, *American Economic Journal: Economic Policy*. </small> <br/
 
 
 ## Publications 
-[Discretion in Clinical Decision Making: Evidence from Bunching](https://claireboone.github.io/files/Boone_Discretion_Accepted.pdf)<br/> 
-<small> Accepted, *The Review of Economics and Statistics*.</small> 
+[Discretion in Clinical Decision Making: Evidence from Bunching](https://direct.mit.edu/rest/article-abstract/doi/10.1162/REST.a.1686/134629/Discretion-in-Clinical-Decision-Making-Evidence?redirectedFrom=fulltext).<br/> 
+<small> *The Review of Economics and Statistics* 2025.<br/> 
+[working paper](https://claireboone.github.io/files/Boone_Discretion_Accepted.pdf)</small><br/> 
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
