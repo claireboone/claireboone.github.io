@@ -28,7 +28,7 @@ Revise and resubmit, *American Economic Journal: Economic Policy*. </small> <br/
 ## Publications 
 [Discretion in Clinical Decision Making: Evidence from Bunching](https://direct.mit.edu/rest/article-abstract/doi/10.1162/REST.a.1686/134629/Discretion-in-Clinical-Decision-Making-Evidence?redirectedFrom=fulltext).<br/> 
 <small> *The Review of Economics and Statistics* 2025.<br/> 
-[working paper](https://claireboone.github.io/files/Boone_Discretion_Accepted.pdf)</small><br/> 
+Ungated version available [here](https://claireboone.github.io/files/Boone_Discretion_Accepted.pdf)</small><br/> 
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
@@ -48,7 +48,7 @@ Media: [The New York Times](https://www.nytimes.com/2025/07/30/opinion/fda-pregn
 [Exposure to sugar rationing in the first 1000 days of life protected against chronic disease](https://www.science.org/doi/10.1126/science.adn5421) <br/> 
 <small>*Science* 2024. Tadeja Gracner, <u>Claire Boone</u>, Paul Gertler. <br/>
 Media: [The New York Times](https://www.nytimes.com/2024/10/31/health/sugar-rationing-britain-health-experiment.html), [BBC](https://www.bbc.com/news/articles/c93qlyp42jyo), [Popular Science](https://www.popsci.com/health/sugar-health-risks/), [CNN](https://us.cnn.com/2024/11/04/health/sugar-reduce-disease-diabetes-wellness/index.html), [National Geographic](https://www.nationalgeographic.com/science/article/excess-sugar-health-effects-children), [CBC Radio](https://www.cbc.ca/radio/quirks/nov-9-new-fishing-technology-could-save-endangered-right-whales-and-more-1.7378034), and [280+ more](https://science.altmetric.com/details/169891190/news). <br/>
-Ungated version available on [Tadeja's website](https://sites.google.com/site/tadejagracnerucberkeley/research?pli=1).</small><br/>
+Ungated version available [here](https://sites.google.com/site/tadejagracnerucberkeley/research?pli=1).</small><br/>
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
