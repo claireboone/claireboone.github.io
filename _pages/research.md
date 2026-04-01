@@ -29,9 +29,6 @@ early-life interventions to reduce genetically determined health inequalities.</
 <br/>
 
 
-<u>Evaluating the consequences of a hypertension management incentive: a difference-in-differences analysis</u> <br/>
-<small> With Ari Robicsek. Accepted, *JAMA Internal Medicine*. </small> <br/> 
-
 [Encouraging Preventative Care to Manage Chronic Disease at Scale](https://claireboone.github.io/files/Boone_etal_Nudging_2023_NBER.pdf) <br/>
 <small> with Pablo Celhay, Paul Gertler, and Tadeja Gracner.  Previously circulated as "Nudging Patients at Scale: Evidence from Text-message Appointment Reminders"<br/>
 Revise and resubmit, *American Economic Journal: Economic Policy*. </small> <br/> 
@@ -48,6 +45,10 @@ Revise and resubmit, *American Economic Journal: Economic Policy*. </small> <br/
 
 
 ## Publications 
+<u>Evaluating the consequences of a hypertension management incentive: a difference-in-differences analysis</u> <br/>
+<small> with Ari Robicsek. Accepted, *JAMA Internal Medicine*. </small> <br/> 
+
+
 [Discretion in Clinical Decision Making: Evidence from Bunching](https://direct.mit.edu/rest/article-abstract/doi/10.1162/REST.a.1686/134629/Discretion-in-Clinical-Decision-Making-Evidence?redirectedFrom=fulltext).<br/> 
 <small> *The Review of Economics and Statistics* 2025. Claire Boone. <br/> 
 [Ungated version](https://claireboone.github.io/files/Boone_Discretion_Accepted.pdf)</small><br/> 
