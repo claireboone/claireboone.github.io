@@ -7,6 +7,31 @@ author:
 <meta name="description" content="Overview of Claire Boone's research.">
 
 ## Working Papers  
+[Early-Life Sugar Restrictions Reduce Genetic Disparities in Adult Adiposity](https://www.nber.org/system/files/working_papers/w35005/w35005.pdf) <br/>
+<small> with Tadeja Gracner, Patrick Turley, and Paul Gertler. <br/>
+<div style="margin-left: 1em;">
+<details>
+<summary>Abstract</summary>
+<small>
+<p>Genetics confer 2–3-fold higher obesity risk through inherited mechanisms affecting appetite and
+metabolism, with pathways particularly modifiable during the first 1,000 days of life. We leverage
+the end of UK sugar rationing in September 1953, a sharp discontinuity in early-life sugar exposure
+by conception date, to examine whether sugar restriction mitigates genetically determined obesity
+risk using UK Biobank data linking an obesity polygenic index with adiposity phenotypes. Without
+rationing, high genetic risk individuals had triple the obesity prevalence of low-risk counterparts.
+Restriction through age two narrowed this disparity by 40%, operating through visceral rather than
+general adiposity, and was concentrated among high-risk adults with above-median adiposity
+levels. Early nutritional environments can alter inherited obesity trajectories, pointing to targeted
+early-life interventions to reduce genetically determined health inequalities.</p>  
+</small>
+</details> 
+</div> 
+<br/>
+
+
+<u>Evaluating the consequences of a hypertension management incentive: a difference-in-differences analysis</u> <br/>
+<small> With Ari Robicsek. Accepted, *JAMA Internal Medicine*. </small> <br/> 
+
 [Encouraging Preventative Care to Manage Chronic Disease at Scale](https://claireboone.github.io/files/Boone_etal_Nudging_2023_NBER.pdf) <br/>
 <small> with Pablo Celhay, Paul Gertler, and Tadeja Gracner.  Previously circulated as "Nudging Patients at Scale: Evidence from Text-message Appointment Reminders"<br/>
 Revise and resubmit, *American Economic Journal: Economic Policy*. </small> <br/> 
@@ -19,9 +44,6 @@ Revise and resubmit, *American Economic Journal: Economic Policy*. </small> <br/
 </details> 
 </div> 
 <br/>
-
-<u>Evaluating the consequences of a hypertension management incentive: a difference-in-differences analysis</u> <br/>
-<small> With Ari Robicsek. Revise and resubmit, *JAMA Internal Medicine*. </small> <br/> 
 
 
 
