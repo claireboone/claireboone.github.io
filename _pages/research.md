@@ -46,8 +46,7 @@ Revise and resubmit, *American Economic Journal: Economic Policy*. </small> <br/
 
 ## Publications 
 <u>Evaluating the consequences of a hypertension management incentive: a difference-in-differences analysis</u> <br/>
-<small> with Ari Robicsek. Accepted, *JAMA Internal Medicine*. </small> <br/> 
-
+<small> Accepted, *JAMA Internal Medicine*. <u>Claire Boone</u>, Ari Robicsek. </small> <br/> 
 
 [Discretion in Clinical Decision Making: Evidence from Bunching](https://direct.mit.edu/rest/article-abstract/doi/10.1162/REST.a.1686/134629/Discretion-in-Clinical-Decision-Making-Evidence?redirectedFrom=fulltext).<br/> 
 <small> *The Review of Economics and Statistics* 2025. Claire Boone. <br/> 
